@@ -1,0 +1,126 @@
+<Envelope xmlns="http://schemas.xmlsoap.org/soap/envelope/">
+		<Body>
+		<serve xmlns="http://schemas.cordys.com/gateway/Provider">
+		<SessionDoc><Session>
+      <SessionData>
+        <Index>2</Index>
+        <InitTime>Fri, 20 Dec 2019 04:52:31</InitTime>
+        <UserName>havaMtr</UserName>
+        <Password>b4SQh1ZMgm6+urb/Vpd2JI88F6YiY9P/Nha/UtxxL5bI5QzYKTXcYY8XIy7FhY0lOP/B2vEePttRNGl0jh31yQ==</Password>
+        <OrderNo>VDMZ032074</OrderNo>
+        <QuoteNo>QRN201912200018510</QuoteNo>
+        <Route>INT</Route>
+        <Contract>MTR</Contract>
+        <Channel>qrMtr</Channel>
+        <TransactionType>Quote</TransactionType>
+        <TransactionStatus>Fresh</TransactionStatus>
+        <ID>151073242054517038782981</ID>
+        <UserAgentID>11008704</UserAgentID>
+        <Source>81001336</Source>
+      </SessionData>
+      <tns:Vehicle xmlns:tns="http://schemas.cordys.com/bagi/b2c/emotor/2.0">
+        <tns:TypeOfBusiness>TR</tns:TypeOfBusiness>
+        <tns:AccessoryInsured>N</tns:AccessoryInsured>
+        <tns:AccessoryValue>0</tns:AccessoryValue>
+        <tns:NonElecAccessoryInsured>N</tns:NonElecAccessoryInsured>
+        <tns:BiFuelKit>
+          <tns:IsBiFuelKit>N</tns:IsBiFuelKit>
+          <tns:BiFuelKitValue>0</tns:BiFuelKitValue>
+          <tns:ExternallyFitted>0</tns:ExternallyFitted>
+        </tns:BiFuelKit>
+        <DateOfRegistration>2017-10-09T00:00:00</DateOfRegistration>
+        <DateOfManufacture>2017-01-01T00:00:00</DateOfManufacture>
+        <tns:RiskType>FTW</tns:RiskType>
+        <tns:Make>TVS</tns:Make>
+        <tns:Model>JUPITER</tns:Model>
+        <tns:FuelType>P</tns:FuelType>
+        <tns:Variant>ZX BSIV DISC</tns:Variant>
+        <tns:IDV>39088</tns:IDV>
+        <tns:VehicleAge>2</tns:VehicleAge>
+        <tns:CC>110</tns:CC>
+        <tns:PlaceOfRegistration>RANGAREDDY / Uppal Kalan / Ibrahimpatnam</tns:PlaceOfRegistration>
+        <tns:SeatingCapacity>2</tns:SeatingCapacity>
+        <tns:ExShowroomPrice>49857</tns:ExShowroomPrice>
+        <tns:EngineNo>EG4KH1523309</tns:EngineNo>
+        <tns:ChasisNo>MD626EG44H1K47887</tns:ChasisNo>
+        <tns:DriveExperiance>19</tns:DriveExperiance>
+        <tns:PaidDriver>False</tns:PaidDriver>
+        <tns:RegistrationNo>ts08fn2550</tns:RegistrationNo>
+      </tns:Vehicle>
+      <tns:Quote xmlns:tns="http://schemas.cordys.com/bagi/b2c/emotor/2.0">
+        <tns:ExistingPolicy>
+          <tns:Claims>0</tns:Claims>
+          <tns:PolicyType>Comprehensive</tns:PolicyType>
+          <tns:EndDate>2019-12-20T00:00:00.000</tns:EndDate>
+          <tns:NCB>0</tns:NCB>
+          <tns:PolicyNo>0</tns:PolicyNo>
+          <tns:InsuranceCompany>0</tns:InsuranceCompany>
+        </tns:ExistingPolicy>
+        <tns:PolicyStartDate>2019-12-22T00:00:00.000</tns:PolicyStartDate>
+        <tns:Deductible>0</tns:Deductible>
+        <tns:PAFamilySI>0</tns:PAFamilySI>
+        <tns:Premium>
+          <tns:Discount />
+        </tns:Premium>
+        <tns:SelectedCovers>
+          <tns:CarDamageSelected>True</tns:CarDamageSelected>
+          <tns:TPLiabilitySelected>True</tns:TPLiabilitySelected>
+          <tns:PADriverSelected>false</tns:PADriverSelected>
+          <tns:ZeroDepriciationSelected>False</tns:ZeroDepriciationSelected>
+          <tns:PAFamilyPremiumSelected>False</tns:PAFamilyPremiumSelected>
+          <tns:RoadsideAssistanceSelected>False</tns:RoadsideAssistanceSelected>
+          <tns:InvoicePriceSelected>False</tns:InvoicePriceSelected>
+          <tns:InvoicePriceCoverAmount />
+          <tns:HospitalCashSelected>False</tns:HospitalCashSelected>
+          <tns:MedicalExpensesSelected>False</tns:MedicalExpensesSelected>
+          <tns:AmbulanceChargesSelected>False</tns:AmbulanceChargesSelected>
+          <tns:CosumableCoverSelected>False</tns:CosumableCoverSelected>
+          <tns:HydrostaticLockSelected>False</tns:HydrostaticLockSelected>
+          <tns:KeyReplacementSelected>False</tns:KeyReplacementSelected>
+          <tns:NoClaimBonusSameSlabSelected>False</tns:NoClaimBonusSameSlabSelected>
+          <tns:EngineGearBoxProtectionSelected>False</tns:EngineGearBoxProtectionSelected>
+        </tns:SelectedCovers>
+        <tns:PolicyEndDate>2020-12-21T23:59:59.000</tns:PolicyEndDate><tns:IsExistingPA>false</tns:IsExistingPA><tns:PADeclaration>NO</tns:PADeclaration>
+      </tns:Quote>
+      <tns:POSP xmlns:tns="http://schemas.cordys.com/bagi/b2c/emotor/2.0">
+        <tns:PospFlag>N</tns:PospFlag>
+        <tns:PospName />
+        <tns:PospContactNo />
+        <tns:PanNo />
+        <tns:AadharNo />
+      </tns:POSP>
+      <tns:Client xmlns:tns="http://schemas.cordys.com/bagi/b2c/emotor/2.0">
+        <tns:ClientType>Individual</tns:ClientType>
+        <tns:FinancierDetails>
+          <tns:IsFinanced>0</tns:IsFinanced>
+        </tns:FinancierDetails>
+        <tns:CltDOB>19910609</tns:CltDOB>
+        <tns:Salut>MR</tns:Salut>
+        <tns:GivName>ALLAKA D S L -1576817551</tns:GivName>
+        <tns:ClientExtraTag01>Telangana</tns:ClientExtraTag01>
+        <tns:CityOfResidence>RANGAREDDY / Uppal Kalan / Ibrahimpatnam</tns:CityOfResidence>
+        <tns:EmailID>SURYAKANTH1919@GMAIL.COM</tns:EmailID>
+        <tns:MobileNo>9010734744</tns:MobileNo>
+        <tns:SurName>PAILWAN</tns:SurName>
+        <tns:CltSex>M</tns:CltSex>
+        <tns:Marryd>M</tns:Marryd>
+        <tns:Occupation>0007</tns:Occupation>
+        <tns:CltAddr01>NEARWATERTANK</tns:CltAddr01>
+        <tns:CltAddr02>S/OMANIKYAMDRNO18-10-25</tns:CltAddr02>
+        <tns:CltAddr03>GANDHINAGARSAMALKOT</tns:CltAddr03>
+        <tns:City>EAST GODAVARI</tns:City>
+        <tns:State>ANDHRA PRADESH</tns:State>
+        <tns:PinCode>533440</tns:PinCode>
+        <tns:Nominee>
+          <tns:Name>PRASHANTHI </tns:Name>
+          <tns:Age>25</tns:Age>
+          <tns:Relationship>Spouse</tns:Relationship>
+        </tns:Nominee>
+        <tns:RegistrationZone>B</tns:RegistrationZone>
+		<IsDrviningLicencePresent>Y</IsDrviningLicencePresent>
+        <tns:GstinNo />
+      </tns:Client>
+    </Session></SessionDoc>
+		</serve>
+		</Body>
+		</Envelope>

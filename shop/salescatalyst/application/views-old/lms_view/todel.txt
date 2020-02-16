@@ -1,0 +1,65 @@
+    <input type="hidden" id="lms_edit_product_id" name="lms_edit_product_id" class="form-control input-sm" ng-model="lms_edit_product_id" />
+	
+	
+	<input type="hidden" id="lms_edit_proposal_id" name="lms_edit_proposal_id" class="form-control input-sm" ng-model="lms_edit_proposal_id" />
+    <input type="hidden" id="lms_edit_nominee_id" name="lms_edit_nominee_id" class="form-control input-sm" ng-model="lms_edit_nominee_id" /> 
+	
+	
+	
+	"lms_edit_product_id": $scope.lms_edit_product_id,
+	
+	
+	"lms_edit_proposal_id": $scope.lms_edit_proposal_id,
+    "lms_edit_nominee_id": $scope.lms_edit_nominee_id,
+	
+	
+		$lmsEditProductId =  $this->input->get_post('lms_edit_product_id');
+		$productId = $this->Lms_car_model->updateDataCommon($productUpdateData,'tbl_product','product_id',$lmsEditProductId);
+		
+		
+		$lmsEditProposalId =  $this->input->get_post('lms_edit_proposal_id');
+		$this->Lms_car_model->updateDataCommon($proposalUpdateData,'tbl_propsal','propsal_id',$lmsEditProposalId);
+			
+			
+			
+		$lmsEditNomineeId =  $this->input->get_post('lms_edit_nominee_id');
+		$this->Lms_car_model->updateDataCommon($proposalUpdateData,'tbl_nominee','nominee_id',$lmsEditNomineeId);
+		
+		
+		$statusData = array(
+			'lead_status'=>"Lead Open",
+			'lead_re_status' => "Regenerated",
+		);
+		$lead_id = $this->session->userdata('lmsEditLeadId');
+	   	$this->Lms_car_model->updateDataCommon($statusData,'tbl_lead','lead_id',$lead_id);	
+		
+		
+		
+		<input type="hidden" id="lms_edit_family_doctor_id" name="lms_edit_family_doctor_id" class="form-control input-sm" ng-model="lms_edit_family_doctor_id" />
+		
+edit_lms_super_ship
+
+
+
+
+
+
+
+
+if(response.data[0]['travel_pro_present_india'] == 'Yes') { $("#uniform-tvl_pro_present_india_yes span").addClass("checked", true);} else {$("#uniform-tvl_pro_present_india_no span").addClass("checked", true);}
+if(response.data[0]['travel_pro_vaild_passport'] == 'Yes') { $("#uniform-tvl_pro_vaild_passport_yes span").addClass("checked", true);} else {$("#uniform-tvl_pro_vaild_passport_no span").addClass("checked", true);}
+
+        $scope.tvl_pro_national = response.data[0]['travel_pro_national'];
+        $scope.tvl_pro_passport_no = response.data[0]['travel_pro_passport_no'];
+
+            //      // Options
+            //     "tvl_pro_prosemi": $scope.tvl_pro_prosemi,
+            //     "tvl_pro_engage": $scope.tvl_pro_engage,
+            //     "tvl_pro_illness": $scope.tvl_pro_illness,
+              
+                
+            $scope.tvl_pro_nname = response.data[0]['nominee_name'];
+            $scope.tvl_pro_nomie_age = response.data[0]['nominee_age'];
+            $scope.tvl_pro_nomie_relation = response.data[0]['nominee_relationship'];
+            $scope.tvl_pro_nameofappoint = response.data[0]['appointee_name'];
+            $scope.tvl_pro_appoint_relation = response.data[0]['appointee_relationship'];

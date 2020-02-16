@@ -1,0 +1,10050 @@
+[
+	{
+		"RTA_CODE": "AN01 ",
+		"STATE": "ANDAMAN and NICOBAR",
+		"RTA_LOC_NAME": "Port Blair",
+		"LOC_LONG_DESC": "PORT BLAIR",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "AN02 ",
+		"STATE": "ANDAMAN and NICOBAR",
+		"RTA_LOC_NAME": "Nicobar",
+		"LOC_LONG_DESC": "NICOBAR",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "AP01 ",
+		"STATE": "ANDHRA PRADESH",
+		"RTA_LOC_NAME": "Adilabad",
+		"LOC_LONG_DESC": "ADILABAD",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "AP02 ",
+		"STATE": "ANDHRA PRADESH",
+		"RTA_LOC_NAME": "Anantapur",
+		"LOC_LONG_DESC": "ANANTAPUR",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "AP03 ",
+		"STATE": "ANDHRA PRADESH",
+		"RTA_LOC_NAME": "CHITTOOR",
+		"LOC_LONG_DESC": "TIRUPATHI",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "AP04 ",
+		"STATE": "ANDHRA PRADESH",
+		"RTA_LOC_NAME": "Kadapa",
+		"LOC_LONG_DESC": "KADAPA",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "AP05 ",
+		"STATE": "ANDHRA PRADESH",
+		"RTA_LOC_NAME": "EAST GODAVARI",
+		"LOC_LONG_DESC": "EAST GODAVARI",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "AP06 ",
+		"STATE": "ANDHRA PRADESH",
+		"RTA_LOC_NAME": "Kakinada",
+		"LOC_LONG_DESC": "KAKINADA",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "AP07 ",
+		"STATE": "ANDHRA PRADESH",
+		"RTA_LOC_NAME": "Guntur",
+		"LOC_LONG_DESC": "GUNTUR",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "AP08 ",
+		"STATE": "ANDHRA PRADESH",
+		"RTA_LOC_NAME": "Khairatabad",
+		"LOC_LONG_DESC": "KHAIRATABAD RTO",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "AP09 ",
+		"STATE": "ANDHRA PRADESH",
+		"RTA_LOC_NAME": "Hyderabad",
+		"LOC_LONG_DESC": "HYDERABAD",
+		"PV": "A",
+		"TW": "A"
+	},
+	{
+		"RTA_CODE": "AP10 ",
+		"STATE": "ANDHRA PRADESH",
+		"RTA_LOC_NAME": "Secunderabad",
+		"LOC_LONG_DESC": "SECUNDERABAD",
+		"PV": "A",
+		"TW": "A"
+	},
+	{
+		"RTA_CODE": "AP11 ",
+		"STATE": "ANDHRA PRADESH",
+		"RTA_LOC_NAME": "Malakpet",
+		"LOC_LONG_DESC": "MALAKPET",
+		"PV": "A",
+		"TW": "A"
+	},
+	{
+		"RTA_CODE": "AP12 ",
+		"STATE": "ANDHRA PRADESH",
+		"RTA_LOC_NAME": "Bahadurpura",
+		"LOC_LONG_DESC": "BAHADURPURA",
+		"PV": "A",
+		"TW": "A"
+	},
+	{
+		"RTA_CODE": "AP13 ",
+		"STATE": "ANDHRA PRADESH",
+		"RTA_LOC_NAME": "Mehdipatnam",
+		"LOC_LONG_DESC": "MEHDIPATNAM",
+		"PV": "A",
+		"TW": "A"
+	},
+	{
+		"RTA_CODE": "AP14 ",
+		"STATE": "ANDHRA PRADESH",
+		"RTA_LOC_NAME": "Karimnagar",
+		"LOC_LONG_DESC": "KARIMNAGAR",
+		"PV": "A",
+		"TW": "A"
+	},
+	{
+		"RTA_CODE": "AP15 ",
+		"STATE": "ANDHRA PRADESH",
+		"RTA_LOC_NAME": "Karimnagar",
+		"LOC_LONG_DESC": "KARIMNAGAR",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "AP16 ",
+		"STATE": "ANDHRA PRADESH",
+		"RTA_LOC_NAME": "KRISHNA",
+		"LOC_LONG_DESC": "KRISHNA",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "AP17 ",
+		"STATE": "ANDHRA PRADESH",
+		"RTA_LOC_NAME": "Vijayawada 2",
+		"LOC_LONG_DESC": "VIJAYAWADA 2",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "AP18 ",
+		"STATE": "ANDHRA PRADESH",
+		"RTA_LOC_NAME": "Vijayawada",
+		"LOC_LONG_DESC": "VIJAYAWADA",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "AP19 ",
+		"STATE": "ANDHRA PRADESH",
+		"RTA_LOC_NAME": "GUDIVADA",
+		"LOC_LONG_DESC": "GUDIVADA",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "AP20 ",
+		"STATE": "ANDHRA PRADESH",
+		"RTA_LOC_NAME": "Khammam",
+		"LOC_LONG_DESC": "KHAMMAM",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "AP21 ",
+		"STATE": "ANDHRA PRADESH",
+		"RTA_LOC_NAME": "Kurnool",
+		"LOC_LONG_DESC": "KURNOOL",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "AP22 ",
+		"STATE": "ANDHRA PRADESH",
+		"RTA_LOC_NAME": "Mahaboobnagar",
+		"LOC_LONG_DESC": "MAHABOOBNAGAR",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "AP23 ",
+		"STATE": "ANDHRA PRADESH",
+		"RTA_LOC_NAME": "Sangareddy",
+		"LOC_LONG_DESC": "SANGAREDDY",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "AP24 ",
+		"STATE": "ANDHRA PRADESH",
+		"RTA_LOC_NAME": "Nalgonda",
+		"LOC_LONG_DESC": "NALGONDA",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "AP25 ",
+		"STATE": "ANDHRA PRADESH",
+		"RTA_LOC_NAME": "Nizamabad",
+		"LOC_LONG_DESC": "NIZAMABAD",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "AP26 ",
+		"STATE": "ANDHRA PRADESH",
+		"RTA_LOC_NAME": "Nellore",
+		"LOC_LONG_DESC": "NELLORE",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "AP27 ",
+		"STATE": "ANDHRA PRADESH",
+		"RTA_LOC_NAME": "PRAKASAM",
+		"LOC_LONG_DESC": "PRAKASAM",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "AP28 ",
+		"STATE": "ANDHRA PRADESH",
+		"RTA_LOC_NAME": "Rangareddy",
+		"LOC_LONG_DESC": "RANGAREDDY",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "AP29 ",
+		"STATE": "ANDHRA PRADESH",
+		"RTA_LOC_NAME": "Rangareddy",
+		"LOC_LONG_DESC": "RANGAREDDY",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "AP30 ",
+		"STATE": "ANDHRA PRADESH",
+		"RTA_LOC_NAME": "Srikakulam",
+		"LOC_LONG_DESC": "SRIKAKULAM",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "AP31 ",
+		"STATE": "ANDHRA PRADESH",
+		"RTA_LOC_NAME": "Visakhapatanam",
+		"LOC_LONG_DESC": "VISAKHAPATANAM",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "AP32 ",
+		"STATE": "ANDHRA PRADESH",
+		"RTA_LOC_NAME": "Visakhapatanam",
+		"LOC_LONG_DESC": "VISAKHAPATANAM",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "AP33 ",
+		"STATE": "ANDHRA PRADESH",
+		"RTA_LOC_NAME": "Gajuwaka",
+		"LOC_LONG_DESC": "VISAKAPATNAM",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "AP34 ",
+		"STATE": "ANDHRA PRADESH",
+		"RTA_LOC_NAME": "VISAKHAPATNAM",
+		"LOC_LONG_DESC": "VISAKHAPATNAM",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "AP35 ",
+		"STATE": "ANDHRA PRADESH",
+		"RTA_LOC_NAME": "Vizianagaram",
+		"LOC_LONG_DESC": "VIZIANAGARAM",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "AP36 ",
+		"STATE": "ANDHRA PRADESH",
+		"RTA_LOC_NAME": "Warangal",
+		"LOC_LONG_DESC": "WARANGAL",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "AP37 ",
+		"STATE": "ANDHRA PRADESH",
+		"RTA_LOC_NAME": "WEST GODAVARI",
+		"LOC_LONG_DESC": "WEST GODAVARI",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "AP38 ",
+		"STATE": "ANDHRA PRADESH",
+		"RTA_LOC_NAME": "Eluru",
+		"LOC_LONG_DESC": "ELURU",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "AR01 ",
+		"STATE": "ARUNACHAL PRADESH",
+		"RTA_LOC_NAME": "Itanagar",
+		"LOC_LONG_DESC": "ITANAGAR",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "AR02 ",
+		"STATE": "ARUNACHAL PRADESH",
+		"RTA_LOC_NAME": "Itanagar",
+		"LOC_LONG_DESC": "ITANAGAR(COMME VEHI OF STA TR)",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "AR03 ",
+		"STATE": "ARUNACHAL PRADESH",
+		"RTA_LOC_NAME": "Tawang",
+		"LOC_LONG_DESC": "TAWANG",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "AR04 ",
+		"STATE": "ARUNACHAL PRADESH",
+		"RTA_LOC_NAME": "Bomdila",
+		"LOC_LONG_DESC": "BOMDILA",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "AR05 ",
+		"STATE": "ARUNACHAL PRADESH",
+		"RTA_LOC_NAME": "Seppa",
+		"LOC_LONG_DESC": "SEPPA",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "AR06 ",
+		"STATE": "ARUNACHAL PRADESH",
+		"RTA_LOC_NAME": "Ziro",
+		"LOC_LONG_DESC": "ZIRO",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "AR07 ",
+		"STATE": "ARUNACHAL PRADESH",
+		"RTA_LOC_NAME": "Daporiji",
+		"LOC_LONG_DESC": "DAPORIJI",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "AR08 ",
+		"STATE": "ARUNACHAL PRADESH",
+		"RTA_LOC_NAME": "Along",
+		"LOC_LONG_DESC": "ALONG",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "AR09 ",
+		"STATE": "ARUNACHAL PRADESH",
+		"RTA_LOC_NAME": "Pasighat",
+		"LOC_LONG_DESC": "PASIGHAT",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "AR10 ",
+		"STATE": "ARUNACHAL PRADESH",
+		"RTA_LOC_NAME": "Anini",
+		"LOC_LONG_DESC": "ANINI",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "AR11 ",
+		"STATE": "ARUNACHAL PRADESH",
+		"RTA_LOC_NAME": "Tezu",
+		"LOC_LONG_DESC": "TEZU",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "AR12 ",
+		"STATE": "ARUNACHAL PRADESH",
+		"RTA_LOC_NAME": "Changalang",
+		"LOC_LONG_DESC": "CHANGALANG",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "AR13 ",
+		"STATE": "ARUNACHAL PRADESH",
+		"RTA_LOC_NAME": "Khonsa",
+		"LOC_LONG_DESC": "KHONSA",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "AR14 ",
+		"STATE": "ARUNACHAL PRADESH",
+		"RTA_LOC_NAME": "Yingkiong",
+		"LOC_LONG_DESC": "YINGKIONG",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "AR15 ",
+		"STATE": "ARUNACHAL PRADESH",
+		"RTA_LOC_NAME": "KURUNG KUMEY",
+		"LOC_LONG_DESC": "KURUNG KUMEY",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "AR16 ",
+		"STATE": "ARUNACHAL PRADESH",
+		"RTA_LOC_NAME": "ROING",
+		"LOC_LONG_DESC": "ROING",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "AR17 ",
+		"STATE": "ARUNACHAL PRADESH",
+		"RTA_LOC_NAME": "ANJAW",
+		"LOC_LONG_DESC": "ANJAW",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "AS01 ",
+		"STATE": "ASSAM",
+		"RTA_LOC_NAME": "Guwahati",
+		"LOC_LONG_DESC": "A/B GUWAHATI WEST",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "AS02 ",
+		"STATE": "ASSAM",
+		"RTA_LOC_NAME": "Nagaon",
+		"LOC_LONG_DESC": "NAGAON",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "AS03 ",
+		"STATE": "ASSAM",
+		"RTA_LOC_NAME": "Jorhat",
+		"LOC_LONG_DESC": "JORHAT",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "AS04 ",
+		"STATE": "ASSAM",
+		"RTA_LOC_NAME": "Sibsagar",
+		"LOC_LONG_DESC": "SIBSAGAR",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "AS05 ",
+		"STATE": "ASSAM",
+		"RTA_LOC_NAME": "Golaghat",
+		"LOC_LONG_DESC": "GOLAGHAT",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "AS06 ",
+		"STATE": "ASSAM",
+		"RTA_LOC_NAME": "Dibrugarh",
+		"LOC_LONG_DESC": "DIBRUGARH",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "AS07 ",
+		"STATE": "ASSAM",
+		"RTA_LOC_NAME": "LAKHIMPUR",
+		"LOC_LONG_DESC": "B",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "AS08 ",
+		"STATE": "ASSAM",
+		"RTA_LOC_NAME": "North Cachar Hills",
+		"LOC_LONG_DESC": "NORTH CACHAR HILLS",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "AS09 ",
+		"STATE": "ASSAM",
+		"RTA_LOC_NAME": "Karbi Anglong",
+		"LOC_LONG_DESC": "KARBI ANGLONG",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "AS10 ",
+		"STATE": "ASSAM",
+		"RTA_LOC_NAME": "Karimganj",
+		"LOC_LONG_DESC": "KARIMGANJ",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "AS11 ",
+		"STATE": "ASSAM",
+		"RTA_LOC_NAME": "Cachar",
+		"LOC_LONG_DESC": "CACHAR",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "AS12 ",
+		"STATE": "ASSAM",
+		"RTA_LOC_NAME": "Sonitpur",
+		"LOC_LONG_DESC": "SONITPUR",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "AS13 ",
+		"STATE": "ASSAM",
+		"RTA_LOC_NAME": "Darrang",
+		"LOC_LONG_DESC": "DARRANG",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "AS14 ",
+		"STATE": "ASSAM",
+		"RTA_LOC_NAME": "Nalbari",
+		"LOC_LONG_DESC": "NALBARI",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "AS15 ",
+		"STATE": "ASSAM",
+		"RTA_LOC_NAME": "Barpeta",
+		"LOC_LONG_DESC": "BARPETA",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "AS16 ",
+		"STATE": "ASSAM",
+		"RTA_LOC_NAME": "Kokrajhar",
+		"LOC_LONG_DESC": "KOKRAJHAR",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "AS17 ",
+		"STATE": "ASSAM",
+		"RTA_LOC_NAME": "Dhubri",
+		"LOC_LONG_DESC": "DHUBRI",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "AS18 ",
+		"STATE": "ASSAM",
+		"RTA_LOC_NAME": "Goalpara",
+		"LOC_LONG_DESC": "GOALPARA",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "AS19 ",
+		"STATE": "ASSAM",
+		"RTA_LOC_NAME": "Bongaigaon",
+		"LOC_LONG_DESC": "BONGAIGAON",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "AS21 ",
+		"STATE": "ASSAM",
+		"RTA_LOC_NAME": "Marigaon",
+		"LOC_LONG_DESC": "MARIGAON",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "AS22 ",
+		"STATE": "ASSAM",
+		"RTA_LOC_NAME": "Dhemaji",
+		"LOC_LONG_DESC": "DHEMAJI",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "AS23 ",
+		"STATE": "ASSAM",
+		"RTA_LOC_NAME": "Tinsukia",
+		"LOC_LONG_DESC": "TINSUKIA",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "AS24 ",
+		"STATE": "ASSAM",
+		"RTA_LOC_NAME": "Hailakandi",
+		"LOC_LONG_DESC": "HAILAKANDI",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "AS25 ",
+		"STATE": "ASSAM",
+		"RTA_LOC_NAME": "Kamrup",
+		"LOC_LONG_DESC": "KAMRUP",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "AS26 ",
+		"STATE": "ASSAM",
+		"RTA_LOC_NAME": "CHIRANG ASSAM",
+		"LOC_LONG_DESC": "CHIRANG ASSAM",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "AS27 ",
+		"STATE": "ASSAM",
+		"RTA_LOC_NAME": "UDALGURI ASSAM",
+		"LOC_LONG_DESC": "UDALGURI ASSAM",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "AS28 ",
+		"STATE": "ASSAM",
+		"RTA_LOC_NAME": "BASKA ASSAM",
+		"LOC_LONG_DESC": "BASKA ASSAM",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "BR01 ",
+		"STATE": "BIHAR",
+		"RTA_LOC_NAME": "Patna",
+		"LOC_LONG_DESC": "PATNA",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "BR02 ",
+		"STATE": "BIHAR",
+		"RTA_LOC_NAME": "Gaya",
+		"LOC_LONG_DESC": "GAYA",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "BR03 ",
+		"STATE": "BIHAR",
+		"RTA_LOC_NAME": "Bhojpur",
+		"LOC_LONG_DESC": "BHOJPUR",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "BR04 ",
+		"STATE": "BIHAR",
+		"RTA_LOC_NAME": "Chapra",
+		"LOC_LONG_DESC": "CHAPRA",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "BR05 ",
+		"STATE": "BIHAR",
+		"RTA_LOC_NAME": "Mothihari",
+		"LOC_LONG_DESC": "MOTHIHARI",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "BR06 ",
+		"STATE": "BIHAR",
+		"RTA_LOC_NAME": "Muzaffarpur",
+		"LOC_LONG_DESC": "MUZAFFARPUR",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "BR07 ",
+		"STATE": "BIHAR",
+		"RTA_LOC_NAME": "Darbhanga",
+		"LOC_LONG_DESC": "DARBHANGA",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "BR08 ",
+		"STATE": "BIHAR",
+		"RTA_LOC_NAME": "Monghyr",
+		"LOC_LONG_DESC": "MONGHYR",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "BR09 ",
+		"STATE": "BIHAR",
+		"RTA_LOC_NAME": "Begusaria",
+		"LOC_LONG_DESC": "BEGUSARIA",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "BR10 ",
+		"STATE": "BIHAR",
+		"RTA_LOC_NAME": "Bhagalpur",
+		"LOC_LONG_DESC": "BHAGALPUR",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "BR11 ",
+		"STATE": "BIHAR",
+		"RTA_LOC_NAME": "Purnea",
+		"LOC_LONG_DESC": "PURNEA",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "BR12 ",
+		"STATE": "BIHAR",
+		"RTA_LOC_NAME": "Dumka",
+		"LOC_LONG_DESC": "DUMKA",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "BR13 ",
+		"STATE": "JHARKHAND",
+		"RTA_LOC_NAME": "Hazaribagh",
+		"LOC_LONG_DESC": "HAZARIBAGH",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "BR14 ",
+		"STATE": "JHARKHAND",
+		"RTA_LOC_NAME": "Ranchi",
+		"LOC_LONG_DESC": "RANCHI",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "BR15 ",
+		"STATE": "BIHAR",
+		"RTA_LOC_NAME": "Palamu",
+		"LOC_LONG_DESC": "PALAMU",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "BR16 ",
+		"STATE": "BIHAR",
+		"RTA_LOC_NAME": "JAMSHEDPUR",
+		"LOC_LONG_DESC": "JAMSHEDPUR",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "BR17 ",
+		"STATE": "BIHAR",
+		"RTA_LOC_NAME": "Dhanbad",
+		"LOC_LONG_DESC": "DHANBAD",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "BR18 ",
+		"STATE": "BIHAR",
+		"RTA_LOC_NAME": "Chaibasa",
+		"LOC_LONG_DESC": "CHAIBASA",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "BR19 ",
+		"STATE": "BIHAR",
+		"RTA_LOC_NAME": "Saharsa",
+		"LOC_LONG_DESC": "SAHARSA",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "BR20 ",
+		"STATE": "BIHAR",
+		"RTA_LOC_NAME": "Bojaro",
+		"LOC_LONG_DESC": "BOJARO",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "BR21 ",
+		"STATE": "BIHAR",
+		"RTA_LOC_NAME": "Nalanda",
+		"LOC_LONG_DESC": "NALANDA",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "BR22 ",
+		"STATE": "BIHAR",
+		"RTA_LOC_NAME": "Bettiah",
+		"LOC_LONG_DESC": "BETTIAH",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "BR23 ",
+		"STATE": "JHARKHAND",
+		"RTA_LOC_NAME": "Giridih",
+		"LOC_LONG_DESC": "GIRIDIH",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "BR24 ",
+		"STATE": "BIHAR",
+		"RTA_LOC_NAME": "Dehri",
+		"LOC_LONG_DESC": "DEHRI",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "BR25 ",
+		"STATE": "BIHAR",
+		"RTA_LOC_NAME": "Jahanabad",
+		"LOC_LONG_DESC": "JAHANABAD",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "BR26 ",
+		"STATE": "BIHAR",
+		"RTA_LOC_NAME": "Aurangabad",
+		"LOC_LONG_DESC": "AURANGABAD",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "BR27 ",
+		"STATE": "BIHAR",
+		"RTA_LOC_NAME": "Nawada",
+		"LOC_LONG_DESC": "NAWADA",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "BR28 ",
+		"STATE": "BIHAR",
+		"RTA_LOC_NAME": "Gopalganj",
+		"LOC_LONG_DESC": "GOPALGANJ",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "BR29 ",
+		"STATE": "BIHAR",
+		"RTA_LOC_NAME": "Siwan",
+		"LOC_LONG_DESC": "SIWAN",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "BR30 ",
+		"STATE": "BIHAR",
+		"RTA_LOC_NAME": "Sitamarthi",
+		"LOC_LONG_DESC": "SITAMARTHI",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "BR31 ",
+		"STATE": "BIHAR",
+		"RTA_LOC_NAME": "Hajipur",
+		"LOC_LONG_DESC": "HAJIPUR",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "BR32 ",
+		"STATE": "BIHAR",
+		"RTA_LOC_NAME": "Madhubani",
+		"LOC_LONG_DESC": "MADHUBANI",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "BR33 ",
+		"STATE": "BIHAR",
+		"RTA_LOC_NAME": "Samastipur",
+		"LOC_LONG_DESC": "SAMASTIPUR",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "BR34 ",
+		"STATE": "BIHAR",
+		"RTA_LOC_NAME": "Khagaria",
+		"LOC_LONG_DESC": "KHAGARIA",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "BR35 ",
+		"STATE": "BIHAR",
+		"RTA_LOC_NAME": "Sahebganj",
+		"LOC_LONG_DESC": "SAHEBGANJ",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "BR36 ",
+		"STATE": "JHARKHAND",
+		"RTA_LOC_NAME": "Godda",
+		"LOC_LONG_DESC": "GODDA",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "BR37 ",
+		"STATE": "BIHAR",
+		"RTA_LOC_NAME": "Kishanganj",
+		"LOC_LONG_DESC": "KISHANGANJ",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "BR38 ",
+		"STATE": "BIHAR",
+		"RTA_LOC_NAME": "Araria",
+		"LOC_LONG_DESC": "ARARIA",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "BR39 ",
+		"STATE": "BIHAR",
+		"RTA_LOC_NAME": "Katihar",
+		"LOC_LONG_DESC": "KATIHAR",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "BR40 ",
+		"STATE": "BIHAR",
+		"RTA_LOC_NAME": "Deoghar",
+		"LOC_LONG_DESC": "DEOGHAR",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "BR41 ",
+		"STATE": "JHARKHAND",
+		"RTA_LOC_NAME": "Gumla",
+		"LOC_LONG_DESC": "GUMLA",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "BR42 ",
+		"STATE": "JHARKHAND",
+		"RTA_LOC_NAME": "Lohardaga",
+		"LOC_LONG_DESC": "LOHARDAGA",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "BR43 ",
+		"STATE": "BIHAR",
+		"RTA_LOC_NAME": "Madhepura",
+		"LOC_LONG_DESC": "MADHEPURA",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "BR44 ",
+		"STATE": "BIHAR",
+		"RTA_LOC_NAME": "Buxar",
+		"LOC_LONG_DESC": "BUXAR",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "BR45 ",
+		"STATE": "BIHAR",
+		"RTA_LOC_NAME": "Bhabua",
+		"LOC_LONG_DESC": "BHABUA",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "BR46 ",
+		"STATE": "BIHAR",
+		"RTA_LOC_NAME": "JAMUI",
+		"LOC_LONG_DESC": "JAMUI",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "BR47 ",
+		"STATE": "JHARKHAND",
+		"RTA_LOC_NAME": "Koderma",
+		"LOC_LONG_DESC": "KODERMA",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "BR50 ",
+		"STATE": "BIHAR",
+		"RTA_LOC_NAME": "Supaul",
+		"LOC_LONG_DESC": "SUPAUL",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "BR51 ",
+		"STATE": "BIHAR",
+		"RTA_LOC_NAME": "BANKA",
+		"LOC_LONG_DESC": "BANKA",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "BR52 ",
+		"STATE": "BIHAR",
+		"RTA_LOC_NAME": "SHEIKHPURA",
+		"LOC_LONG_DESC": "SHEIKHPURA",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "BR53 ",
+		"STATE": "BIHAR",
+		"RTA_LOC_NAME": "LAKHISARAI",
+		"LOC_LONG_DESC": "LAKHISARAI",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "BR55 ",
+		"STATE": "BIHAR",
+		"RTA_LOC_NAME": "Sheohar",
+		"LOC_LONG_DESC": "SHEOHAR",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "BR56 ",
+		"STATE": "BIHAR",
+		"RTA_LOC_NAME": "JAHANABAD",
+		"LOC_LONG_DESC": "JAHANABAD",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "BR57 ",
+		"STATE": "BIHAR",
+		"RTA_LOC_NAME": "ROHTAS",
+		"LOC_LONG_DESC": "ROHTAS",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "CG01 ",
+		"STATE": "CHHATTISGARH",
+		"RTA_LOC_NAME": "GOVERNER",
+		"LOC_LONG_DESC": "CHHATTISGATH GOVERNER",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "CG02 ",
+		"STATE": "CHHATTISGARH",
+		"RTA_LOC_NAME": "GOVERMENT",
+		"LOC_LONG_DESC": "CHHATTISGARH GOVERMENT",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "CG03 ",
+		"STATE": "CHHATTISGARH",
+		"RTA_LOC_NAME": "POLICE",
+		"LOC_LONG_DESC": "CHHATTISGARH POLICE",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "CG04 ",
+		"STATE": "CHHATTISGARH",
+		"RTA_LOC_NAME": "Raipur",
+		"LOC_LONG_DESC": "RAIPUR",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "CG05 ",
+		"STATE": "CHHATTISGARH",
+		"RTA_LOC_NAME": "Dhamtari",
+		"LOC_LONG_DESC": "Dhamtari",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "CG06 ",
+		"STATE": "CHHATTISGARH",
+		"RTA_LOC_NAME": "Mahasamund",
+		"LOC_LONG_DESC": "MAHASAMUND",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "CG07 ",
+		"STATE": "CHHATTISGARH",
+		"RTA_LOC_NAME": "Durg",
+		"LOC_LONG_DESC": "DURG",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "CG08 ",
+		"STATE": "CHHATTISGARH",
+		"RTA_LOC_NAME": "Rajanandgon",
+		"LOC_LONG_DESC": "RAJANANDGON",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "CG09 ",
+		"STATE": "CHHATTISGARH",
+		"RTA_LOC_NAME": "KABIRDHAM",
+		"LOC_LONG_DESC": "KABIRDHAM",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "CG10 ",
+		"STATE": "CHHATTISGARH",
+		"RTA_LOC_NAME": "Bilaspur",
+		"LOC_LONG_DESC": "BILASPUR",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "CG11 ",
+		"STATE": "CHHATTISGARH",
+		"RTA_LOC_NAME": "JANJGIR-CHAMPA",
+		"LOC_LONG_DESC": "JANJGIR-CHAMPA",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "CG12 ",
+		"STATE": "CHHATTISGARH",
+		"RTA_LOC_NAME": "Kobra",
+		"LOC_LONG_DESC": "KOBRA",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "CG13 ",
+		"STATE": "CHHATTISGARH",
+		"RTA_LOC_NAME": "Raigarh",
+		"LOC_LONG_DESC": "RAIGARH",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "CG14 ",
+		"STATE": "CHHATTISGARH",
+		"RTA_LOC_NAME": "Jashpur",
+		"LOC_LONG_DESC": "JASHPUR",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "CG15 ",
+		"STATE": "CHHATTISGARH",
+		"RTA_LOC_NAME": "Ambikapur",
+		"LOC_LONG_DESC": "AMBIKAPUR",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "CG16 ",
+		"STATE": "CHHATTISGARH",
+		"RTA_LOC_NAME": "Baikunthpur",
+		"LOC_LONG_DESC": "BAIKUNTHPUR",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "CG17 ",
+		"STATE": "CHHATTISGARH",
+		"RTA_LOC_NAME": "Jagdalpur",
+		"LOC_LONG_DESC": "JAGDALPUR",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "CG18 ",
+		"STATE": "CHHATTISGARH",
+		"RTA_LOC_NAME": "Dantewada",
+		"LOC_LONG_DESC": "DANTEWADA",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "CG19 ",
+		"STATE": "CHHATTISGARH",
+		"RTA_LOC_NAME": "Kanker",
+		"LOC_LONG_DESC": "KANKER",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "CG20 ",
+		"STATE": "CHHATTISGARH",
+		"RTA_LOC_NAME": "BIJAPUR",
+		"LOC_LONG_DESC": "BIJAPUR",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "CG21 ",
+		"STATE": "CHHATTISGARH",
+		"RTA_LOC_NAME": "Narayanpur",
+		"LOC_LONG_DESC": "NARAYANPUR",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "CG22 ",
+		"STATE": "CHHATTISGARH",
+		"RTA_LOC_NAME": "Baloda Bazar",
+		"LOC_LONG_DESC": "BALODA BAZAR",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "CG23 ",
+		"STATE": "CHHATTISGARH",
+		"RTA_LOC_NAME": "GARIYABAND",
+		"LOC_LONG_DESC": "GARIYABAND",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "CG24 ",
+		"STATE": "CHHATTISGARH",
+		"RTA_LOC_NAME": "Baloda Bazar",
+		"LOC_LONG_DESC": "BALODA BAZAR",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "CG25 ",
+		"STATE": "CHHATTISGARH",
+		"RTA_LOC_NAME": "Bemetara",
+		"LOC_LONG_DESC": "BEMETARA",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "CG26 ",
+		"STATE": "CHHATTISGARH",
+		"RTA_LOC_NAME": "Sukma",
+		"LOC_LONG_DESC": "SUKMA",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "CG27 ",
+		"STATE": "CHHATTISGARH",
+		"RTA_LOC_NAME": "Kondagaon",
+		"LOC_LONG_DESC": "KONDAGAON",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "CG28 ",
+		"STATE": "CHHATTISGARH",
+		"RTA_LOC_NAME": "MUNGELI",
+		"LOC_LONG_DESC": "MUNGELI",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "CG29 ",
+		"STATE": "CHHATTISGARH",
+		"RTA_LOC_NAME": "Surajpur",
+		"LOC_LONG_DESC": "SURAJPUR",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "CG30 ",
+		"STATE": "CHHATTISGARH",
+		"RTA_LOC_NAME": "Balrampur",
+		"LOC_LONG_DESC": "BALRAMPUR",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "CH01 ",
+		"STATE": "HARYANA",
+		"RTA_LOC_NAME": "Chandigarh",
+		"LOC_LONG_DESC": "CHANDIGARH",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "CH02 ",
+		"STATE": "HARYANA",
+		"RTA_LOC_NAME": "CHANDIGARH",
+		"LOC_LONG_DESC": "CHANDIGARH",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "CH03 ",
+		"STATE": "HARYANA",
+		"RTA_LOC_NAME": "CHANDIGARH",
+		"LOC_LONG_DESC": "CHANDIGARH",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "CH04 ",
+		"STATE": "HARYANA",
+		"RTA_LOC_NAME": "CHANDIGARH",
+		"LOC_LONG_DESC": "CHANDIGARH",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "CH05 ",
+		"STATE": "CHANDIGARH",
+		"RTA_LOC_NAME": "Bhedpuri",
+		"LOC_LONG_DESC": "BHEDPURI",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "CH23 ",
+		"STATE": "HARYANA",
+		"RTA_LOC_NAME": "CHANDIGARH",
+		"LOC_LONG_DESC": "CHANDIGARH",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "DD02 ",
+		"STATE": "DAMAN and DIU",
+		"RTA_LOC_NAME": "Diu",
+		"LOC_LONG_DESC": "DIU",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "DD03 ",
+		"STATE": "DAMAN and DIU",
+		"RTA_LOC_NAME": "Daman",
+		"LOC_LONG_DESC": "DAMAN",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "DD09 ",
+		"STATE": "DAMAN and DIU",
+		"RTA_LOC_NAME": "DADRA & NAGAR HAVELI",
+		"LOC_LONG_DESC": "DADRA & NAGAR HAVELI",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "DL01 ",
+		"STATE": "DELHI",
+		"RTA_LOC_NAME": "Delhi North Hill Road",
+		"LOC_LONG_DESC": "DELHI NORTH UNDER HILL ROAD",
+		"PV": "A",
+		"TW": "A"
+	},
+	{
+		"RTA_CODE": "DL02 ",
+		"STATE": "DELHI",
+		"RTA_LOC_NAME": "New Delhi Tilak Marg / IP Depot ",
+		"LOC_LONG_DESC": "NEW DELHI TILAK MARG / IP Deport",
+		"PV": "A",
+		"TW": "A"
+	},
+	{
+		"RTA_CODE": "DL03 ",
+		"STATE": "DELHI",
+		"RTA_LOC_NAME": "Delhi South Sheikh Sarai",
+		"LOC_LONG_DESC": "DELHI SOUTH SHEIKH SARAI",
+		"PV": "A",
+		"TW": "A"
+	},
+	{
+		"RTA_CODE": "DL04 ",
+		"STATE": "DELHI",
+		"RTA_LOC_NAME": "Delhi West Raja Garden",
+		"LOC_LONG_DESC": "DELHI WEST RAJA GARDEN",
+		"PV": "A",
+		"TW": "A"
+	},
+	{
+		"RTA_CODE": "DL04      ",
+		"STATE": "DELHI",
+		"RTA_LOC_NAME": "Delhi West Janak Puri ",
+		"LOC_LONG_DESC": "DELHI WEST JANAK PURI",
+		"PV": "A",
+		"TW": "A"
+	},
+	{
+		"RTA_CODE": "DL05 ",
+		"STATE": "DELHI",
+		"RTA_LOC_NAME": "Delhi North Loni Road",
+		"LOC_LONG_DESC": "DELHI NORTH WEST LONI ROAD",
+		"PV": "A",
+		"TW": "A"
+	},
+	{
+		"RTA_CODE": "DL06 ",
+		"STATE": "DELHI",
+		"RTA_LOC_NAME": "Delhi Central Sarai Kale Khan",
+		"LOC_LONG_DESC": "DELHI CENTRAL SARAI KALE KHAN",
+		"PV": "A",
+		"TW": "A"
+	},
+	{
+		"RTA_CODE": "DL07 ",
+		"STATE": "DELHI",
+		"RTA_LOC_NAME": "Delhi East Anand Vihar",
+		"LOC_LONG_DESC": "DELHI EAST ANAND VIHAR",
+		"PV": "A",
+		"TW": "A"
+	},
+	{
+		"RTA_CODE": "DL08 ",
+		"STATE": "DELHI",
+		"RTA_LOC_NAME": "North West Delhi Wazirpur / Ashok Vihar / Rohini",
+		"LOC_LONG_DESC": "NORTH WEST DELHI WAZIRPUR / ASHOK VIHAR / ROHINI",
+		"PV": "A",
+		"TW": "A"
+	},
+	{
+		"RTA_CODE": "DL09 ",
+		"STATE": "DELHI",
+		"RTA_LOC_NAME": "South West Delhi",
+		"LOC_LONG_DESC": "South West Delhi",
+		"PV": "A",
+		"TW": "A"
+	},
+	{
+		"RTA_CODE": "DL10 ",
+		"STATE": "DELHI",
+		"RTA_LOC_NAME": "Raja Garden",
+		"LOC_LONG_DESC": "Raja Garden",
+		"PV": "A",
+		"TW": "A"
+	},
+	{
+		"RTA_CODE": "DL11 ",
+		"STATE": "DELHI",
+		"RTA_LOC_NAME": "Delhi North West II Rohini",
+		"LOC_LONG_DESC": "DELHI NORTH WEST II ROHINI",
+		"PV": "A",
+		"TW": "A"
+	},
+	{
+		"RTA_CODE": "DL12 ",
+		"STATE": "DELHI",
+		"RTA_LOC_NAME": "Delhi South West II Vasant Vihar",
+		"LOC_LONG_DESC": "DELHI SOUTH WEST II VASANT VIHAR",
+		"PV": "A",
+		"TW": "A"
+	},
+	{
+		"RTA_CODE": "DL13 ",
+		"STATE": "Delhi",
+		"RTA_LOC_NAME": "SURAJMAL VIHAR/SHAHDARA",
+		"LOC_LONG_DESC": "SURAJMAL VIHAR/SHAHDARA",
+		"PV": "A",
+		"TW": "A"
+	},
+	{
+		"RTA_CODE": "DL14 ",
+		"STATE": "Delhi",
+		"RTA_LOC_NAME": "SONIPAT",
+		"LOC_LONG_DESC": "SONIPAT",
+		"PV": "A",
+		"TW": "A"
+	},
+	{
+		"RTA_CODE": "DL15 ",
+		"STATE": "DELHI",
+		"RTA_LOC_NAME": "Gurgaon",
+		"LOC_LONG_DESC": "GURGAON",
+		"PV": "A",
+		"TW": "A"
+	},
+	{
+		"RTA_CODE": "DL16 ",
+		"STATE": "DELHI",
+		"RTA_LOC_NAME": "Faridabad",
+		"LOC_LONG_DESC": "FARIDABAD",
+		"PV": "A",
+		"TW": "A"
+	},
+	{
+		"RTA_CODE": "DL17 ",
+		"STATE": "DELHI",
+		"RTA_LOC_NAME": "Noida",
+		"LOC_LONG_DESC": "NOIDA",
+		"PV": "A",
+		"TW": "A"
+	},
+	{
+		"RTA_CODE": "DL18 ",
+		"STATE": "DELHI",
+		"RTA_LOC_NAME": "Ghaziabad",
+		"LOC_LONG_DESC": "GHAZIABAD",
+		"PV": "A",
+		"TW": "A"
+	},
+	{
+		"RTA_CODE": "DN09 ",
+		"STATE": "DADAR and NAGARA HAVELI",
+		"RTA_LOC_NAME": "Dadar and Nagar Haveli",
+		"LOC_LONG_DESC": "DADAR & NAGAR HAVELI",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "DN13 ",
+		"STATE": "DADAR and NAGARA HAVELI",
+		"RTA_LOC_NAME": "Surajmahal Vihar",
+		"LOC_LONG_DESC": "SURAJMAHAL VIHAR",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "FB23 ",
+		"STATE": "NULL",
+		"RTA_LOC_NAME": "FATEHGARH",
+		"LOC_LONG_DESC": "FATEHGARH SAHIB",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "GA01 ",
+		"STATE": "GOA",
+		"RTA_LOC_NAME": "North Goa",
+		"LOC_LONG_DESC": "NORTH GOA",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "GA02 ",
+		"STATE": "GOA",
+		"RTA_LOC_NAME": "South Goa",
+		"LOC_LONG_DESC": "SOUTH GOA",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "GA03 ",
+		"STATE": "GOA",
+		"RTA_LOC_NAME": "Mapusa ",
+		"LOC_LONG_DESC": "MAPUSA ",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "GA04 ",
+		"STATE": "GOA",
+		"RTA_LOC_NAME": "Bicholim",
+		"LOC_LONG_DESC": "BICHOLIM",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "GA05 ",
+		"STATE": "GOA",
+		"RTA_LOC_NAME": "Ponda ",
+		"LOC_LONG_DESC": "PONDA ",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "GA06 ",
+		"STATE": "GOA",
+		"RTA_LOC_NAME": "Vasco",
+		"LOC_LONG_DESC": "VASCO",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "GA07 ",
+		"STATE": "GOA",
+		"RTA_LOC_NAME": "Panaji",
+		"LOC_LONG_DESC": "PANAJI",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "GA08 ",
+		"STATE": "GOA",
+		"RTA_LOC_NAME": "Margao",
+		"LOC_LONG_DESC": "MARGAO",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "GA09 ",
+		"STATE": "GOA",
+		"RTA_LOC_NAME": "Quepem",
+		"LOC_LONG_DESC": "QUEPEM",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "GA10 ",
+		"STATE": "GOA",
+		"RTA_LOC_NAME": "Canacona",
+		"LOC_LONG_DESC": "CANACONA",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "GA11 ",
+		"STATE": "GOA",
+		"RTA_LOC_NAME": "Pernem",
+		"LOC_LONG_DESC": "PERNEM",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "GA12 ",
+		"STATE": "GOA",
+		"RTA_LOC_NAME": "Dharbandora",
+		"LOC_LONG_DESC": "DHARBANDORA",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "GJ01 ",
+		"STATE": "GUJARAT",
+		"RTA_LOC_NAME": "Ahmedabad",
+		"LOC_LONG_DESC": "AHMEDABAD",
+		"PV": "A",
+		"TW": "A"
+	},
+	{
+		"RTA_CODE": "GJ02 ",
+		"STATE": "GUJARAT",
+		"RTA_LOC_NAME": "Mehsana",
+		"LOC_LONG_DESC": "MEHSANA",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "GJ03 ",
+		"STATE": "GUJARAT",
+		"RTA_LOC_NAME": "Rajkot",
+		"LOC_LONG_DESC": "RAJKOT",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "GJ04 ",
+		"STATE": "GUJARAT",
+		"RTA_LOC_NAME": "Bhavnagar",
+		"LOC_LONG_DESC": "BHAVNAGAR",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "GJ05 ",
+		"STATE": "GUJARAT",
+		"RTA_LOC_NAME": "Surat",
+		"LOC_LONG_DESC": "SURAT",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "GJ06 ",
+		"STATE": "GUJARAT",
+		"RTA_LOC_NAME": "Vadodara",
+		"LOC_LONG_DESC": "VADODARA",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "GJ07 ",
+		"STATE": "GUJARAT",
+		"RTA_LOC_NAME": "Kheda",
+		"LOC_LONG_DESC": "KHEDA",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "GJ08 ",
+		"STATE": "GUJARAT",
+		"RTA_LOC_NAME": "Banaskantha",
+		"LOC_LONG_DESC": "BANASKANTHA",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "GJ09 ",
+		"STATE": "GUJARAT",
+		"RTA_LOC_NAME": "Sabarkantha",
+		"LOC_LONG_DESC": "SABARKANTHA",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "GJ10 ",
+		"STATE": "GUJARAT",
+		"RTA_LOC_NAME": "Jamnagar",
+		"LOC_LONG_DESC": "JAMNAGAR",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "GJ11 ",
+		"STATE": "GUJARAT",
+		"RTA_LOC_NAME": "Junagadh",
+		"LOC_LONG_DESC": "JUNAGADH",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "GJ12 ",
+		"STATE": "GUJARAT",
+		"RTA_LOC_NAME": "Kutch",
+		"LOC_LONG_DESC": "KUTCH",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "GJ13 ",
+		"STATE": "GUJARAT",
+		"RTA_LOC_NAME": "Surendranagar",
+		"LOC_LONG_DESC": "SURENDRANAGAR",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "GJ14 ",
+		"STATE": "GUJARAT",
+		"RTA_LOC_NAME": "Amreli",
+		"LOC_LONG_DESC": "AMRELI",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "GJ15 ",
+		"STATE": "GUJARAT",
+		"RTA_LOC_NAME": "Valsad",
+		"LOC_LONG_DESC": "VALSAD",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "GJ16 ",
+		"STATE": "GUJARAT",
+		"RTA_LOC_NAME": "Bharuch",
+		"LOC_LONG_DESC": "BHARUCH",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "GJ17 ",
+		"STATE": "GUJARAT",
+		"RTA_LOC_NAME": "Godhara",
+		"LOC_LONG_DESC": "GODHARA",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "GJ18 ",
+		"STATE": "GUJARAT",
+		"RTA_LOC_NAME": "Gandhinagar",
+		"LOC_LONG_DESC": "GANDHINAGAR",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "GJ19 ",
+		"STATE": "GUJARAT",
+		"RTA_LOC_NAME": "Bardoli",
+		"LOC_LONG_DESC": "BARDOLI",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "GJ20 ",
+		"STATE": "GUJARAT",
+		"RTA_LOC_NAME": "Dahod",
+		"LOC_LONG_DESC": "DAHOD",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "GJ21 ",
+		"STATE": "GUJARAT",
+		"RTA_LOC_NAME": "Navsari",
+		"LOC_LONG_DESC": "NAVSARI",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "GJ22 ",
+		"STATE": "GUJARAT",
+		"RTA_LOC_NAME": "Narmada",
+		"LOC_LONG_DESC": "NARMADA",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "GJ23 ",
+		"STATE": "GUJARAT",
+		"RTA_LOC_NAME": "Anand",
+		"LOC_LONG_DESC": "ANAND",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "GJ24 ",
+		"STATE": "GUJARAT",
+		"RTA_LOC_NAME": "Patan",
+		"LOC_LONG_DESC": "PATAN",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "GJ25 ",
+		"STATE": "GUJARAT",
+		"RTA_LOC_NAME": "Porbandar",
+		"LOC_LONG_DESC": "PORBANDAR",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "GJ26 ",
+		"STATE": "GUJARAT",
+		"RTA_LOC_NAME": "VYARA",
+		"LOC_LONG_DESC": "VYARA GUJARAT",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "GJ27 ",
+		"STATE": "GUJARAT",
+		"RTA_LOC_NAME": "Ahmedabad East",
+		"LOC_LONG_DESC": "AHMEDABAD EAST",
+		"PV": "A",
+		"TW": "A"
+	},
+	{
+		"RTA_CODE": "GJ28 ",
+		"STATE": "GUJARAT",
+		"RTA_LOC_NAME": "Surat ",
+		"LOC_LONG_DESC": "SURAT ",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "GJ29 ",
+		"STATE": "GUJARAT",
+		"RTA_LOC_NAME": "VADODARA",
+		"LOC_LONG_DESC": "VADODARA",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "GJ30 ",
+		"STATE": "GUJARAT",
+		"RTA_LOC_NAME": "DANG",
+		"LOC_LONG_DESC": "DANG",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "GJ31 ",
+		"STATE": "GUJARAT",
+		"RTA_LOC_NAME": "ARVALLI (MODASA)",
+		"LOC_LONG_DESC": "ARVALLI (MODASA)",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "GJ32 ",
+		"STATE": "GUJARAT",
+		"RTA_LOC_NAME": "Gir Somnath – Veraval",
+		"LOC_LONG_DESC": "GIR SOMNATH – VERAVAL",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "GJ33 ",
+		"STATE": "GUJARATH",
+		"RTA_LOC_NAME": "BOTAD",
+		"LOC_LONG_DESC": "BOTAD",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "GJ34 ",
+		"STATE": "GUJARAT",
+		"RTA_LOC_NAME": "CHHOTAUDAIPUR",
+		"LOC_LONG_DESC": "CHHOTAUDAIPUR",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "GJ35 ",
+		"STATE": "GUJARAT",
+		"RTA_LOC_NAME": "Mahisagar",
+		"LOC_LONG_DESC": "MAHISAGAR",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "GJ36 ",
+		"STATE": "GUJARAT",
+		"RTA_LOC_NAME": "MORBI",
+		"LOC_LONG_DESC": "MORBI",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "GJ37 ",
+		"STATE": "GUJARAT",
+		"RTA_LOC_NAME": "DEVBHOOMI DWARKA",
+		"LOC_LONG_DESC": "DEVBHOOMI DWARKA",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "GJ38 ",
+		"STATE": "GUJARAT",
+		"RTA_LOC_NAME": "Gir Somnath - Veraval",
+		"LOC_LONG_DESC": "GIR SOMNATH - VERAVAL",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "HP01 ",
+		"STATE": "HIMACHAL PRADESH",
+		"RTA_LOC_NAME": "SHIMLA",
+		"LOC_LONG_DESC": "SHIMLA (TOURIST BUSES & TAXIS)",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "HP02 ",
+		"STATE": "HIMACHAL PRADESH",
+		"RTA_LOC_NAME": "URBAN",
+		"LOC_LONG_DESC": "URBAN (TOURIST BUSES & TAXIS)",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "HP03 ",
+		"STATE": "HIMACHAL PRADESH",
+		"RTA_LOC_NAME": "Shimla Urban",
+		"LOC_LONG_DESC": "SHIMLA URBAN",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "HP04 ",
+		"STATE": "HIMACHAL PRADESH",
+		"RTA_LOC_NAME": "Dharamsala",
+		"LOC_LONG_DESC": "DHARAMSALA (AUTO-RISK SHAWS)",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "HP05 ",
+		"STATE": "HIMACHAL PRADESH",
+		"RTA_LOC_NAME": "Mandi",
+		"LOC_LONG_DESC": "MANDI (RIKSHAWS)",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "HP06 ",
+		"STATE": "HIMACHAL PRADESH",
+		"RTA_LOC_NAME": "Rampur",
+		"LOC_LONG_DESC": "RAMPUR",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "HP07 ",
+		"STATE": "HIMACHAL PRADESH",
+		"RTA_LOC_NAME": "Mandi",
+		"LOC_LONG_DESC": "MANDI ( AUTO-RIKSHAWS)",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "HP08 ",
+		"STATE": "HIMACHAL PRADESH",
+		"RTA_LOC_NAME": "Chaupal",
+		"LOC_LONG_DESC": "CHAUPAL",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "HP09 ",
+		"STATE": "HIMACHAL PRADESH",
+		"RTA_LOC_NAME": "Theog",
+		"LOC_LONG_DESC": "THEOG",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "HP10 ",
+		"STATE": "HIMACHAL PRADESH",
+		"RTA_LOC_NAME": "Rohru",
+		"LOC_LONG_DESC": "ROHRU",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "HP11 ",
+		"STATE": "HIMACHAL PRADESH",
+		"RTA_LOC_NAME": "Arki",
+		"LOC_LONG_DESC": "ARKI",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "HP12 ",
+		"STATE": "HIMACHAL PRADESH",
+		"RTA_LOC_NAME": "Nalagarh",
+		"LOC_LONG_DESC": "NALAGARH",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "HP13 ",
+		"STATE": "HIMACHAL PRADESH",
+		"RTA_LOC_NAME": "Kandaghat",
+		"LOC_LONG_DESC": "KANDAGHAT",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "HP14 ",
+		"STATE": "HIMACHAL PRADESH",
+		"RTA_LOC_NAME": "Solan",
+		"LOC_LONG_DESC": "SOLAN",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "HP15 ",
+		"STATE": "HIMACHAL PRADESH",
+		"RTA_LOC_NAME": "Parwanoo",
+		"LOC_LONG_DESC": "PARWANOO",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "HP16 ",
+		"STATE": "HIMACHAL PRADESH",
+		"RTA_LOC_NAME": "Rajgarh",
+		"LOC_LONG_DESC": "RAJGARH",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "HP17 ",
+		"STATE": "HIMACHAL PRADESH",
+		"RTA_LOC_NAME": "Paonta Sahib",
+		"LOC_LONG_DESC": "PAONTA SAHIB",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "HP18 ",
+		"STATE": "HIMACHAL PRADESH",
+		"RTA_LOC_NAME": "Nahan",
+		"LOC_LONG_DESC": "NAHAN",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "HP19 ",
+		"STATE": "HIMACHAL PRADESH",
+		"RTA_LOC_NAME": "AMB",
+		"LOC_LONG_DESC": "AMB",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "HP20 ",
+		"STATE": "HIMACHAL PRADESH",
+		"RTA_LOC_NAME": "Una",
+		"LOC_LONG_DESC": "UNA",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "HP21 ",
+		"STATE": "HIMACHAL PRADESH",
+		"RTA_LOC_NAME": "Barsar",
+		"LOC_LONG_DESC": "BARSAR",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "HP22 ",
+		"STATE": "HIMACHAL PRADESH",
+		"RTA_LOC_NAME": "Hamirpur",
+		"LOC_LONG_DESC": "HAMIRPUR",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "HP23 ",
+		"STATE": "HIMACHAL PRADESH",
+		"RTA_LOC_NAME": "Ghumarwin",
+		"LOC_LONG_DESC": "GHUMARWIN",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "HP24 ",
+		"STATE": "HIMACHAL PRADESH",
+		"RTA_LOC_NAME": "Bilaspur",
+		"LOC_LONG_DESC": "BILASPUR",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "HP25 ",
+		"STATE": "HIMACHAL PRADESH",
+		"RTA_LOC_NAME": "Kalpa",
+		"LOC_LONG_DESC": "KALPA",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "HP26 ",
+		"STATE": "HIMACHAL PRADESH",
+		"RTA_LOC_NAME": "Nichar",
+		"LOC_LONG_DESC": "NICHAR",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "HP27 ",
+		"STATE": "HIMACHAL PRADESH",
+		"RTA_LOC_NAME": "Pooh",
+		"LOC_LONG_DESC": "POOH",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "HP28 ",
+		"STATE": "HIMACHAL PRADESH",
+		"RTA_LOC_NAME": "Sarkaghat",
+		"LOC_LONG_DESC": "SARKAGHAT",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "HP29 ",
+		"STATE": "HIMACHAL PRADESH",
+		"RTA_LOC_NAME": "Jogendranagar",
+		"LOC_LONG_DESC": "JOGENDRANAGAR",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "HP30 ",
+		"STATE": "HIMACHAL PRADESH",
+		"RTA_LOC_NAME": "Karsog",
+		"LOC_LONG_DESC": "KARSOG",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "HP31 ",
+		"STATE": "HIMACHAL PRADESH",
+		"RTA_LOC_NAME": "Sundernagar",
+		"LOC_LONG_DESC": "SUNDERNAGAR",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "HP32 ",
+		"STATE": "HIMACHAL PRADESH",
+		"RTA_LOC_NAME": "Gohar",
+		"LOC_LONG_DESC": "GOHAR",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "HP33 ",
+		"STATE": "HIMACHAL PRADESH",
+		"RTA_LOC_NAME": "Mandi",
+		"LOC_LONG_DESC": "MANDI",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "HP34 ",
+		"STATE": "HIMACHAL PRADESH",
+		"RTA_LOC_NAME": "Kullu",
+		"LOC_LONG_DESC": "KULLU",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "HP35 ",
+		"STATE": "HIMACHAL PRADESH",
+		"RTA_LOC_NAME": "ANI",
+		"LOC_LONG_DESC": "ANI",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "HP36 ",
+		"STATE": "HIMACHAL PRADESH",
+		"RTA_LOC_NAME": "Dehra",
+		"LOC_LONG_DESC": "DEHRA",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "HP37 ",
+		"STATE": "HIMACHAL PRADESH",
+		"RTA_LOC_NAME": "Palampur",
+		"LOC_LONG_DESC": "PALAMPUR",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "HP38 ",
+		"STATE": "HIMACHAL PRADESH",
+		"RTA_LOC_NAME": "Noorpur",
+		"LOC_LONG_DESC": "NOORPUR",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "HP39 ",
+		"STATE": "HIMACHAL PRADESH",
+		"RTA_LOC_NAME": "Dharamsala",
+		"LOC_LONG_DESC": "DHARAMSALA",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "HP40 ",
+		"STATE": "HIMACHAL PRADESH",
+		"RTA_LOC_NAME": "Kangra",
+		"LOC_LONG_DESC": "KANGRA / CHAMBA",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "HP41 ",
+		"STATE": "HIMACHAL PRADESH",
+		"RTA_LOC_NAME": "Kaza",
+		"LOC_LONG_DESC": "KAZA",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "HP42 ",
+		"STATE": "HIMACHAL PRADESH",
+		"RTA_LOC_NAME": "Kelang",
+		"LOC_LONG_DESC": "KELANG",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "HP43 ",
+		"STATE": "HIMACHAL PRADESH",
+		"RTA_LOC_NAME": "Udaipur",
+		"LOC_LONG_DESC": "UDAIPUR",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "HP44 ",
+		"STATE": "HIMACHAL PRADESH",
+		"RTA_LOC_NAME": "Churah",
+		"LOC_LONG_DESC": "CHURAH",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "HP45 ",
+		"STATE": "HIMACHAL PRADESH",
+		"RTA_LOC_NAME": "Pangi",
+		"LOC_LONG_DESC": "PANGI",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "HP46 ",
+		"STATE": "HIMACHAL PRADESH",
+		"RTA_LOC_NAME": "Bharmour",
+		"LOC_LONG_DESC": "BHARMOUR",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "HP47 ",
+		"STATE": "HIMACHAL PRADESH",
+		"RTA_LOC_NAME": "Dalhousie",
+		"LOC_LONG_DESC": "DALHOUSIE",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "HP48 ",
+		"STATE": "HIMACHAL PRADESH",
+		"RTA_LOC_NAME": "Chamba",
+		"LOC_LONG_DESC": "CHAMBA",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "HP49 ",
+		"STATE": "HIMACHAL PRADESH",
+		"RTA_LOC_NAME": "Banjar",
+		"LOC_LONG_DESC": "BANJAR",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "HP50 ",
+		"STATE": "HIMACHAL PRADESH",
+		"RTA_LOC_NAME": "SHIMLA",
+		"LOC_LONG_DESC": "SHIMLA (AUTO-RIKSHAWS)",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "HP51 ",
+		"STATE": "HIMACHAL PRADESH",
+		"RTA_LOC_NAME": "SHIM RUR",
+		"LOC_LONG_DESC": "SHIMLA RURAL",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "HP52 ",
+		"STATE": "HIMACHAL PRADESH",
+		"RTA_LOC_NAME": "Shimla Rural",
+		"LOC_LONG_DESC": "SHIMLA - RURAL",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "HP53 ",
+		"STATE": "HIMACHAL PRADESH",
+		"RTA_LOC_NAME": "Baijnath",
+		"LOC_LONG_DESC": "BAIJNATH",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "HP54 ",
+		"STATE": "HIMACHAL PRADESH",
+		"RTA_LOC_NAME": "Jawali",
+		"LOC_LONG_DESC": "JAWALI",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "HP55 ",
+		"STATE": "HIMACHAL PRADESH",
+		"RTA_LOC_NAME": "Nadaun",
+		"LOC_LONG_DESC": "NADAUN / HAMIRPUR",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "HP56 ",
+		"STATE": "HIMACHAL PRADESH",
+		"RTA_LOC_NAME": "JAISINGHPUR",
+		"LOC_LONG_DESC": "JAISINGHPUR",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "HP57 ",
+		"STATE": "HIMACHAL PRADESH",
+		"RTA_LOC_NAME": "CHOWARI",
+		"LOC_LONG_DESC": "CHOWARI",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "HP58 ",
+		"STATE": "HIMACHAL PRADESH",
+		"RTA_LOC_NAME": "MANALI",
+		"LOC_LONG_DESC": "MANALI",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "HP59 ",
+		"STATE": "HIMACHAL PRADESH",
+		"RTA_LOC_NAME": "Solan",
+		"LOC_LONG_DESC": "SOLAN",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "HP60 ",
+		"STATE": "HIMACHAL PRADESH",
+		"RTA_LOC_NAME": "Hamirpur",
+		"LOC_LONG_DESC": "HAMIRPUR",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "HP61 ",
+		"STATE": "HIMACHAL PRADESH",
+		"RTA_LOC_NAME": "Kullu",
+		"LOC_LONG_DESC": "KULLU",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "HP62 ",
+		"STATE": "HIMACHAL PRADESH",
+		"RTA_LOC_NAME": "DodraKwar",
+		"LOC_LONG_DESC": "DodraKwar",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "HP63 ",
+		"STATE": "HIMACHAL PRADESH",
+		"RTA_LOC_NAME": "SHIMLA",
+		"LOC_LONG_DESC": "SHIMLA",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "HP64 ",
+		"STATE": "HIMACHAL PRADESH",
+		"RTA_LOC_NAME": "SOLAN",
+		"LOC_LONG_DESC": "SOLAN",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "HP65 ",
+		"STATE": "HIMACHAL PRADESH",
+		"RTA_LOC_NAME": "MANDI",
+		"LOC_LONG_DESC": "MANDI",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "HP66 ",
+		"STATE": "HIMACHAL PRADESH",
+		"RTA_LOC_NAME": "KULLU",
+		"LOC_LONG_DESC": "KULLU",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "HP67 ",
+		"STATE": "HIMACHAL PRADESH",
+		"RTA_LOC_NAME": "Hamirpur",
+		"LOC_LONG_DESC": "HAMIRPUR",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "HP68 ",
+		"STATE": "HIMACHAL PRADESH",
+		"RTA_LOC_NAME": "Bangana",
+		"LOC_LONG_DESC": "BANGANA",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "HP69 ",
+		"STATE": "HIMACHAL PRADESH",
+		"RTA_LOC_NAME": "BILASPUR",
+		"LOC_LONG_DESC": "BILASPUR",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "HP71 ",
+		"STATE": "HIMACHAL PRADESH",
+		"RTA_LOC_NAME": "NAHAN",
+		"LOC_LONG_DESC": "NAHAN",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "HP72 ",
+		"STATE": "HIMACHAL PRADESH",
+		"RTA_LOC_NAME": "UNA",
+		"LOC_LONG_DESC": "UNA",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "HP73 ",
+		"STATE": "HIMACHAL PRADESH",
+		"RTA_LOC_NAME": "CHAMBA",
+		"LOC_LONG_DESC": "CHAMBA",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "HP74 ",
+		"STATE": "HIMACHAL PRADESH",
+		"RTA_LOC_NAME": "NADAUN / HAMIRPUR",
+		"LOC_LONG_DESC": "BHORANJ",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "HP76 ",
+		"STATE": "HIMACHAL PRADESH",
+		"RTA_LOC_NAME": "MANDI",
+		"LOC_LONG_DESC": "MANDI",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "HP77 ",
+		"STATE": "HIMACHAL PRADESH",
+		"RTA_LOC_NAME": "Dodrakawar",
+		"LOC_LONG_DESC": "DODRAKAWAR",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "HP78 ",
+		"STATE": "HIMACHAL PRADESH",
+		"RTA_LOC_NAME": "Bangana",
+		"LOC_LONG_DESC": " Una",
+		"PV": "BANGANA",
+		"TW": " UNA"
+	},
+	{
+		"RTA_CODE": "HP79 ",
+		"STATE": "HIMACHAL PRADESH",
+		"RTA_LOC_NAME": "SANGRAH",
+		"LOC_LONG_DESC": "SANGRAH",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "HP80 ",
+		"STATE": "HIMACHAL PRADESH",
+		"RTA_LOC_NAME": "Haroli",
+		"LOC_LONG_DESC": " Una",
+		"PV": "HAROLI",
+		"TW": " UNA"
+	},
+	{
+		"RTA_CODE": "HP81 ",
+		"STATE": "HIMACHAL PRADESH",
+		"RTA_LOC_NAME": "Salooni",
+		"LOC_LONG_DESC": "SALOONI",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "HP82 ",
+		"STATE": "HIMACHAL PRADESH",
+		"RTA_LOC_NAME": "Mandi ",
+		"LOC_LONG_DESC": "MANDI ",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "HP83 ",
+		"STATE": "HIMACHAL PRADESH",
+		"RTA_LOC_NAME": "Jawalaji",
+		"LOC_LONG_DESC": " Kangra",
+		"PV": "JAWALAJI",
+		"TW": " KANGRA"
+	},
+	{
+		"RTA_CODE": "HP84 ",
+		"STATE": "HIMACHAL PRADESH",
+		"RTA_LOC_NAME": "Sujanpur Tihra",
+		"LOC_LONG_DESC": " Hamirpur",
+		"PV": "SUJANPUR TIHRA",
+		"TW": " HAMIRPUR"
+	},
+	{
+		"RTA_CODE": "HP85 ",
+		"STATE": "HIMACHAL PRADESH",
+		"RTA_LOC_NAME": "Shillai",
+		"LOC_LONG_DESC": "SHILLAI",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "HP86 ",
+		"STATE": "HIMACHAL PRADESH",
+		"RTA_LOC_NAME": "Sarkaghat",
+		"LOC_LONG_DESC": "Dharmpur",
+		"PV": "SARKAGHAT",
+		"TW": "DHARMPUR"
+	},
+	{
+		"RTA_CODE": "HR01 ",
+		"STATE": "HARYANA",
+		"RTA_LOC_NAME": "Ambala",
+		"LOC_LONG_DESC": "AMBALA",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "HR02 ",
+		"STATE": "HARYANA",
+		"RTA_LOC_NAME": "Jagadhri",
+		"LOC_LONG_DESC": "JAGADHRI",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "HR02      ",
+		"STATE": "HARYANA",
+		"RTA_LOC_NAME": "Yamuna Nagar",
+		"LOC_LONG_DESC": "YAMUNA NAGAR",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "HR03 ",
+		"STATE": "HARYANA",
+		"RTA_LOC_NAME": "Panchkula",
+		"LOC_LONG_DESC": "PANCHKULA",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "HR04 ",
+		"STATE": "HARYANA",
+		"RTA_LOC_NAME": "Naraigarh",
+		"LOC_LONG_DESC": "NARAIGARH",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "HR05 ",
+		"STATE": "HARYANA",
+		"RTA_LOC_NAME": "Karnal",
+		"LOC_LONG_DESC": "KARNAL",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "HR06 ",
+		"STATE": "HARYANA",
+		"RTA_LOC_NAME": "Panipat",
+		"LOC_LONG_DESC": "PANIPAT",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "HR07 ",
+		"STATE": "HARYANA",
+		"RTA_LOC_NAME": "Kurukshetra",
+		"LOC_LONG_DESC": "KURUKSHETRA",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "HR08 ",
+		"STATE": "HARYANA",
+		"RTA_LOC_NAME": "Kaithal",
+		"LOC_LONG_DESC": "KAITHAL",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "HR09 ",
+		"STATE": "HARYANA",
+		"RTA_LOC_NAME": "Gulah",
+		"LOC_LONG_DESC": "GULAH",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "HR10 ",
+		"STATE": "HARYANA",
+		"RTA_LOC_NAME": "Sonepat",
+		"LOC_LONG_DESC": "SONEPAT",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "HR11 ",
+		"STATE": "HARYANA",
+		"RTA_LOC_NAME": "Gohana",
+		"LOC_LONG_DESC": "GOHANA",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "HR12 ",
+		"STATE": "HARYANA",
+		"RTA_LOC_NAME": "Rohtak",
+		"LOC_LONG_DESC": "ROHTAK",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "HR13 ",
+		"STATE": "HARYANA",
+		"RTA_LOC_NAME": "Bahadurgarh",
+		"LOC_LONG_DESC": "BAHADURGARH",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "HR14 ",
+		"STATE": "HARYANA",
+		"RTA_LOC_NAME": "Jhajjar",
+		"LOC_LONG_DESC": "JHAJJIR",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "HR15 ",
+		"STATE": "HARYANA",
+		"RTA_LOC_NAME": "Meham",
+		"LOC_LONG_DESC": "MEHAM",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "HR16 ",
+		"STATE": "HARYANA",
+		"RTA_LOC_NAME": "Bhiwani",
+		"LOC_LONG_DESC": "BHIWANI",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "HR17 ",
+		"STATE": "HARYANA",
+		"RTA_LOC_NAME": "Siwani",
+		"LOC_LONG_DESC": "SIWANI",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "HR18 ",
+		"STATE": "HARYANA",
+		"RTA_LOC_NAME": "Loharu",
+		"LOC_LONG_DESC": "LOHARU",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "HR19 ",
+		"STATE": "HARYANA",
+		"RTA_LOC_NAME": "Charkhi Dadri",
+		"LOC_LONG_DESC": "CHARKHI DADRI",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "HR20 ",
+		"STATE": "HARYANA",
+		"RTA_LOC_NAME": "Hisar",
+		"LOC_LONG_DESC": "HISAR",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "HR21 ",
+		"STATE": "HARYANA",
+		"RTA_LOC_NAME": "Hansi",
+		"LOC_LONG_DESC": "HANSI",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "HR22 ",
+		"STATE": "HARYANA",
+		"RTA_LOC_NAME": "Fatehabad",
+		"LOC_LONG_DESC": "FATEHABAD",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "HR23 ",
+		"STATE": "HARYANA",
+		"RTA_LOC_NAME": "Tohana",
+		"LOC_LONG_DESC": "TOHANA",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "HR24 ",
+		"STATE": "HARYANA",
+		"RTA_LOC_NAME": "Sirsa",
+		"LOC_LONG_DESC": "SIRSA",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "HR25 ",
+		"STATE": "HARYANA",
+		"RTA_LOC_NAME": "Dabwali",
+		"LOC_LONG_DESC": "DABWALI",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "HR26 ",
+		"STATE": "HARYANA",
+		"RTA_LOC_NAME": "Gurgaon",
+		"LOC_LONG_DESC": "GURGAON",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "HR27 ",
+		"STATE": "HARYANA",
+		"RTA_LOC_NAME": "NUH HISAR",
+		"LOC_LONG_DESC": "NUH / HISAR",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "HR28 ",
+		"STATE": "HARYANA",
+		"RTA_LOC_NAME": "Ferozepur Zhirka",
+		"LOC_LONG_DESC": "FEROZEPUR ZHIRKA",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "HR29 ",
+		"STATE": "HARYANA",
+		"RTA_LOC_NAME": "Ballabgarh",
+		"LOC_LONG_DESC": "BALLABGARH",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "HR30 ",
+		"STATE": "HARYANA",
+		"RTA_LOC_NAME": "Palwal",
+		"LOC_LONG_DESC": "PALWAL",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "HR31 ",
+		"STATE": "HARYANA",
+		"RTA_LOC_NAME": "Jind",
+		"LOC_LONG_DESC": "JIND",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "HR32 ",
+		"STATE": "HARYANA",
+		"RTA_LOC_NAME": "Narwana",
+		"LOC_LONG_DESC": "NARWANA",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "HR33 ",
+		"STATE": "HARYANA",
+		"RTA_LOC_NAME": "Safidon",
+		"LOC_LONG_DESC": "SAFIDON",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "HR34 ",
+		"STATE": "HARYANA",
+		"RTA_LOC_NAME": "Mohindergarh",
+		"LOC_LONG_DESC": "MOHINDERGARH",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "HR35 ",
+		"STATE": "HARYANA",
+		"RTA_LOC_NAME": "Narnaul",
+		"LOC_LONG_DESC": "NARNAUL",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "HR36 ",
+		"STATE": "HARYANA",
+		"RTA_LOC_NAME": "Rewari",
+		"LOC_LONG_DESC": "REWARI",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "HR37 ",
+		"STATE": "HARYANA",
+		"RTA_LOC_NAME": "AMBALA COMMERCIAL VEHICLES",
+		"LOC_LONG_DESC": "AMBALA COMMERCIAL VEHICLES",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "HR38 ",
+		"STATE": "HARYANA",
+		"RTA_LOC_NAME": "Faridabad",
+		"LOC_LONG_DESC": "FARIDABAD",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "HR39 ",
+		"STATE": "HARYANA",
+		"RTA_LOC_NAME": "Hisar",
+		"LOC_LONG_DESC": "HISAR",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "HR40 ",
+		"STATE": "HARYANA",
+		"RTA_LOC_NAME": "Assandh",
+		"LOC_LONG_DESC": "ASSANDH",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "HR41 ",
+		"STATE": "HARYANA",
+		"RTA_LOC_NAME": "Pehowa",
+		"LOC_LONG_DESC": "PEHOWA",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "HR42 ",
+		"STATE": "HARYANA",
+		"RTA_LOC_NAME": "Ganaur",
+		"LOC_LONG_DESC": "GANAUR",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "HR43 ",
+		"STATE": "HARYANA",
+		"RTA_LOC_NAME": "Kosli",
+		"LOC_LONG_DESC": "KOSLI",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "HR44 ",
+		"STATE": "HARYANA",
+		"RTA_LOC_NAME": "Ellanabad",
+		"LOC_LONG_DESC": "ELLANABAD",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "HR45 ",
+		"STATE": "HARYANA",
+		"RTA_LOC_NAME": "Ellanabad",
+		"LOC_LONG_DESC": "ELLANABAD",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "HR46 ",
+		"STATE": "HARYANA",
+		"RTA_LOC_NAME": "Rohtak",
+		"LOC_LONG_DESC": "ROHTAK",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "HR47 ",
+		"STATE": "HARYANA",
+		"RTA_LOC_NAME": "Rewari",
+		"LOC_LONG_DESC": "REWARI",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "HR48 ",
+		"STATE": "HARYANA",
+		"RTA_LOC_NAME": "Tobhama",
+		"LOC_LONG_DESC": "TOBHAMA",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "HR49 ",
+		"STATE": "HARYANA",
+		"RTA_LOC_NAME": "Kalka",
+		"LOC_LONG_DESC": "KALKA",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "HR50 ",
+		"STATE": "HARYANA",
+		"RTA_LOC_NAME": "Hodal",
+		"LOC_LONG_DESC": "HODAL",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "HR51 ",
+		"STATE": "HARYANA",
+		"RTA_LOC_NAME": "Faridabad",
+		"LOC_LONG_DESC": "FARIDABAD",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "HR52 ",
+		"STATE": "UTTAR PRADESH",
+		"RTA_LOC_NAME": "HATIN ",
+		"LOC_LONG_DESC": "HATIN ",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "HR53 ",
+		"STATE": "HARYANA",
+		"RTA_LOC_NAME": "Adampur",
+		"LOC_LONG_DESC": "ADAMPUR",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "HR54 ",
+		"STATE": "HARYANA",
+		"RTA_LOC_NAME": "Borara",
+		"LOC_LONG_DESC": "BORARA",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "HR55 ",
+		"STATE": "HARYANA",
+		"RTA_LOC_NAME": "Gurgaon",
+		"LOC_LONG_DESC": "GURGAON",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "HR56 ",
+		"STATE": "HARYANA",
+		"RTA_LOC_NAME": "JIND",
+		"LOC_LONG_DESC": "JIND",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "HR57 ",
+		"STATE": "HARYANA",
+		"RTA_LOC_NAME": "SIRSA COMMERCIAL VEHICLES ONLY",
+		"LOC_LONG_DESC": "SIRSA COMMERCIAL VEHICLES ONLY",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "HR58 ",
+		"STATE": "HARYANA",
+		"RTA_LOC_NAME": "Sant Kabir Nagar",
+		"LOC_LONG_DESC": "SANT KABIR NAGAR",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "HR59 ",
+		"STATE": "HARYANA",
+		"RTA_LOC_NAME": "JAGADHARI",
+		"LOC_LONG_DESC": "JAGADHARI",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "HR60 ",
+		"STATE": "HARYANA",
+		"RTA_LOC_NAME": "SAMALKHA",
+		"LOC_LONG_DESC": "SAMALKHA",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "HR61 ",
+		"STATE": "HARYANA",
+		"RTA_LOC_NAME": "BHIWANI",
+		"LOC_LONG_DESC": "BHIWANI",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "HR62 ",
+		"STATE": "HARYANA",
+		"RTA_LOC_NAME": "FATEHABAD",
+		"LOC_LONG_DESC": "FATEHABAD",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "HR63 ",
+		"STATE": "HARYANA",
+		"RTA_LOC_NAME": "Bahadurgarh",
+		"LOC_LONG_DESC": "BAHADURGARH",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "HR64 ",
+		"STATE": "HARYANA",
+		"RTA_LOC_NAME": "KAITHAL",
+		"LOC_LONG_DESC": "KAITHAL",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "HR65 ",
+		"STATE": "HARYANA",
+		"RTA_LOC_NAME": "KURUKSHETRA",
+		"LOC_LONG_DESC": "KURUKSHETRA",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "HR66 ",
+		"STATE": "HARYANA",
+		"RTA_LOC_NAME": "NARNAUL",
+		"LOC_LONG_DESC": "NARNAUL",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "HR67 ",
+		"STATE": "HARYANA",
+		"RTA_LOC_NAME": "Panipat",
+		"LOC_LONG_DESC": "PANIPAT",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "HR68 ",
+		"STATE": "HARYANA",
+		"RTA_LOC_NAME": "Panchkula",
+		"LOC_LONG_DESC": "PANCHKULA",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "HR69 ",
+		"STATE": "HARYANA",
+		"RTA_LOC_NAME": "Sonipat",
+		"LOC_LONG_DESC": "SONIPAT",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "HR70 ",
+		"STATE": "HARYANA",
+		"RTA_LOC_NAME": "Panchaula",
+		"LOC_LONG_DESC": "PANCHKULA",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "HR71 ",
+		"STATE": "HARYANA",
+		"RTA_LOC_NAME": "YAMUNA NAGAR",
+		"LOC_LONG_DESC": "YAMUNA NAGAR",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "HR72 ",
+		"STATE": "Harayana",
+		"RTA_LOC_NAME": "GURGAON SOUTH",
+		"LOC_LONG_DESC": "GURGAON SOUTH",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "HR73 ",
+		"STATE": "HARYANA",
+		"RTA_LOC_NAME": "PALWAL",
+		"LOC_LONG_DESC": "PALWAL",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "HR74 ",
+		"STATE": "HARYANA",
+		"RTA_LOC_NAME": "Nuh",
+		"LOC_LONG_DESC": "NUH",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "HR75 ",
+		"STATE": "HARYANA",
+		"RTA_LOC_NAME": "KARNAL",
+		"LOC_LONG_DESC": "KARNAL",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "HR76 ",
+		"STATE": "HARYANA",
+		"RTA_LOC_NAME": "PATAUDI",
+		"LOC_LONG_DESC": "PATAUDI",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "HR77 ",
+		"STATE": "HARYANA",
+		"RTA_LOC_NAME": "JHAJJAR",
+		"LOC_LONG_DESC": "JHAJJAR",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "HR78 ",
+		"STATE": "HARYANA",
+		"RTA_LOC_NAME": "Shahabad Markanda",
+		"LOC_LONG_DESC": "Shahabad Markanda",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "HR79 ",
+		"STATE": "HARYANA",
+		"RTA_LOC_NAME": "Kharkhoda",
+		"LOC_LONG_DESC": "KHARKHODA",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "HR80 ",
+		"STATE": "HARYANA",
+		"RTA_LOC_NAME": "BARWALA",
+		"LOC_LONG_DESC": "BARWALA",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "HR81 ",
+		"STATE": "HARYANA",
+		"RTA_LOC_NAME": "Bawal",
+		"LOC_LONG_DESC": "BAWAL",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "HR82 ",
+		"STATE": "HARYANA",
+		"RTA_LOC_NAME": "KANINA ",
+		"LOC_LONG_DESC": "KANINA ",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "HR86 ",
+		"STATE": "HARYANA",
+		"RTA_LOC_NAME": "Sonipat",
+		"LOC_LONG_DESC": "SONIPAT",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "HR88 ",
+		"STATE": "HARYANA",
+		"RTA_LOC_NAME": "Kundli",
+		"LOC_LONG_DESC": "KUNDLI",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "JH01 ",
+		"STATE": "JHARKHAND",
+		"RTA_LOC_NAME": "Ranchi",
+		"LOC_LONG_DESC": "RANCHI",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "JH02 ",
+		"STATE": "JHARKHAND",
+		"RTA_LOC_NAME": "Hazaribagh",
+		"LOC_LONG_DESC": "HAZARIBAGH",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "JH03 ",
+		"STATE": "JHARKHAND",
+		"RTA_LOC_NAME": "Daltonganj",
+		"LOC_LONG_DESC": "DALTONGANJ",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "JH04 ",
+		"STATE": "JHARKHAND",
+		"RTA_LOC_NAME": "Dumka",
+		"LOC_LONG_DESC": "Not available",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "JH05 ",
+		"STATE": "JHARKHAND",
+		"RTA_LOC_NAME": "Jamshedpur",
+		"LOC_LONG_DESC": "JEMSHEDPUR",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "JH06 ",
+		"STATE": "JHARKHAND",
+		"RTA_LOC_NAME": "Giridih",
+		"LOC_LONG_DESC": "GIRIDIH",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "JH07 ",
+		"STATE": "JHARKHAND",
+		"RTA_LOC_NAME": "Dhir",
+		"LOC_LONG_DESC": "Dhir",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "JH08 ",
+		"STATE": "JHARKHAND",
+		"RTA_LOC_NAME": "Lohardaga",
+		"LOC_LONG_DESC": "LOHARDAGA",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "JH09 ",
+		"STATE": "JHARKHAND",
+		"RTA_LOC_NAME": "Bokaro",
+		"LOC_LONG_DESC": "BOKARO",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "JH10 ",
+		"STATE": "JHARKHAND",
+		"RTA_LOC_NAME": "Dhanbad",
+		"LOC_LONG_DESC": "DHANBAD",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "JH11 ",
+		"STATE": "JHARKHAND",
+		"RTA_LOC_NAME": "Giridih",
+		"LOC_LONG_DESC": "GIRIDIH",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "JH12 ",
+		"STATE": "JHARKHAND",
+		"RTA_LOC_NAME": "Koderma",
+		"LOC_LONG_DESC": "KODERMA",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "JH13 ",
+		"STATE": "JHARKHAND",
+		"RTA_LOC_NAME": "Chatra",
+		"LOC_LONG_DESC": "CHATRA",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "JH14 ",
+		"STATE": "JHARKHAND",
+		"RTA_LOC_NAME": "Gumla",
+		"LOC_LONG_DESC": "GUMLA",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "JH15 ",
+		"STATE": "JHARKHAND",
+		"RTA_LOC_NAME": "DEOGHAR",
+		"LOC_LONG_DESC": "DEOGHAR",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "JH16 ",
+		"STATE": "JHARKHAND",
+		"RTA_LOC_NAME": "Pakur",
+		"LOC_LONG_DESC": "PAKUR",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "JH17 ",
+		"STATE": "JHARKHAND",
+		"RTA_LOC_NAME": "Godda",
+		"LOC_LONG_DESC": "GODDA",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "JH18 ",
+		"STATE": "JHARKHAND",
+		"RTA_LOC_NAME": "Sahibganj",
+		"LOC_LONG_DESC": "SAHIBGANJ",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "JH19 ",
+		"STATE": "JHARKHAND",
+		"RTA_LOC_NAME": "LATEHAR",
+		"LOC_LONG_DESC": "LATEHAR",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "JH20 ",
+		"STATE": "JHARKHAND",
+		"RTA_LOC_NAME": "Simdega",
+		"LOC_LONG_DESC": "SIMDEGA",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "JH21 ",
+		"STATE": "JHARKHAND",
+		"RTA_LOC_NAME": "Jamtara",
+		"LOC_LONG_DESC": "JAMTARA",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "JH22 ",
+		"STATE": "JHARKHAND",
+		"RTA_LOC_NAME": "Saraikela-Kharsawan",
+		"LOC_LONG_DESC": "SARAIKELA-KHARSAWAN",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "JK01 ",
+		"STATE": "JAMMU and KASHMIR",
+		"RTA_LOC_NAME": "Srinagar",
+		"LOC_LONG_DESC": "SRINAGAR",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "JK02 ",
+		"STATE": "JAMMU and KASHMIR",
+		"RTA_LOC_NAME": "Jammu",
+		"LOC_LONG_DESC": "JAMMU",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "JK03 ",
+		"STATE": "JAMMU and KASHMIR",
+		"RTA_LOC_NAME": "Ananthnag",
+		"LOC_LONG_DESC": "ANANTHNAG",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "JK04 ",
+		"STATE": "JAMMU and KASHMIR",
+		"RTA_LOC_NAME": "Budgam",
+		"LOC_LONG_DESC": "BUDGAM",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "JK05 ",
+		"STATE": "JAMMU and KASHMIR",
+		"RTA_LOC_NAME": "Barmulla",
+		"LOC_LONG_DESC": "BARMULLA",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "JK06 ",
+		"STATE": "JAMMU and KASHMIR",
+		"RTA_LOC_NAME": "DODA",
+		"LOC_LONG_DESC": "DODA",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "JK07 ",
+		"STATE": "JAMMU and KASHMIR",
+		"RTA_LOC_NAME": "Kargil",
+		"LOC_LONG_DESC": "KARGIL",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "JK08 ",
+		"STATE": "JAMMU and KASHMIR",
+		"RTA_LOC_NAME": "Katua",
+		"LOC_LONG_DESC": "KATUA",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "JK09 ",
+		"STATE": "JAMMU and KASHMIR",
+		"RTA_LOC_NAME": "Kupwara",
+		"LOC_LONG_DESC": "KUPWARA",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "JK10 ",
+		"STATE": "JAMMU and KASHMIR",
+		"RTA_LOC_NAME": "Leh",
+		"LOC_LONG_DESC": "LEH",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "JK11 ",
+		"STATE": "JAMMU and KASHMIR",
+		"RTA_LOC_NAME": "Rajouri",
+		"LOC_LONG_DESC": "RAJOURI",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "JK12 ",
+		"STATE": "JAMMU and KASHMIR",
+		"RTA_LOC_NAME": "Poonch",
+		"LOC_LONG_DESC": "POONCH",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "JK13 ",
+		"STATE": "JAMMU and KASHMIR",
+		"RTA_LOC_NAME": "Pulwama",
+		"LOC_LONG_DESC": "PULWAMA",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "JK14 ",
+		"STATE": "JAMMU and KASHMIR",
+		"RTA_LOC_NAME": "KISHTWAR",
+		"LOC_LONG_DESC": "KISHTWAR",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "JK15 ",
+		"STATE": "JHARKHAND",
+		"RTA_LOC_NAME": "BANDIPORA",
+		"LOC_LONG_DESC": "BANDIPORA",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "JK16 ",
+		"STATE": "JHARKHAND",
+		"RTA_LOC_NAME": "GANDERBAL",
+		"LOC_LONG_DESC": "GANDERBAL",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "JK18 ",
+		"STATE": "JAMMU and KASHMIR",
+		"RTA_LOC_NAME": "KULGAM",
+		"LOC_LONG_DESC": "KULGAM",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "JK19 ",
+		"STATE": "JAMMU and KASHMIR",
+		"RTA_LOC_NAME": "RAMBAN",
+		"LOC_LONG_DESC": "RAMBAN",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "JK20 ",
+		"STATE": "JAMMU and KASHMIR",
+		"RTA_LOC_NAME": "REASI",
+		"LOC_LONG_DESC": "REASI",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "JK21 ",
+		"STATE": "JAMMU and KASHMIR",
+		"RTA_LOC_NAME": "SAMBA ",
+		"LOC_LONG_DESC": "SAMBA ",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "JK22 ",
+		"STATE": "JHARKHAND",
+		"RTA_LOC_NAME": "SHOPIAN",
+		"LOC_LONG_DESC": "SHOPIAN",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "JKO6 ",
+		"STATE": "JAMMU and KASHMIR",
+		"RTA_LOC_NAME": "Doda",
+		"LOC_LONG_DESC": "DODA",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "KA01 ",
+		"STATE": "KARNATAKA",
+		"RTA_LOC_NAME": "Bangalore Kormangala",
+		"LOC_LONG_DESC": "KORMANGALA",
+		"PV": "A",
+		"TW": "A"
+	},
+	{
+		"RTA_CODE": "KA02 ",
+		"STATE": "KARNATAKA",
+		"RTA_LOC_NAME": "Bangalore Rajajinagar",
+		"LOC_LONG_DESC": "RAJAJINAGAR",
+		"PV": "A",
+		"TW": "A"
+	},
+	{
+		"RTA_CODE": "KA03 ",
+		"STATE": "KARNATAKA",
+		"RTA_LOC_NAME": "Bangalore Indiranagar",
+		"LOC_LONG_DESC": "INDIRANAGAR",
+		"PV": "A",
+		"TW": "A"
+	},
+	{
+		"RTA_CODE": "KA04 ",
+		"STATE": "KARNATAKA",
+		"RTA_LOC_NAME": "Bangalore Yashwanthpur",
+		"LOC_LONG_DESC": "YESHWANTHPUR",
+		"PV": "A",
+		"TW": "A"
+	},
+	{
+		"RTA_CODE": "KA05 ",
+		"STATE": "KARNATAKA",
+		"RTA_LOC_NAME": "Bangalore Jayanagar",
+		"LOC_LONG_DESC": "JAYANAGAR",
+		"PV": "A",
+		"TW": "A"
+	},
+	{
+		"RTA_CODE": "KA06 ",
+		"STATE": "KARNATAKA",
+		"RTA_LOC_NAME": "Tumkur",
+		"LOC_LONG_DESC": "TUMKUR",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "KA07 ",
+		"STATE": "KARNATAKA",
+		"RTA_LOC_NAME": "Kolar",
+		"LOC_LONG_DESC": "KOLAR",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "KA08 ",
+		"STATE": "KARNATAKA",
+		"RTA_LOC_NAME": "KOLAR GOLD",
+		"LOC_LONG_DESC": "KOLAR GOLD FIELDS",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "KA09 ",
+		"STATE": "KARNATAKA",
+		"RTA_LOC_NAME": "Mysore",
+		"LOC_LONG_DESC": "MYSORE",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "KA10 ",
+		"STATE": "KARNATAKA",
+		"RTA_LOC_NAME": "Chamrajnagar",
+		"LOC_LONG_DESC": "CHAMRAJNAGAR",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "KA11 ",
+		"STATE": "KARNATAKA",
+		"RTA_LOC_NAME": "Mandya",
+		"LOC_LONG_DESC": "MANDYA",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "KA12 ",
+		"STATE": "KARNATAKA",
+		"RTA_LOC_NAME": "Madikeri",
+		"LOC_LONG_DESC": "MADIKERI",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "KA13 ",
+		"STATE": "KARNATAKA",
+		"RTA_LOC_NAME": "Hassan",
+		"LOC_LONG_DESC": "HASSAN",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "KA14 ",
+		"STATE": "KARNATAKA",
+		"RTA_LOC_NAME": "Shimoga",
+		"LOC_LONG_DESC": "SHIMOGA",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "KA15 ",
+		"STATE": "KARNATAKA",
+		"RTA_LOC_NAME": "Sagar",
+		"LOC_LONG_DESC": "SAGAR",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "KA16 ",
+		"STATE": "KARNATAKA",
+		"RTA_LOC_NAME": "Chitradurga",
+		"LOC_LONG_DESC": "CHITRADURGA",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "KA17 ",
+		"STATE": "KARNATAKA",
+		"RTA_LOC_NAME": "Davangeri",
+		"LOC_LONG_DESC": "DAVANGERI",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "KA18 ",
+		"STATE": "KARNATAKA",
+		"RTA_LOC_NAME": "Chickmangalore",
+		"LOC_LONG_DESC": "CHICKMANGALORE",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "KA19 ",
+		"STATE": "KARNATAKA",
+		"RTA_LOC_NAME": "Mangalore",
+		"LOC_LONG_DESC": "MANGALORE",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "KA20 ",
+		"STATE": "KARNATAKA",
+		"RTA_LOC_NAME": "Udupi",
+		"LOC_LONG_DESC": "UDUPI",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "KA21 ",
+		"STATE": "KARNATAKA",
+		"RTA_LOC_NAME": "Puttur",
+		"LOC_LONG_DESC": "PUTTUR",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "KA22 ",
+		"STATE": "KARNATAKA",
+		"RTA_LOC_NAME": "Belgaum",
+		"LOC_LONG_DESC": "BELGUM",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "KA23 ",
+		"STATE": "KARNATAKA",
+		"RTA_LOC_NAME": "Chikkodi",
+		"LOC_LONG_DESC": "CHIKKODI",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "KA24 ",
+		"STATE": "KARNATAKA",
+		"RTA_LOC_NAME": "Bailhongal",
+		"LOC_LONG_DESC": "BAILHONGAL",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "KA25 ",
+		"STATE": "KARNATAKA",
+		"RTA_LOC_NAME": "Dharwad",
+		"LOC_LONG_DESC": "DHARWAD",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "KA26 ",
+		"STATE": "KARNATAKA",
+		"RTA_LOC_NAME": "Gadag",
+		"LOC_LONG_DESC": "GADAG",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "KA27 ",
+		"STATE": "KARNATAKA",
+		"RTA_LOC_NAME": "Haveri",
+		"LOC_LONG_DESC": "HAVERI",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "KA28 ",
+		"STATE": "KARNATAKA",
+		"RTA_LOC_NAME": "Bijapur",
+		"LOC_LONG_DESC": "BIJAPUR",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "KA29 ",
+		"STATE": "KARNATAKA",
+		"RTA_LOC_NAME": "Bagalkot",
+		"LOC_LONG_DESC": "BAGALKOT",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "KA30 ",
+		"STATE": "KARNATAKA",
+		"RTA_LOC_NAME": "Karwar",
+		"LOC_LONG_DESC": "KARWAR",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "KA31 ",
+		"STATE": "KARNATAKA",
+		"RTA_LOC_NAME": "Sirsi",
+		"LOC_LONG_DESC": "SIRSI",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "KA32 ",
+		"STATE": "KARNATAKA",
+		"RTA_LOC_NAME": "Gulbarga",
+		"LOC_LONG_DESC": "GULBARGA",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "KA33 ",
+		"STATE": "KARNATAKA",
+		"RTA_LOC_NAME": "Yadgiri",
+		"LOC_LONG_DESC": "YADGIRI",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "KA34 ",
+		"STATE": "KARNATAKA",
+		"RTA_LOC_NAME": "Bellary",
+		"LOC_LONG_DESC": "BELLARY",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "KA35 ",
+		"STATE": "KARNATAKA",
+		"RTA_LOC_NAME": "Hospet",
+		"LOC_LONG_DESC": "HOSPET",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "KA36 ",
+		"STATE": "KARNATAKA",
+		"RTA_LOC_NAME": "Raichur",
+		"LOC_LONG_DESC": "RAICHUR",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "KA37 ",
+		"STATE": "KARNATAKA",
+		"RTA_LOC_NAME": "Koppal",
+		"LOC_LONG_DESC": "KOPPAL",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "KA38 ",
+		"STATE": "KARNATAKA",
+		"RTA_LOC_NAME": "Bidar",
+		"LOC_LONG_DESC": "BIDAR",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "KA39 ",
+		"STATE": "KARNATAKA",
+		"RTA_LOC_NAME": "Bhalki",
+		"LOC_LONG_DESC": "BHALKI",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "KA40 ",
+		"STATE": "KARNATAKA",
+		"RTA_LOC_NAME": "Chikkaballapur",
+		"LOC_LONG_DESC": "CHIKKABALLAPUR",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "KA41 ",
+		"STATE": "KARNATAKA",
+		"RTA_LOC_NAME": "Bangalore Jnanabharathi",
+		"LOC_LONG_DESC": "JNANABHARATHI",
+		"PV": "A",
+		"TW": "A"
+	},
+	{
+		"RTA_CODE": "KA42 ",
+		"STATE": "KARNATAKA",
+		"RTA_LOC_NAME": "Ramangar",
+		"LOC_LONG_DESC": "RAMANGAR",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "KA43 ",
+		"STATE": "KARNATAKA",
+		"RTA_LOC_NAME": "Devanhalli",
+		"LOC_LONG_DESC": "DEVANHALLI",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "KA44 ",
+		"STATE": "KARNATAKA",
+		"RTA_LOC_NAME": "Tiptur",
+		"LOC_LONG_DESC": "TIPTUR",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "KA45 ",
+		"STATE": "KARNATAKA",
+		"RTA_LOC_NAME": "Hunsur",
+		"LOC_LONG_DESC": "HUNSUR",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "KA46 ",
+		"STATE": "KARNATAKA",
+		"RTA_LOC_NAME": "Sakaleshpur",
+		"LOC_LONG_DESC": "SAKALESHPUR",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "KA47 ",
+		"STATE": "KARNATAKA",
+		"RTA_LOC_NAME": "Honnavar",
+		"LOC_LONG_DESC": "HONNAVAR",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "KA48 ",
+		"STATE": "KARNATAKA",
+		"RTA_LOC_NAME": "Jamkhandi",
+		"LOC_LONG_DESC": "JAMKHANDI",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "KA49 ",
+		"STATE": "KARNATAKA",
+		"RTA_LOC_NAME": "Gokak",
+		"LOC_LONG_DESC": "GOKAK",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "KA50 ",
+		"STATE": "KARNATAKA",
+		"RTA_LOC_NAME": "Bangalore Yalahanka",
+		"LOC_LONG_DESC": "YALAHANKA",
+		"PV": "A",
+		"TW": "A"
+	},
+	{
+		"RTA_CODE": "KA51 ",
+		"STATE": "KARNATAKA",
+		"RTA_LOC_NAME": "Bangalore Electronic City",
+		"LOC_LONG_DESC": "ELECTRONIC CITY",
+		"PV": "A",
+		"TW": "A"
+	},
+	{
+		"RTA_CODE": "KA52 ",
+		"STATE": "KARNATAKA",
+		"RTA_LOC_NAME": "Nelamangala",
+		"LOC_LONG_DESC": "NELAMANGALA",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "KA53 ",
+		"STATE": "KARNATAKA",
+		"RTA_LOC_NAME": "Bangalore KR Puram",
+		"LOC_LONG_DESC": "K.R.PURAM",
+		"PV": "A",
+		"TW": "A"
+	},
+	{
+		"RTA_CODE": "KA54 ",
+		"STATE": "KARNATAKA",
+		"RTA_LOC_NAME": "Nagamangala",
+		"LOC_LONG_DESC": "NAGAMANGALA",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "KA55 ",
+		"STATE": "KARNATAKA",
+		"RTA_LOC_NAME": "MYSORE EAST",
+		"LOC_LONG_DESC": "MYSORE EAST",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "KA56 ",
+		"STATE": "KARNATAKA",
+		"RTA_LOC_NAME": "Basavakalyan",
+		"LOC_LONG_DESC": "BASAVAKALYAN",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "KA58 ",
+		"STATE": "KARNATAKA",
+		"RTA_LOC_NAME": "Banashankari",
+		"LOC_LONG_DESC": "BANASHANKARI",
+		"PV": "A",
+		"TW": "A"
+	},
+	{
+		"RTA_CODE": "KA59 ",
+		"STATE": "KARNATAKA",
+		"RTA_LOC_NAME": "Chamrajpet",
+		"LOC_LONG_DESC": "CHAMRAJPET ",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "KA60 ",
+		"STATE": "KARNATAKA",
+		"RTA_LOC_NAME": "Bangalore R T Nagar",
+		"LOC_LONG_DESC": "R T NAGAR",
+		"PV": "A",
+		"TW": "A"
+	},
+	{
+		"RTA_CODE": "KA61 ",
+		"STATE": "KARNATAKA",
+		"RTA_LOC_NAME": "Bangalroe Marathallli",
+		"LOC_LONG_DESC": "MARATHALLLI",
+		"PV": "A",
+		"TW": "A"
+	},
+	{
+		"RTA_CODE": "KA62 ",
+		"STATE": "KARNATAKA",
+		"RTA_LOC_NAME": "Surathakal",
+		"LOC_LONG_DESC": "SURATHAKAL",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "KA63 ",
+		"STATE": "KARNATAKA",
+		"RTA_LOC_NAME": "Hubli",
+		"LOC_LONG_DESC": "HUBLI",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "KA64 ",
+		"STATE": "KARNATAKA",
+		"RTA_LOC_NAME": "Madhugiri",
+		"LOC_LONG_DESC": "MADHUGIRI",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "KA65 ",
+		"STATE": "KARNATAKA",
+		"RTA_LOC_NAME": "Dandeli",
+		"LOC_LONG_DESC": "DANDELI",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "KA66 ",
+		"STATE": "KARNATAKA",
+		"RTA_LOC_NAME": "Tarikere",
+		"LOC_LONG_DESC": "TARIKERE",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "KA67 ",
+		"STATE": "KARNATAKA",
+		"RTA_LOC_NAME": "Sedam ",
+		"LOC_LONG_DESC": "SEDAM ",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "KL01 ",
+		"STATE": "KERALA",
+		"RTA_LOC_NAME": "Thiruvanthpuram",
+		"LOC_LONG_DESC": "THIRUVANTHPURAM",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "KL02 ",
+		"STATE": "KERALA",
+		"RTA_LOC_NAME": "Kollam",
+		"LOC_LONG_DESC": "KOLLAM",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "KL03 ",
+		"STATE": "KERALA",
+		"RTA_LOC_NAME": "Pathanamthitta",
+		"LOC_LONG_DESC": "PATHANAMTHITTA",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "KL04 ",
+		"STATE": "KERALA",
+		"RTA_LOC_NAME": "Alappuzha",
+		"LOC_LONG_DESC": "ALAPPUZHA",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "KL05 ",
+		"STATE": "KERALA",
+		"RTA_LOC_NAME": "Kottayam",
+		"LOC_LONG_DESC": "KOTTAYAM",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "KL06 ",
+		"STATE": "KERALA",
+		"RTA_LOC_NAME": "Idukki",
+		"LOC_LONG_DESC": "IDUKKI",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "KL07 ",
+		"STATE": "KERALA",
+		"RTA_LOC_NAME": "Ernakulam",
+		"LOC_LONG_DESC": "ERNAKULAM",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "KL08 ",
+		"STATE": "KERALA",
+		"RTA_LOC_NAME": "Thrissur",
+		"LOC_LONG_DESC": "THRISSUR",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "KL09 ",
+		"STATE": "KERALA",
+		"RTA_LOC_NAME": "Palakkad",
+		"LOC_LONG_DESC": "PALAKKAD",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "KL10 ",
+		"STATE": "KERALA",
+		"RTA_LOC_NAME": "Malappuram",
+		"LOC_LONG_DESC": "MALAPPURAM",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "KL11 ",
+		"STATE": "KERALA",
+		"RTA_LOC_NAME": "Kozhikode",
+		"LOC_LONG_DESC": "KOZHIKODE",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "KL12 ",
+		"STATE": "KERALA",
+		"RTA_LOC_NAME": "Wayanad",
+		"LOC_LONG_DESC": "WAYANAD",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "KL13 ",
+		"STATE": "KERALA",
+		"RTA_LOC_NAME": "Kannur",
+		"LOC_LONG_DESC": "KANNUR",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "KL14 ",
+		"STATE": "KERALA",
+		"RTA_LOC_NAME": "Kasargod",
+		"LOC_LONG_DESC": "KASARGOD",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "KL15 ",
+		"STATE": "KERALA",
+		"RTA_LOC_NAME": "Thiruvanthpuram",
+		"LOC_LONG_DESC": "THIRUVANTHPURAM (KERALA STATE)",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "KL16 ",
+		"STATE": "KERALA",
+		"RTA_LOC_NAME": "Attingal",
+		"LOC_LONG_DESC": "ATTINGAL",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "KL17 ",
+		"STATE": "KERALA",
+		"RTA_LOC_NAME": "Muvattupuzha",
+		"LOC_LONG_DESC": "MUVATTUPUZHA",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "KL18 ",
+		"STATE": "KERALA",
+		"RTA_LOC_NAME": "Vatakara",
+		"LOC_LONG_DESC": "VATAKARA",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "KL19 ",
+		"STATE": "KERALA",
+		"RTA_LOC_NAME": "Parassala",
+		"LOC_LONG_DESC": "PARASSALA",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "KL20 ",
+		"STATE": "KERALA",
+		"RTA_LOC_NAME": "Neyyattinkara",
+		"LOC_LONG_DESC": "NEYYATTINKARA",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "KL21 ",
+		"STATE": "KERALA",
+		"RTA_LOC_NAME": "Nedumangad",
+		"LOC_LONG_DESC": "NEDUMANGAD",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "KL22 ",
+		"STATE": "KERALA",
+		"RTA_LOC_NAME": "Kazhakuttam",
+		"LOC_LONG_DESC": "KAZHAKUTTAM",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "KL23 ",
+		"STATE": "KERALA",
+		"RTA_LOC_NAME": "Karunagappally",
+		"LOC_LONG_DESC": "KARUNAGAPPALLY",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "KL24 ",
+		"STATE": "KERALA",
+		"RTA_LOC_NAME": "Kottarakara",
+		"LOC_LONG_DESC": "KOTTARAKARA",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "KL25 ",
+		"STATE": "KERALA",
+		"RTA_LOC_NAME": "Punalur",
+		"LOC_LONG_DESC": "PUNALUR",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "KL26 ",
+		"STATE": "KERALA",
+		"RTA_LOC_NAME": "Adoor",
+		"LOC_LONG_DESC": "ADOOR",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "KL27 ",
+		"STATE": "KERALA",
+		"RTA_LOC_NAME": "Thiruvalla",
+		"LOC_LONG_DESC": "THIRUVALLA",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "KL28 ",
+		"STATE": "KERALA",
+		"RTA_LOC_NAME": "Mallappally",
+		"LOC_LONG_DESC": "MALLAPPALLY",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "KL29 ",
+		"STATE": "KERALA",
+		"RTA_LOC_NAME": "Kayamkulam",
+		"LOC_LONG_DESC": "KAYAMKULAM",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "KL30 ",
+		"STATE": "KERALA",
+		"RTA_LOC_NAME": "Chengannur",
+		"LOC_LONG_DESC": "CHENGANNUR",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "KL31 ",
+		"STATE": "KERALA",
+		"RTA_LOC_NAME": "Mavelikara",
+		"LOC_LONG_DESC": "MAVELIKARA",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "KL32 ",
+		"STATE": "KERALA",
+		"RTA_LOC_NAME": "Cherthala",
+		"LOC_LONG_DESC": "CHERTHALA",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "KL33 ",
+		"STATE": "KERALA",
+		"RTA_LOC_NAME": "Changanassery",
+		"LOC_LONG_DESC": "CHANGANASSERY",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "KL34 ",
+		"STATE": "KERALA",
+		"RTA_LOC_NAME": "Kanjirappally",
+		"LOC_LONG_DESC": "KANJIRAPPALLY",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "KL35 ",
+		"STATE": "KERALA",
+		"RTA_LOC_NAME": "Palai",
+		"LOC_LONG_DESC": "PALAI",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "KL36 ",
+		"STATE": "KERALA",
+		"RTA_LOC_NAME": "Vaikom",
+		"LOC_LONG_DESC": "VAIKOM",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "KL37 ",
+		"STATE": "KERALA",
+		"RTA_LOC_NAME": "Vandiperiyar",
+		"LOC_LONG_DESC": "VANDIPERIYAR",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "KL38 ",
+		"STATE": "KERALA",
+		"RTA_LOC_NAME": "Thodupuzha",
+		"LOC_LONG_DESC": "THODUPUZHA",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "KL39 ",
+		"STATE": "KERALA",
+		"RTA_LOC_NAME": "Thripunithura",
+		"LOC_LONG_DESC": "THRIPUNITHURA",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "KL40 ",
+		"STATE": "KERALA",
+		"RTA_LOC_NAME": "Perumbavoor",
+		"LOC_LONG_DESC": "PERUMBAVOOR",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "KL41 ",
+		"STATE": "KERALA",
+		"RTA_LOC_NAME": "Aluva",
+		"LOC_LONG_DESC": "ALUVA",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "KL42 ",
+		"STATE": "KERALA",
+		"RTA_LOC_NAME": "North Paraur",
+		"LOC_LONG_DESC": "NORTH PARAUR",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "KL43 ",
+		"STATE": "KERALA",
+		"RTA_LOC_NAME": "Mattancherry",
+		"LOC_LONG_DESC": "MATTANCHERRY",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "KL44 ",
+		"STATE": "KERALA",
+		"RTA_LOC_NAME": "Kothamangalam",
+		"LOC_LONG_DESC": "KOTHAMANGALAM",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "KL45 ",
+		"STATE": "KERALA",
+		"RTA_LOC_NAME": "Irinjalakuda",
+		"LOC_LONG_DESC": "IRINJALAKUDA",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "KL46 ",
+		"STATE": "KERALA",
+		"RTA_LOC_NAME": "Guruvayur",
+		"LOC_LONG_DESC": "GURUVAYUR",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "KL47 ",
+		"STATE": "KERALA",
+		"RTA_LOC_NAME": "Kodungalloor",
+		"LOC_LONG_DESC": "KODUNGALLOOR",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "KL48 ",
+		"STATE": "KERALA",
+		"RTA_LOC_NAME": "Wadakkancherry",
+		"LOC_LONG_DESC": "WADAKKANCHERRY",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "KL49 ",
+		"STATE": "KERALA",
+		"RTA_LOC_NAME": "Alathur",
+		"LOC_LONG_DESC": "ALATHUR",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "KL50 ",
+		"STATE": "KERALA",
+		"RTA_LOC_NAME": "Mannarkkad",
+		"LOC_LONG_DESC": "MANNARKKAD",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "KL51 ",
+		"STATE": "KERALA",
+		"RTA_LOC_NAME": "Ottappalam",
+		"LOC_LONG_DESC": "OTTAPPALAM",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "KL52 ",
+		"STATE": "KERALA",
+		"RTA_LOC_NAME": "Pattambi",
+		"LOC_LONG_DESC": "PATTAMBI",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "KL53 ",
+		"STATE": "KERALA",
+		"RTA_LOC_NAME": "Perinthalmanna",
+		"LOC_LONG_DESC": "PERINTHALMANNA",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "KL54 ",
+		"STATE": "KERALA",
+		"RTA_LOC_NAME": "Ponnari",
+		"LOC_LONG_DESC": "PONNARI",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "KL55 ",
+		"STATE": "KERALA",
+		"RTA_LOC_NAME": "Tirur",
+		"LOC_LONG_DESC": "TIRUR",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "KL56 ",
+		"STATE": "KERALA",
+		"RTA_LOC_NAME": "Koyilandy",
+		"LOC_LONG_DESC": "KOYILANDY",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "KL57 ",
+		"STATE": "KERALA",
+		"RTA_LOC_NAME": "Koduvally",
+		"LOC_LONG_DESC": "KODUVALLY",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "KL58 ",
+		"STATE": "KERALA",
+		"RTA_LOC_NAME": "Thalassery",
+		"LOC_LONG_DESC": "THALASSERY",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "KL59 ",
+		"STATE": "KERALA",
+		"RTA_LOC_NAME": "Taliparamba",
+		"LOC_LONG_DESC": "TALIPARAMBA",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "KL60 ",
+		"STATE": "KERALA",
+		"RTA_LOC_NAME": "Kanhangah",
+		"LOC_LONG_DESC": "KANHANGAH",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "KL61 ",
+		"STATE": "KERALA",
+		"RTA_LOC_NAME": "KUNNATHUR",
+		"LOC_LONG_DESC": "KOTTAYAM",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "KL62 ",
+		"STATE": "KERALA",
+		"RTA_LOC_NAME": "RANNI",
+		"LOC_LONG_DESC": "RANNI",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "KL63 ",
+		"STATE": "KERALA",
+		"RTA_LOC_NAME": "ANGAMALY",
+		"LOC_LONG_DESC": "ANGAMALY",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "KL64 ",
+		"STATE": "KERALA",
+		"RTA_LOC_NAME": "CHALAKKUDY",
+		"LOC_LONG_DESC": "CHALAKKUDY",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "KL65 ",
+		"STATE": "KERALA",
+		"RTA_LOC_NAME": "THIRURANGADI",
+		"LOC_LONG_DESC": "THIRURANGADI",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "KL66 ",
+		"STATE": "KERALA",
+		"RTA_LOC_NAME": "KUTTANADU",
+		"LOC_LONG_DESC": "KUTTANADU",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "KL67 ",
+		"STATE": "KERALA",
+		"RTA_LOC_NAME": "UZHAVOOR",
+		"LOC_LONG_DESC": "UZHAVOOR",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "KL68 ",
+		"STATE": "KERALA",
+		"RTA_LOC_NAME": "DEVIKULAM",
+		"LOC_LONG_DESC": "DEVIKULAM",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "KL69 ",
+		"STATE": "KERALA",
+		"RTA_LOC_NAME": "UDUMBANCHOLA",
+		"LOC_LONG_DESC": "UDUMBANCHOLA",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "KL70 ",
+		"STATE": "KERALA",
+		"RTA_LOC_NAME": "CHITTUR",
+		"LOC_LONG_DESC": "CHITTUR",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "KL71 ",
+		"STATE": "KERALA",
+		"RTA_LOC_NAME": "NILAMBUR",
+		"LOC_LONG_DESC": "NILAMBUR",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "KL72 ",
+		"STATE": "KERALA",
+		"RTA_LOC_NAME": "MANANTHAVADY",
+		"LOC_LONG_DESC": "MANANTHAVADY",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "KL73 ",
+		"STATE": "KERALA",
+		"RTA_LOC_NAME": "SULTHAN BATHERY",
+		"LOC_LONG_DESC": "SULTHAN BATHERY",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "LD01 ",
+		"STATE": "LAKSHADWEEP",
+		"RTA_LOC_NAME": "Kavaratti",
+		"LOC_LONG_DESC": "KAVARATTI",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "LD02 ",
+		"STATE": "LAKSHADWEEP",
+		"RTA_LOC_NAME": "Agatti",
+		"LOC_LONG_DESC": "AGATTI",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "LD03 ",
+		"STATE": "LAKSHADWEEP",
+		"RTA_LOC_NAME": "Amini",
+		"LOC_LONG_DESC": "AMINI",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "LD04 ",
+		"STATE": "LAKSHADWEEP",
+		"RTA_LOC_NAME": "Androth",
+		"LOC_LONG_DESC": "ANDROTH",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "LD05 ",
+		"STATE": "LAKSHADWEEP",
+		"RTA_LOC_NAME": "Kadmat",
+		"LOC_LONG_DESC": "KADMAT",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "LD07 ",
+		"STATE": "LAKSHADWEEP",
+		"RTA_LOC_NAME": "Chetlat",
+		"LOC_LONG_DESC": "CHETLAT",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "LD08 ",
+		"STATE": "LAKSHADWEEP",
+		"RTA_LOC_NAME": "Kalpeni",
+		"LOC_LONG_DESC": "KALPENI",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "LD09 ",
+		"STATE": "LAKSHADWEEP",
+		"RTA_LOC_NAME": "Minicoy",
+		"LOC_LONG_DESC": "MINICOY",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "MH01 ",
+		"STATE": "MAHARASHTRA",
+		"RTA_LOC_NAME": "Mumbai",
+		"LOC_LONG_DESC": "MUMBAI",
+		"PV": "A",
+		"TW": "A"
+	},
+	{
+		"RTA_CODE": "MH02 ",
+		"STATE": "MAHARASHTRA",
+		"RTA_LOC_NAME": "Mumbai Andheri",
+		"LOC_LONG_DESC": "ANDHERI",
+		"PV": "A",
+		"TW": "A"
+	},
+	{
+		"RTA_CODE": "MH03 ",
+		"STATE": "MAHARASHTRA",
+		"RTA_LOC_NAME": "Mumbai Wadala",
+		"LOC_LONG_DESC": "WADALA",
+		"PV": "A",
+		"TW": "A"
+	},
+	{
+		"RTA_CODE": "MH04 ",
+		"STATE": "MAHARASHTRA",
+		"RTA_LOC_NAME": "Thane",
+		"LOC_LONG_DESC": "THANE",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "MH05 ",
+		"STATE": "MAHARASHTRA",
+		"RTA_LOC_NAME": "Mumbai Kalyan",
+		"LOC_LONG_DESC": "KALYAN",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "MH06 ",
+		"STATE": "MAHARASHTRA",
+		"RTA_LOC_NAME": "Pen",
+		"LOC_LONG_DESC": "PEN",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "MH07 ",
+		"STATE": "MAHARASHTRA",
+		"RTA_LOC_NAME": "Kudal",
+		"LOC_LONG_DESC": "KUDAL",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "MH08 ",
+		"STATE": "MAHARASHTRA",
+		"RTA_LOC_NAME": "Ratnagiri",
+		"LOC_LONG_DESC": "RATNAGIRI",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "MH09 ",
+		"STATE": "MAHARASHTRA",
+		"RTA_LOC_NAME": "Kolhapur",
+		"LOC_LONG_DESC": "KOLHAPUR",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "MH10 ",
+		"STATE": "MAHARASHTRA",
+		"RTA_LOC_NAME": "Sangli",
+		"LOC_LONG_DESC": "SANGLI",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "MH11 ",
+		"STATE": "MAHARASHTRA",
+		"RTA_LOC_NAME": "Satara",
+		"LOC_LONG_DESC": "SATARA",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "MH12 ",
+		"STATE": "MAHARASHTRA",
+		"RTA_LOC_NAME": "Pune",
+		"LOC_LONG_DESC": "PUNE",
+		"PV": "A",
+		"TW": "A"
+	},
+	{
+		"RTA_CODE": "MH13 ",
+		"STATE": "MAHARASHTRA",
+		"RTA_LOC_NAME": "Solapur",
+		"LOC_LONG_DESC": "SOLAPUR",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "MH14 ",
+		"STATE": "MAHARASHTRA",
+		"RTA_LOC_NAME": "Pimpri",
+		"LOC_LONG_DESC": "PIMPRI",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "MH15 ",
+		"STATE": "MAHARASHTRA",
+		"RTA_LOC_NAME": "Nashik",
+		"LOC_LONG_DESC": "NASHIK",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "MH16 ",
+		"STATE": "MAHARASHTRA",
+		"RTA_LOC_NAME": "Ahmednagar",
+		"LOC_LONG_DESC": "AHMEDNAGAR",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "MH17 ",
+		"STATE": "MAHARASHTRA",
+		"RTA_LOC_NAME": "Shrirampur",
+		"LOC_LONG_DESC": "SHRIRAMPUR",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "MH18 ",
+		"STATE": "MAHARASHTRA",
+		"RTA_LOC_NAME": "Dhule",
+		"LOC_LONG_DESC": "DHULE",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "MH19 ",
+		"STATE": "MAHARASHTRA",
+		"RTA_LOC_NAME": "Jalgaon",
+		"LOC_LONG_DESC": "JALGAON",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "MH20 ",
+		"STATE": "MAHARASHTRA",
+		"RTA_LOC_NAME": "Aurangabad",
+		"LOC_LONG_DESC": "AURNGABAD",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "MH21 ",
+		"STATE": "MAHARASHTRA",
+		"RTA_LOC_NAME": "Jalna",
+		"LOC_LONG_DESC": "JALNA",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "MH22 ",
+		"STATE": "MAHARASHTRA",
+		"RTA_LOC_NAME": "Parbhani",
+		"LOC_LONG_DESC": "PARBHANI",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "MH23 ",
+		"STATE": "MAHARASHTRA",
+		"RTA_LOC_NAME": "Beed",
+		"LOC_LONG_DESC": "BEED",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "MH24 ",
+		"STATE": "MAHARASHTRA",
+		"RTA_LOC_NAME": "Lathur",
+		"LOC_LONG_DESC": "LATHUR",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "MH25 ",
+		"STATE": "MAHARASHTRA",
+		"RTA_LOC_NAME": "Osmanabad",
+		"LOC_LONG_DESC": "OSMANABAD",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "MH26 ",
+		"STATE": "MAHARASHTRA",
+		"RTA_LOC_NAME": "Nanded",
+		"LOC_LONG_DESC": "NANDED",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "MH27 ",
+		"STATE": "MAHARASHTRA",
+		"RTA_LOC_NAME": "Amravathi",
+		"LOC_LONG_DESC": "AMRAVATHI",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "MH28 ",
+		"STATE": "MAHARASHTRA",
+		"RTA_LOC_NAME": "Buldana",
+		"LOC_LONG_DESC": "BULDANA",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "MH29 ",
+		"STATE": "MAHARASHTRA",
+		"RTA_LOC_NAME": "Yavatmal",
+		"LOC_LONG_DESC": "YAVATMAL",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "MH30 ",
+		"STATE": "MAHARASHTRA",
+		"RTA_LOC_NAME": "Akola",
+		"LOC_LONG_DESC": "AKOLA",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "MH31 ",
+		"STATE": "MAHARASHTRA",
+		"RTA_LOC_NAME": "Nagpur",
+		"LOC_LONG_DESC": "NAGPUR",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "MH32 ",
+		"STATE": "MAHARASHTRA",
+		"RTA_LOC_NAME": "Wardha",
+		"LOC_LONG_DESC": "WARDHA",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "MH33 ",
+		"STATE": "MAHARASHTRA",
+		"RTA_LOC_NAME": "Gadchiroli",
+		"LOC_LONG_DESC": "GADCHIROLI",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "MH34 ",
+		"STATE": "MAHARASHTRA",
+		"RTA_LOC_NAME": "Chandrapur",
+		"LOC_LONG_DESC": "CHANDRAPUR",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "MH35 ",
+		"STATE": "MAHARASHTRA",
+		"RTA_LOC_NAME": "Gondia",
+		"LOC_LONG_DESC": "GONDIA",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "MH36 ",
+		"STATE": "MAHARASHTRA",
+		"RTA_LOC_NAME": "Bhandara",
+		"LOC_LONG_DESC": "BHANDARA",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "MH37 ",
+		"STATE": "MAHARASHTRA",
+		"RTA_LOC_NAME": "Washim",
+		"LOC_LONG_DESC": "WASHIM",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "MH38 ",
+		"STATE": "MAHARASHTRA",
+		"RTA_LOC_NAME": "Hingoli",
+		"LOC_LONG_DESC": "HINGOLI",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "MH39 ",
+		"STATE": "MAHARASHTRA",
+		"RTA_LOC_NAME": "Nandurbar",
+		"LOC_LONG_DESC": "NANDURBAR",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "MH40 ",
+		"STATE": "MAHARASHTRA",
+		"RTA_LOC_NAME": "Wadi",
+		"LOC_LONG_DESC": "WADI",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "MH41 ",
+		"STATE": "MAHARASHTRA",
+		"RTA_LOC_NAME": "Malegaon",
+		"LOC_LONG_DESC": "MALEGAON",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "MH42 ",
+		"STATE": "MAHARASHTRA",
+		"RTA_LOC_NAME": "Baramati",
+		"LOC_LONG_DESC": "BARAMATI",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "MH43 ",
+		"STATE": "MAHARASHTRA",
+		"RTA_LOC_NAME": "Mumbai Navi Mumbai",
+		"LOC_LONG_DESC": "NAVI MUMBAI",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "MH44 ",
+		"STATE": "MAHARASHTRA",
+		"RTA_LOC_NAME": "Ambejogai",
+		"LOC_LONG_DESC": "AMBEJOGAI",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "MH45 ",
+		"STATE": "MAHARASHTRA",
+		"RTA_LOC_NAME": "Aklui",
+		"LOC_LONG_DESC": "AKLUI",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "MH46 ",
+		"STATE": "MAHARASHTRA",
+		"RTA_LOC_NAME": "Mumbai Panvel",
+		"LOC_LONG_DESC": "PANVEL",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "MH47 ",
+		"STATE": "MAHARASHTRA",
+		"RTA_LOC_NAME": "MUMBAI NORTH",
+		"LOC_LONG_DESC": "MUMBAI NORTH",
+		"PV": "A",
+		"TW": "A"
+	},
+	{
+		"RTA_CODE": "MH48 ",
+		"STATE": "MAHARASHTRA",
+		"RTA_LOC_NAME": "VASAI",
+		"LOC_LONG_DESC": "B",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "MH49 ",
+		"STATE": "MAHARASHTRA",
+		"RTA_LOC_NAME": "NAGPUR EAST",
+		"LOC_LONG_DESC": "NAGPUR EAST",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "MH50 ",
+		"STATE": "MAHARASHTRA",
+		"RTA_LOC_NAME": "SATARA",
+		"LOC_LONG_DESC": "SATARA",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "MH51 ",
+		"STATE": "MAHARASHTRA",
+		"RTA_LOC_NAME": "NASHIK RURAL",
+		"LOC_LONG_DESC": "NASHIK RURAL",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "MH55 ",
+		"STATE": "MAHARASHTRA",
+		"RTA_LOC_NAME": "JHAJJAR",
+		"LOC_LONG_DESC": "JHAJJAR",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "ML01 ",
+		"STATE": "MEGHALAYA",
+		"RTA_LOC_NAME": "Shillong",
+		"LOC_LONG_DESC": "SHILLONG",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "ML02 ",
+		"STATE": "MEGHALAYA",
+		"RTA_LOC_NAME": "Shillong",
+		"LOC_LONG_DESC": "SHILLONG (POLICE VEHICLE)",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "ML03 ",
+		"STATE": "MEGHALAYA",
+		"RTA_LOC_NAME": "Shillong",
+		"LOC_LONG_DESC": "SHILLONG (VEHICLES OWNED BY TR",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "ML04 ",
+		"STATE": "MEGHALAYA",
+		"RTA_LOC_NAME": "Jaintia Hills",
+		"LOC_LONG_DESC": "JAINTIA HILLS",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "ML05 ",
+		"STATE": "MEGHALAYA",
+		"RTA_LOC_NAME": "East Khasi Hills",
+		"LOC_LONG_DESC": "EAST KHASI HILLS",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "ML06 ",
+		"STATE": "MEGHALAYA",
+		"RTA_LOC_NAME": "West Khasi Hills",
+		"LOC_LONG_DESC": "WEST KHASI HILLS",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "ML07 ",
+		"STATE": "MEGHALAYA",
+		"RTA_LOC_NAME": "East Garo Hills",
+		"LOC_LONG_DESC": "EAST GARO HILLS",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "ML08 ",
+		"STATE": "MEGHALAYA",
+		"RTA_LOC_NAME": "West Garo Hills",
+		"LOC_LONG_DESC": "WEST GARO HILLS",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "ML09 ",
+		"STATE": "MEGHALAYA",
+		"RTA_LOC_NAME": "South Garo Hills",
+		"LOC_LONG_DESC": "SOUTH GARO HILLS",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "ML10 ",
+		"STATE": "MEGHALAYA",
+		"RTA_LOC_NAME": "Ri Bhoi",
+		"LOC_LONG_DESC": "RI - BHOI",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "MN01 ",
+		"STATE": "MANIPUR",
+		"RTA_LOC_NAME": "Imphal",
+		"LOC_LONG_DESC": "IMPHAL",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "MN02 ",
+		"STATE": "MANIPUR",
+		"RTA_LOC_NAME": "Churachandpur",
+		"LOC_LONG_DESC": "CHURACHANDPUR",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "MN03 ",
+		"STATE": "MANIPUR",
+		"RTA_LOC_NAME": "Kangpokpi",
+		"LOC_LONG_DESC": "KANGPOKPI",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "MN04 ",
+		"STATE": "MANIPUR",
+		"RTA_LOC_NAME": "Thoubal",
+		"LOC_LONG_DESC": "THOUBAL",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "MN05 ",
+		"STATE": "MANIPUR",
+		"RTA_LOC_NAME": "Thangal Bazar",
+		"LOC_LONG_DESC": "THANGAL BAZAR",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "MN06 ",
+		"STATE": "MANIPUR",
+		"RTA_LOC_NAME": "Imphal East",
+		"LOC_LONG_DESC": "IMPHAL EAST",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "MN07 ",
+		"STATE": "MANIPUR",
+		"RTA_LOC_NAME": "Ukhrul",
+		"LOC_LONG_DESC": "UKHRUL",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "MP01 ",
+		"STATE": "MADHYA PRADESH",
+		"RTA_LOC_NAME": "GOVER VEHI",
+		"LOC_LONG_DESC": "HONORABLE GOVERNOR'S VEHICLE",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "MP02 ",
+		"STATE": "MADHYA PRADESH",
+		"RTA_LOC_NAME": "GVT VEHI",
+		"LOC_LONG_DESC": "M.P. GOVERMENT VEHICLES",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "MP03 ",
+		"STATE": "MADHYA PRADESH",
+		"RTA_LOC_NAME": "POLI VEHI",
+		"LOC_LONG_DESC": "M.P. POLICE VEHICLE",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "MP04 ",
+		"STATE": "MADHYA PRADESH",
+		"RTA_LOC_NAME": "Bhopal",
+		"LOC_LONG_DESC": "BHOPAL",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "MP05 ",
+		"STATE": "MADHYA PRADESH",
+		"RTA_LOC_NAME": "Hoshangabad",
+		"LOC_LONG_DESC": "HOSHANGABAD",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "MP06 ",
+		"STATE": "MADHYA PRADESH",
+		"RTA_LOC_NAME": "Morena",
+		"LOC_LONG_DESC": "MORENA",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "MP07 ",
+		"STATE": "MADHYA PRADESH",
+		"RTA_LOC_NAME": "Gwalior",
+		"LOC_LONG_DESC": "GWALIOR",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "MP08 ",
+		"STATE": "MADHYA PRADESH",
+		"RTA_LOC_NAME": "Guna",
+		"LOC_LONG_DESC": "GUNA",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "MP09 ",
+		"STATE": "MADHYA PRADESH",
+		"RTA_LOC_NAME": "Indore",
+		"LOC_LONG_DESC": "INDORE",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "MP10 ",
+		"STATE": "MADHYA PRADESH",
+		"RTA_LOC_NAME": "Khargone",
+		"LOC_LONG_DESC": "KHARGONE",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "MP11 ",
+		"STATE": "MADHYA PRADESH",
+		"RTA_LOC_NAME": "Dhar",
+		"LOC_LONG_DESC": "DHAR",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "MP12 ",
+		"STATE": "MADHYA PRADESH",
+		"RTA_LOC_NAME": "Khandwa",
+		"LOC_LONG_DESC": "KHANDWA",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "MP13 ",
+		"STATE": "MADHYA PRADESH",
+		"RTA_LOC_NAME": "Ujjain",
+		"LOC_LONG_DESC": "UJJAIN",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "MP14 ",
+		"STATE": "MADHYA PRADESH",
+		"RTA_LOC_NAME": "Mandsor",
+		"LOC_LONG_DESC": "MANDSOR",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "MP15 ",
+		"STATE": "MADHYA PRADESH",
+		"RTA_LOC_NAME": "Sagar",
+		"LOC_LONG_DESC": "SAGAR",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "MP16 ",
+		"STATE": "MADHYA PRADESH",
+		"RTA_LOC_NAME": "Chhatarpur",
+		"LOC_LONG_DESC": "CHHATARPUR",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "MP17 ",
+		"STATE": "MADHYA PRADESH",
+		"RTA_LOC_NAME": "Rewa",
+		"LOC_LONG_DESC": "REWA",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "MP18 ",
+		"STATE": "MADHYA PRADESH",
+		"RTA_LOC_NAME": "Shahdol",
+		"LOC_LONG_DESC": "SHAHDOL",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "MP19 ",
+		"STATE": "MADHYA PRADESH",
+		"RTA_LOC_NAME": "Satna",
+		"LOC_LONG_DESC": "SATNA",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "MP20 ",
+		"STATE": "MADHYA PRADESH",
+		"RTA_LOC_NAME": "Jabalpur",
+		"LOC_LONG_DESC": "JABALPUR",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "MP21 ",
+		"STATE": "MADHYA PRADESH",
+		"RTA_LOC_NAME": "Katni",
+		"LOC_LONG_DESC": "KATNI",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "MP22 ",
+		"STATE": "MADHYA PRADESH",
+		"RTA_LOC_NAME": "Seoni",
+		"LOC_LONG_DESC": "SEONI",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "MP23 ",
+		"STATE": "MADHYA PRADESH",
+		"RTA_LOC_NAME": "RAIPUR",
+		"LOC_LONG_DESC": "RAIPUR",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "MP24 ",
+		"STATE": "MADHYA PRADESH",
+		"RTA_LOC_NAME": "DURG",
+		"LOC_LONG_DESC": "DURG",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "MP25 ",
+		"STATE": "MADHYA PRADESH",
+		"RTA_LOC_NAME": "Jagadalpur",
+		"LOC_LONG_DESC": "JAGADALPUR",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "MP26 ",
+		"STATE": "MADHYA PRADESH",
+		"RTA_LOC_NAME": "BILASPUR",
+		"LOC_LONG_DESC": "BILASPUR",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "MP27 ",
+		"STATE": "MADHYA PRADESH",
+		"RTA_LOC_NAME": "Ambikapur",
+		"LOC_LONG_DESC": "AMBIKAPUR",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "MP28 ",
+		"STATE": "MADHYA PRADESH",
+		"RTA_LOC_NAME": "Chhindwara",
+		"LOC_LONG_DESC": "CHHINDWARA",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "MP29 ",
+		"STATE": "MADHYA PRADESH",
+		"RTA_LOC_NAME": "PANNA",
+		"LOC_LONG_DESC": "PANNA",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "MP30 ",
+		"STATE": "MADHYA PRADESH",
+		"RTA_LOC_NAME": "BHIND",
+		"LOC_LONG_DESC": "BHIND",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "MP31 ",
+		"STATE": "MADHYA PRADESH",
+		"RTA_LOC_NAME": "SHEOPUR",
+		"LOC_LONG_DESC": "SHEOPUR",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "MP32 ",
+		"STATE": "MADHYA PRADESH",
+		"RTA_LOC_NAME": "DATIA",
+		"LOC_LONG_DESC": "DATIA",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "MP33 ",
+		"STATE": "MADHYA PRADESH",
+		"RTA_LOC_NAME": "SHIVPURI",
+		"LOC_LONG_DESC": "SHIVPURI",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "MP34 ",
+		"STATE": "MADHYA PRADESH",
+		"RTA_LOC_NAME": "Damoh",
+		"LOC_LONG_DESC": "DAMOH",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "MP35 ",
+		"STATE": "MADHYA PRADESH",
+		"RTA_LOC_NAME": "PANNA",
+		"LOC_LONG_DESC": "PANNA",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "MP36 ",
+		"STATE": "MADHYA PRADESH",
+		"RTA_LOC_NAME": "TIKAMGARH",
+		"LOC_LONG_DESC": "TIKAMGARH",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "MP37 ",
+		"STATE": "MADHYA PRADESH",
+		"RTA_LOC_NAME": "Sehore",
+		"LOC_LONG_DESC": "SEHORE",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "MP38 ",
+		"STATE": "MADHYA PRADESH",
+		"RTA_LOC_NAME": "Raisen",
+		"LOC_LONG_DESC": "RAISEN",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "MP39 ",
+		"STATE": "MADHYA PRADESH",
+		"RTA_LOC_NAME": "Jhabua",
+		"LOC_LONG_DESC": "JHABUA",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "MP40 ",
+		"STATE": "MADHYA PRADESH",
+		"RTA_LOC_NAME": "Vidisha",
+		"LOC_LONG_DESC": "VIDISHA",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "MP41 ",
+		"STATE": "MADHYA PRADESH",
+		"RTA_LOC_NAME": "Dewas",
+		"LOC_LONG_DESC": "DEWAS",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "MP42 ",
+		"STATE": "MADHYA PRADESH",
+		"RTA_LOC_NAME": "Shajapur",
+		"LOC_LONG_DESC": "",
+		"PV": "",
+		"TW": ""
+	},
+	{
+		"RTA_CODE": "",
+		"STATE": "SHAJAPUR",
+		"RTA_LOC_NAME": "",
+		"LOC_LONG_DESC": "",
+		"PV": "",
+		"TW": ""
+	},
+	{
+		"RTA_CODE": "",
+		"STATE": "B",
+		"RTA_LOC_NAME": "B",
+		"LOC_LONG_DESC": "",
+		"PV": "",
+		"TW": ""
+	},
+	{
+		"RTA_CODE": "MP43 ",
+		"STATE": "MADHYA PRADESH",
+		"RTA_LOC_NAME": "Ratlam",
+		"LOC_LONG_DESC": "RATLAM",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "MP44 ",
+		"STATE": "MADHYA PRADESH",
+		"RTA_LOC_NAME": "Neemuch",
+		"LOC_LONG_DESC": "NEEMUCH",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "MP45 ",
+		"STATE": "MADHYA PRADESH",
+		"RTA_LOC_NAME": "JHABUA",
+		"LOC_LONG_DESC": "JHABUA",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "MP46 ",
+		"STATE": "MADHYA PRADESH",
+		"RTA_LOC_NAME": "Badwani",
+		"LOC_LONG_DESC": "BADWANI",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "MP47 ",
+		"STATE": "MADHYA PRADESH",
+		"RTA_LOC_NAME": "HARDA",
+		"LOC_LONG_DESC": "HARDA",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "MP48 ",
+		"STATE": "MADHYA PRADESH",
+		"RTA_LOC_NAME": "Betul",
+		"LOC_LONG_DESC": "BETUL",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "MP49 ",
+		"STATE": "MADHYA PRADESH",
+		"RTA_LOC_NAME": "Ashok Nagar",
+		"LOC_LONG_DESC": "ASHOK NAGAR",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "MP50 ",
+		"STATE": "MADHYA PRADESH",
+		"RTA_LOC_NAME": "BALAGHAT",
+		"LOC_LONG_DESC": "BALAGHAT",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "MP51 ",
+		"STATE": "MADHYA PRADESH",
+		"RTA_LOC_NAME": "Mandla ",
+		"LOC_LONG_DESC": "Mandla ",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "MP52 ",
+		"STATE": "MADHYA PRADESH",
+		"RTA_LOC_NAME": "Dindori ",
+		"LOC_LONG_DESC": "Dindori ",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "MP53 ",
+		"STATE": "MADHYA PRADESH",
+		"RTA_LOC_NAME": "Sidhi ",
+		"LOC_LONG_DESC": "Sidhi ",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "MP54 ",
+		"STATE": "MADHYA PRADESH",
+		"RTA_LOC_NAME": "Umariya ",
+		"LOC_LONG_DESC": "Umariya ",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "MP65 ",
+		"STATE": "Madhya Pradesh ",
+		"RTA_LOC_NAME": "ANUPPUR",
+		"LOC_LONG_DESC": "ANUPPUR",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "MP66 ",
+		"STATE": "MADHYA PRADESH",
+		"RTA_LOC_NAME": "SINGRAULI",
+		"LOC_LONG_DESC": "SINGRAULI",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "MP67 ",
+		"STATE": "MADHYA PRADESH",
+		"RTA_LOC_NAME": "ASHOKNAGAR",
+		"LOC_LONG_DESC": "ASHOKNAGAR",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "MP68 ",
+		"STATE": "MADHYA PRADESH",
+		"RTA_LOC_NAME": "Burhanpur",
+		"LOC_LONG_DESC": "BURHANPUR",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "MP69 ",
+		"STATE": "MADHYA PRADESH",
+		"RTA_LOC_NAME": "Panna",
+		"LOC_LONG_DESC": "PANNA",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "MP70 ",
+		"STATE": "MADHYA PRADESH",
+		"RTA_LOC_NAME": "Agar / Malwa",
+		"LOC_LONG_DESC": "AGAR / MALWA",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "MZ01 ",
+		"STATE": "MIZORAM",
+		"RTA_LOC_NAME": "Aizawal",
+		"LOC_LONG_DESC": "AIZAWAL",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "MZ02 ",
+		"STATE": "MIZORAM",
+		"RTA_LOC_NAME": "Lunglei",
+		"LOC_LONG_DESC": "LUNGLEI",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "MZ03 ",
+		"STATE": "MIZORAM",
+		"RTA_LOC_NAME": "Saiha",
+		"LOC_LONG_DESC": "SAIHA",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "MZ04 ",
+		"STATE": "MIZORAM",
+		"RTA_LOC_NAME": "Champhai",
+		"LOC_LONG_DESC": "CHAMPHAI",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "MZ05 ",
+		"STATE": "MIZORAM",
+		"RTA_LOC_NAME": "Kolasib",
+		"LOC_LONG_DESC": "KOLASIB",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "MZ06 ",
+		"STATE": "MIZORAM",
+		"RTA_LOC_NAME": "Serchhip",
+		"LOC_LONG_DESC": "SERCHHIP",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "MZ07 ",
+		"STATE": "MIZORAM",
+		"RTA_LOC_NAME": "Lawngtlai",
+		"LOC_LONG_DESC": "LAWNGTLAI",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "MZ08 ",
+		"STATE": "MIZORAM",
+		"RTA_LOC_NAME": "Mamit",
+		"LOC_LONG_DESC": "MAMIT",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "NL01 ",
+		"STATE": "NAGALAND",
+		"RTA_LOC_NAME": "Kohima",
+		"LOC_LONG_DESC": "KOHIMA",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "NL02 ",
+		"STATE": "NAGALAND",
+		"RTA_LOC_NAME": "Mokokokchung",
+		"LOC_LONG_DESC": "MOKOKOKCHUNG",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "NL03 ",
+		"STATE": "NAGALAND",
+		"RTA_LOC_NAME": "Tuensang",
+		"LOC_LONG_DESC": "TUENSANG",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "NL04 ",
+		"STATE": "NAGALAND",
+		"RTA_LOC_NAME": "Mon",
+		"LOC_LONG_DESC": "MON",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "NL05 ",
+		"STATE": "NAGALAND",
+		"RTA_LOC_NAME": "Wokha",
+		"LOC_LONG_DESC": "WOKHA",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "NL06 ",
+		"STATE": "NAGALAND",
+		"RTA_LOC_NAME": "Zunheboto",
+		"LOC_LONG_DESC": "ZUNHEBOTO",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "NL07 ",
+		"STATE": "NAGALAND",
+		"RTA_LOC_NAME": "Dimapur",
+		"LOC_LONG_DESC": "DIMAPUR",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "NL08 ",
+		"STATE": "NAGALAND",
+		"RTA_LOC_NAME": "Phek",
+		"LOC_LONG_DESC": "PHEK",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "OD01 ",
+		"STATE": "ORISSA",
+		"RTA_LOC_NAME": "Balasore",
+		"LOC_LONG_DESC": "BALASORE",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "OD02 ",
+		"STATE": "ORISSA",
+		"RTA_LOC_NAME": "Bhubaneshwar",
+		"LOC_LONG_DESC": "BHUBANESHWAR",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "OD03 ",
+		"STATE": "ORISSA",
+		"RTA_LOC_NAME": "Bolangir",
+		"LOC_LONG_DESC": "BOLANGIR",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "OD04 ",
+		"STATE": "ORISSA",
+		"RTA_LOC_NAME": "Chandikhole",
+		"LOC_LONG_DESC": "CHANDIKHOLE",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "OD05 ",
+		"STATE": "ORISSA",
+		"RTA_LOC_NAME": "Cuttack",
+		"LOC_LONG_DESC": "CUTTACK",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "OD06 ",
+		"STATE": "ORISSA",
+		"RTA_LOC_NAME": "Dhenkanal",
+		"LOC_LONG_DESC": "DHENKANAL",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "OD07 ",
+		"STATE": "ORISSA",
+		"RTA_LOC_NAME": "Ganjam",
+		"LOC_LONG_DESC": "GANJAM",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "OD08 ",
+		"STATE": "ORISSA",
+		"RTA_LOC_NAME": "Kalahandi",
+		"LOC_LONG_DESC": "KALAHANDI",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "OD09 ",
+		"STATE": "ORISSA",
+		"RTA_LOC_NAME": "Keonjhar",
+		"LOC_LONG_DESC": "KEONJHAR",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "OD10 ",
+		"STATE": "ORISSA",
+		"RTA_LOC_NAME": "Koraput",
+		"LOC_LONG_DESC": "KORAPUT",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "OD11 ",
+		"STATE": "ORISSA",
+		"RTA_LOC_NAME": "Mayurbhanj",
+		"LOC_LONG_DESC": "MAYURBHANJ",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "OD12 ",
+		"STATE": "ORISSA",
+		"RTA_LOC_NAME": "Phullbani",
+		"LOC_LONG_DESC": "PHULLBANI",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "OD13 ",
+		"STATE": "ORISSA",
+		"RTA_LOC_NAME": "Puri",
+		"LOC_LONG_DESC": "PURI",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "OD14 ",
+		"STATE": "ORISSA",
+		"RTA_LOC_NAME": "Rourkela",
+		"LOC_LONG_DESC": "ROURKELA",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "OD15 ",
+		"STATE": "ORISSA",
+		"RTA_LOC_NAME": "Sambalpur",
+		"LOC_LONG_DESC": "SAMBALPUR",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "OD16 ",
+		"STATE": "ORISSA",
+		"RTA_LOC_NAME": "Sundergarh",
+		"LOC_LONG_DESC": "SUNDERGARH",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "OD17 ",
+		"STATE": "ORISSA",
+		"RTA_LOC_NAME": "Baragarh",
+		"LOC_LONG_DESC": "BARAGARH",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "OD18 ",
+		"STATE": "ORISSA",
+		"RTA_LOC_NAME": "Rayagada",
+		"LOC_LONG_DESC": "RAYAGADA",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "OD19 ",
+		"STATE": "ORISSA",
+		"RTA_LOC_NAME": "Angul",
+		"LOC_LONG_DESC": "ANGUL",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "OD20 ",
+		"STATE": "ORISSA",
+		"RTA_LOC_NAME": "Gajapati",
+		"LOC_LONG_DESC": "GAJAPATI",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "OD21 ",
+		"STATE": "ORISSA",
+		"RTA_LOC_NAME": "Jagatsinghpur",
+		"LOC_LONG_DESC": "JAGATSINGHPUR",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "OD22 ",
+		"STATE": "ORISSA",
+		"RTA_LOC_NAME": "Bhadrak",
+		"LOC_LONG_DESC": "BHADRAK",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "OD23 ",
+		"STATE": "ORISSA",
+		"RTA_LOC_NAME": "Jharsuguda",
+		"LOC_LONG_DESC": "JHARSUGUDA",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "OD24 ",
+		"STATE": "ORISSA",
+		"RTA_LOC_NAME": "Nabarangpur",
+		"LOC_LONG_DESC": "NABARANGPUR",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "OD25 ",
+		"STATE": "ORISSA",
+		"RTA_LOC_NAME": "Nayagarh",
+		"LOC_LONG_DESC": "NAYAGARH",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "OD26 ",
+		"STATE": "ORISSA",
+		"RTA_LOC_NAME": "Nuapada",
+		"LOC_LONG_DESC": "NUAPADA",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "OD27 ",
+		"STATE": "ORISSA",
+		"RTA_LOC_NAME": "Boudh",
+		"LOC_LONG_DESC": "BOUDH",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "OD28 ",
+		"STATE": "ORISSA",
+		"RTA_LOC_NAME": "Debagarh",
+		"LOC_LONG_DESC": "DEBAGARH",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "OD29 ",
+		"STATE": "ORISSA",
+		"RTA_LOC_NAME": "Kendarapara",
+		"LOC_LONG_DESC": "KENDARAPARA",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "OD30 ",
+		"STATE": "ORISSA",
+		"RTA_LOC_NAME": "Malkangiri",
+		"LOC_LONG_DESC": "MALKANGIRI",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "OD31 ",
+		"STATE": "ORISSA",
+		"RTA_LOC_NAME": "Sonepur",
+		"LOC_LONG_DESC": "SONEPUR",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "OD32 ",
+		"STATE": "ORISSA",
+		"RTA_LOC_NAME": "Bhanjanagar",
+		"LOC_LONG_DESC": "BHANJANAGAR",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "OD33 ",
+		"STATE": "ORISSA",
+		"RTA_LOC_NAME": "Bhubaneswar-II",
+		"LOC_LONG_DESC": "Bhubaneswar-II",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "OD34 ",
+		"STATE": "ORISSA",
+		"RTA_LOC_NAME": "JAJPUR",
+		"LOC_LONG_DESC": "JAJPUR",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "OD35 ",
+		"STATE": "ORISSA",
+		"RTA_LOC_NAME": "Talcher",
+		"LOC_LONG_DESC": "TALCHER",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "OR01 ",
+		"STATE": "ORISSA",
+		"RTA_LOC_NAME": "Balasore",
+		"LOC_LONG_DESC": "BALASORE",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "OR02 ",
+		"STATE": "ORISSA",
+		"RTA_LOC_NAME": "Bhubaneshwar",
+		"LOC_LONG_DESC": "BHUBANESHWAR",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "OR03 ",
+		"STATE": "ORISSA",
+		"RTA_LOC_NAME": "Bolangir",
+		"LOC_LONG_DESC": "BOLANGIR",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "OR04 ",
+		"STATE": "ORISSA",
+		"RTA_LOC_NAME": "Chandikhole",
+		"LOC_LONG_DESC": "CHANDIKHOLE",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "OR05 ",
+		"STATE": "ORISSA",
+		"RTA_LOC_NAME": "Cuttack",
+		"LOC_LONG_DESC": "CUTTACK",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "OR06 ",
+		"STATE": "ORISSA",
+		"RTA_LOC_NAME": "Dhenkanal",
+		"LOC_LONG_DESC": "DHENKANAL",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "OR07 ",
+		"STATE": "ORISSA",
+		"RTA_LOC_NAME": "Ganjam",
+		"LOC_LONG_DESC": "GANJAM",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "OR08 ",
+		"STATE": "ORISSA",
+		"RTA_LOC_NAME": "Kalahandi",
+		"LOC_LONG_DESC": "KALAHANDI",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "OR09 ",
+		"STATE": "ORISSA",
+		"RTA_LOC_NAME": "Keonjhar",
+		"LOC_LONG_DESC": "KEONJHAR",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "OR10 ",
+		"STATE": "ORISSA",
+		"RTA_LOC_NAME": "Koraput",
+		"LOC_LONG_DESC": "KORAPUT",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "OR11 ",
+		"STATE": "ORISSA",
+		"RTA_LOC_NAME": "Mayurbhanj",
+		"LOC_LONG_DESC": "MAYURBHANJ",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "OR12 ",
+		"STATE": "ORISSA",
+		"RTA_LOC_NAME": "Phullbani",
+		"LOC_LONG_DESC": "PHULLBANI",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "OR13 ",
+		"STATE": "ORISSA",
+		"RTA_LOC_NAME": "Puri",
+		"LOC_LONG_DESC": "PURI",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "OR14 ",
+		"STATE": "ORISSA",
+		"RTA_LOC_NAME": "Rourkela",
+		"LOC_LONG_DESC": "ROURKELA",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "OR15 ",
+		"STATE": "ORISSA",
+		"RTA_LOC_NAME": "Sambalpur",
+		"LOC_LONG_DESC": "SAMBALPUR",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "OR16 ",
+		"STATE": "ORISSA",
+		"RTA_LOC_NAME": "Sundergarh",
+		"LOC_LONG_DESC": "SUNDERGARH",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "OR17 ",
+		"STATE": "ORISSA",
+		"RTA_LOC_NAME": "Baragarh",
+		"LOC_LONG_DESC": "BARAGARH",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "OR18 ",
+		"STATE": "ORISSA",
+		"RTA_LOC_NAME": "Rayagada",
+		"LOC_LONG_DESC": "RAYAGADA",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "OR19 ",
+		"STATE": "ORISSA",
+		"RTA_LOC_NAME": "Angul",
+		"LOC_LONG_DESC": "ANGUL",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "OR20 ",
+		"STATE": "ORISSA",
+		"RTA_LOC_NAME": "Gajapati",
+		"LOC_LONG_DESC": "GAJAPATI",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "OR21 ",
+		"STATE": "ORISSA",
+		"RTA_LOC_NAME": "Jagatsinghpur",
+		"LOC_LONG_DESC": "JAGATSINGHPUR",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "OR22 ",
+		"STATE": "ORISSA",
+		"RTA_LOC_NAME": "Bhadrak",
+		"LOC_LONG_DESC": "BHADRAK",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "OR23 ",
+		"STATE": "ORISSA",
+		"RTA_LOC_NAME": "Jharsuguda",
+		"LOC_LONG_DESC": "JHARSUGUDA",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "OR24 ",
+		"STATE": "ORISSA",
+		"RTA_LOC_NAME": "Nabarangpur",
+		"LOC_LONG_DESC": "NABARANGPUR",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "OR25 ",
+		"STATE": "ORISSA",
+		"RTA_LOC_NAME": "Nayagarh",
+		"LOC_LONG_DESC": "NAYAGARH",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "OR26 ",
+		"STATE": "ORISSA",
+		"RTA_LOC_NAME": "Nuapada",
+		"LOC_LONG_DESC": "NUAPADA",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "OR27 ",
+		"STATE": "ORISSA",
+		"RTA_LOC_NAME": "Boudh",
+		"LOC_LONG_DESC": "BOUDH",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "OR28 ",
+		"STATE": "ORISSA",
+		"RTA_LOC_NAME": "Debagarh",
+		"LOC_LONG_DESC": "DEBAGARH",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "OR29 ",
+		"STATE": "ORISSA",
+		"RTA_LOC_NAME": "Kendarapara",
+		"LOC_LONG_DESC": "KENDARAPARA",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "OR30 ",
+		"STATE": "ORISSA",
+		"RTA_LOC_NAME": "Malkangiri",
+		"LOC_LONG_DESC": "MALKANGIRI",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "OR31 ",
+		"STATE": "ORISSA",
+		"RTA_LOC_NAME": "Sonepur",
+		"LOC_LONG_DESC": "SONEPUR",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "PB01 ",
+		"STATE": "HARYANA",
+		"RTA_LOC_NAME": "Chandigarh",
+		"LOC_LONG_DESC": "CHANDIGARH",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "PB02 ",
+		"STATE": "PUNJAB",
+		"RTA_LOC_NAME": "Amritsar",
+		"LOC_LONG_DESC": "AMRITSAR",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "PB03 ",
+		"STATE": "PUNJAB",
+		"RTA_LOC_NAME": "Bathinda",
+		"LOC_LONG_DESC": "BATHINDA",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "PB04 ",
+		"STATE": "PUNJAB",
+		"RTA_LOC_NAME": "Faridkot",
+		"LOC_LONG_DESC": "FARIDKOT",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "PB05 ",
+		"STATE": "PUNJAB",
+		"RTA_LOC_NAME": "Ferozepur",
+		"LOC_LONG_DESC": "FEROZEPUR",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "PB06 ",
+		"STATE": "PUNJAB",
+		"RTA_LOC_NAME": "Gurdaspur",
+		"LOC_LONG_DESC": "GURDASPUR",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "PB07 ",
+		"STATE": "PUNJAB",
+		"RTA_LOC_NAME": "Hoshiarpur",
+		"LOC_LONG_DESC": "HOSHIARPUR",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "PB08 ",
+		"STATE": "PUNJAB",
+		"RTA_LOC_NAME": "Jalandhar",
+		"LOC_LONG_DESC": "JALANDHAR",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "PB09 ",
+		"STATE": "PUNJAB",
+		"RTA_LOC_NAME": "Kapurthala",
+		"LOC_LONG_DESC": "KAPURTHALA",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "PB10 ",
+		"STATE": "PUNJAB",
+		"RTA_LOC_NAME": "Ludhiana",
+		"LOC_LONG_DESC": "LUDHIANA",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "PB11 ",
+		"STATE": "PUNJAB",
+		"RTA_LOC_NAME": "Patiala",
+		"LOC_LONG_DESC": "PATIALA",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "PB12 ",
+		"STATE": "PUNJAB",
+		"RTA_LOC_NAME": "Ropar",
+		"LOC_LONG_DESC": "ROPAR",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "PB13 ",
+		"STATE": "PUNJAB",
+		"RTA_LOC_NAME": "Sangrur",
+		"LOC_LONG_DESC": "SANGRUR",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "PB14 ",
+		"STATE": "PUNJAB",
+		"RTA_LOC_NAME": "Ajnala",
+		"LOC_LONG_DESC": "AJNALA",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "PB15 ",
+		"STATE": "PUNJAB",
+		"RTA_LOC_NAME": "Abohar",
+		"LOC_LONG_DESC": "ABOHAR",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "PB16 ",
+		"STATE": "PUNJAB",
+		"RTA_LOC_NAME": "Anandpur Sahib",
+		"LOC_LONG_DESC": "ANANDPUR SAHIB",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "PB17 ",
+		"STATE": "PUNJAB",
+		"RTA_LOC_NAME": "Baba Bakala",
+		"LOC_LONG_DESC": "BABA BAKALA",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "PB18 ",
+		"STATE": "PUNJAB",
+		"RTA_LOC_NAME": "Batala",
+		"LOC_LONG_DESC": "BATALA",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "PB19 ",
+		"STATE": "PUNJAB",
+		"RTA_LOC_NAME": "Barnala",
+		"LOC_LONG_DESC": "BARNALA",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "PB20 ",
+		"STATE": "PUNJAB",
+		"RTA_LOC_NAME": "Balachaur",
+		"LOC_LONG_DESC": "BALACHAUR",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "PB21 ",
+		"STATE": "PUNJAB",
+		"RTA_LOC_NAME": "Dasuya",
+		"LOC_LONG_DESC": "DASUYA",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "PB22 ",
+		"STATE": "PUNJAB",
+		"RTA_LOC_NAME": "Fazika",
+		"LOC_LONG_DESC": "FAZIKA",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "PB23 ",
+		"STATE": "PUNJAB",
+		"RTA_LOC_NAME": "Ludhiana",
+		"LOC_LONG_DESC": "LUDHIANA",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "PB24 ",
+		"STATE": "PUNJAB",
+		"RTA_LOC_NAME": "Garhshankar",
+		"LOC_LONG_DESC": "GARHSHANKAR",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "PB25 ",
+		"STATE": "PUNJAB",
+		"RTA_LOC_NAME": "Jagraon",
+		"LOC_LONG_DESC": "JAGRAON",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "PB26 ",
+		"STATE": "PUNJAB",
+		"RTA_LOC_NAME": "Khanna",
+		"LOC_LONG_DESC": "KHANNA",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "PB27 ",
+		"STATE": "PUNJAB",
+		"RTA_LOC_NAME": "Kharar",
+		"LOC_LONG_DESC": "KHARAR",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "PB28 ",
+		"STATE": "PUNJAB",
+		"RTA_LOC_NAME": "Malerkotla",
+		"LOC_LONG_DESC": "MALERKOTLA",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "PB29 ",
+		"STATE": "PUNJAB",
+		"RTA_LOC_NAME": "Moga",
+		"LOC_LONG_DESC": "MOGA",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "PB30 ",
+		"STATE": "PUNJAB",
+		"RTA_LOC_NAME": "Muktsar",
+		"LOC_LONG_DESC": "MUKTSAR",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "PB31 ",
+		"STATE": "PUNJAB",
+		"RTA_LOC_NAME": "Mansa",
+		"LOC_LONG_DESC": "MANSA",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "PB32 ",
+		"STATE": "PUNJAB",
+		"RTA_LOC_NAME": "Nawanshahr",
+		"LOC_LONG_DESC": "NAWANSHAHR",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "PB33 ",
+		"STATE": "PUNJAB",
+		"RTA_LOC_NAME": "Nakodar",
+		"LOC_LONG_DESC": "NAKODAR",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "PB34 ",
+		"STATE": "PUNJAB",
+		"RTA_LOC_NAME": "Nabha",
+		"LOC_LONG_DESC": "NABHA",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "PB35 ",
+		"STATE": "PUNJAB",
+		"RTA_LOC_NAME": "Pathankot",
+		"LOC_LONG_DESC": "PATHANKOT",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "PB36 ",
+		"STATE": "PUNJAB",
+		"RTA_LOC_NAME": "Phagwara",
+		"LOC_LONG_DESC": "PHAGWARA",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "PB37 ",
+		"STATE": "PUNJAB",
+		"RTA_LOC_NAME": "Phillaur",
+		"LOC_LONG_DESC": "PHILLAUR",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "PB38 ",
+		"STATE": "PUNJAB",
+		"RTA_LOC_NAME": "Patti",
+		"LOC_LONG_DESC": "PATTI",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "PB39 ",
+		"STATE": "PUNJAB",
+		"RTA_LOC_NAME": "Rajpura",
+		"LOC_LONG_DESC": "RAJPURA",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "PB40 ",
+		"STATE": "PUNJAB",
+		"RTA_LOC_NAME": "Rampura Phul",
+		"LOC_LONG_DESC": "RAMPURA PHUL",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "PB41 ",
+		"STATE": "PUNJAB",
+		"RTA_LOC_NAME": "Sultanpur Lodhi",
+		"LOC_LONG_DESC": "SULTANPUR LODHI",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "PB42 ",
+		"STATE": "PUNJAB",
+		"RTA_LOC_NAME": "Samana",
+		"LOC_LONG_DESC": "SAMANA",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "PB43 ",
+		"STATE": "PUNJAB",
+		"RTA_LOC_NAME": "Samrala",
+		"LOC_LONG_DESC": "SAMRALA",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "PB44 ",
+		"STATE": "PUNJAB",
+		"RTA_LOC_NAME": "Sunam",
+		"LOC_LONG_DESC": "SUNAM",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "PB45 ",
+		"STATE": "PUNJAB",
+		"RTA_LOC_NAME": "Talwandi Sabo",
+		"LOC_LONG_DESC": "TALWANDI SABO",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "PB46 ",
+		"STATE": "PUNJAB",
+		"RTA_LOC_NAME": "Tarn Taran",
+		"LOC_LONG_DESC": "TARN TARAN",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "PB47 ",
+		"STATE": "PUNJAB",
+		"RTA_LOC_NAME": "Zira",
+		"LOC_LONG_DESC": "ZIRA",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "PB48 ",
+		"STATE": "PUNJAB",
+		"RTA_LOC_NAME": "Amloh",
+		"LOC_LONG_DESC": "AMLOH",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "PB49 ",
+		"STATE": "PUNJAB",
+		"RTA_LOC_NAME": "Khamono",
+		"LOC_LONG_DESC": "KHAMONO",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "PB50 ",
+		"STATE": "PUNJAB",
+		"RTA_LOC_NAME": "Budhlada",
+		"LOC_LONG_DESC": "BUDHLADA",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "PB51 ",
+		"STATE": "PUNJAB",
+		"RTA_LOC_NAME": "Jhunir Sardulgarh",
+		"LOC_LONG_DESC": "JHUNIR / SARDULGARH",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "PB52 ",
+		"STATE": "PUNJAB",
+		"RTA_LOC_NAME": "Bassi Pathana",
+		"LOC_LONG_DESC": "BASSI PATHANA",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "PB53 ",
+		"STATE": "PUNJAB",
+		"RTA_LOC_NAME": "Malout",
+		"LOC_LONG_DESC": "MALOUT",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "PB54 ",
+		"STATE": "PUNJAB",
+		"RTA_LOC_NAME": "Mukerian",
+		"LOC_LONG_DESC": "MUKERIAN",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "PB55 ",
+		"STATE": "PUNJAB",
+		"RTA_LOC_NAME": "Payal",
+		"LOC_LONG_DESC": "PAYAL",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "PB56 ",
+		"STATE": "PUNJAB",
+		"RTA_LOC_NAME": "Raikot",
+		"LOC_LONG_DESC": "RAIKOT",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "PB57 ",
+		"STATE": "PUNJAB",
+		"RTA_LOC_NAME": "Bhulath",
+		"LOC_LONG_DESC": "BHULATH",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "PB58 ",
+		"STATE": "PUNJAB",
+		"RTA_LOC_NAME": "Dera Babu Nanak",
+		"LOC_LONG_DESC": "DERA BABU NANAK",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "PB59 ",
+		"STATE": "PUNJAB",
+		"RTA_LOC_NAME": "Dhuri",
+		"LOC_LONG_DESC": "DHURI",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "PB60 ",
+		"STATE": "PUNJAB",
+		"RTA_LOC_NAME": "Gidderbaha",
+		"LOC_LONG_DESC": "GIDDERBAHA",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "PB61 ",
+		"STATE": "PUNJAB",
+		"RTA_LOC_NAME": "Jalalabad",
+		"LOC_LONG_DESC": "JALALABAD",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "PB62 ",
+		"STATE": "PUNJAB",
+		"RTA_LOC_NAME": "Jaitu",
+		"LOC_LONG_DESC": "JAITU",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "PB63 ",
+		"STATE": "PUNJAB",
+		"RTA_LOC_NAME": "Khadoor Sahib",
+		"LOC_LONG_DESC": "KHADOOR SAHIB",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "PB64 ",
+		"STATE": "PUNJAB",
+		"RTA_LOC_NAME": "Moonak",
+		"LOC_LONG_DESC": "MOONAK",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "PB65 ",
+		"STATE": "PUNJAB",
+		"RTA_LOC_NAME": "Mohali",
+		"LOC_LONG_DESC": "MOHALI",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "PB66 ",
+		"STATE": "PUNJAB",
+		"RTA_LOC_NAME": "Nihal Sing Wala",
+		"LOC_LONG_DESC": "NIHAL SING WALA",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "PB67 ",
+		"STATE": "PUNJAB",
+		"RTA_LOC_NAME": "Shahkot",
+		"LOC_LONG_DESC": "SHAHKOT",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "PB68 ",
+		"STATE": "PUNJAB",
+		"RTA_LOC_NAME": "Dhar",
+		"LOC_LONG_DESC": "DHAR",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "PB69 ",
+		"STATE": "PUNJAB",
+		"RTA_LOC_NAME": "Bagha Purana",
+		"LOC_LONG_DESC": "BAGHA PURANA",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "PB70 ",
+		"STATE": "PUNJAB",
+		"RTA_LOC_NAME": "Dera Bassi",
+		"LOC_LONG_DESC": "DERA BASSI",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "PB71 ",
+		"STATE": "PUNJAB",
+		"RTA_LOC_NAME": "ROPAR",
+		"LOC_LONG_DESC": "ROPAR",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "PB72 ",
+		"STATE": "PUNJAB",
+		"RTA_LOC_NAME": "Pattran (Patiala East)",
+		"LOC_LONG_DESC": "PATTRAN (PATIALA EAST)",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "PB73 ",
+		"STATE": "Punjab",
+		"RTA_LOC_NAME": "Tappa Mandi",
+		"LOC_LONG_DESC": "TAPPA MANDI",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "PB74 ",
+		"STATE": "PUNJAB",
+		"RTA_LOC_NAME": "NANGAL",
+		"LOC_LONG_DESC": "NANGAL",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "PB75 ",
+		"STATE": "PUNJAB",
+		"RTA_LOC_NAME": "LEHRA",
+		"LOC_LONG_DESC": "LEHRA",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "PB76 ",
+		"STATE": "PUNJAB",
+		"RTA_LOC_NAME": "Ahmedgarh",
+		"LOC_LONG_DESC": "AHMEDGARH",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "PB77 ",
+		"STATE": "PUNJAB",
+		"RTA_LOC_NAME": "Guru Har Sahai",
+		"LOC_LONG_DESC": "GURU HAR SAHAI",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "PY01 ",
+		"STATE": "PONDICHERRY",
+		"RTA_LOC_NAME": "Puducherry",
+		"LOC_LONG_DESC": "PUDUCHERRY",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "PY02 ",
+		"STATE": "PONDICHERRY",
+		"RTA_LOC_NAME": "Karaikal",
+		"LOC_LONG_DESC": "KARAIKAL",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "PY03 ",
+		"STATE": "PONDICHERRY",
+		"RTA_LOC_NAME": "Mahe",
+		"LOC_LONG_DESC": "MAHE",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "PY04 ",
+		"STATE": "PONDICHERRY",
+		"RTA_LOC_NAME": "Yanam",
+		"LOC_LONG_DESC": "YANAM",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "PY05 ",
+		"STATE": "PONDICHERRY",
+		"RTA_LOC_NAME": "Oulgaret",
+		"LOC_LONG_DESC": "OULGARET",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "RA28 ",
+		"STATE": "RAJASTHAN",
+		"RTA_LOC_NAME": "Baran",
+		"LOC_LONG_DESC": "BARAN",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "RJ01 ",
+		"STATE": "RAJASTHAN",
+		"RTA_LOC_NAME": "Ajmer",
+		"LOC_LONG_DESC": "AJMER",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "RJ02 ",
+		"STATE": "RAJASTHAN",
+		"RTA_LOC_NAME": "Alwar",
+		"LOC_LONG_DESC": "ALWAR",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "RJ03 ",
+		"STATE": "RAJASTHAN",
+		"RTA_LOC_NAME": "Banswara",
+		"LOC_LONG_DESC": "BANSWARA",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "RJ04 ",
+		"STATE": "RAJASTHAN",
+		"RTA_LOC_NAME": "Barmer",
+		"LOC_LONG_DESC": "BARMER",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "RJ05 ",
+		"STATE": "RAJASTHAN",
+		"RTA_LOC_NAME": "Bharatpur",
+		"LOC_LONG_DESC": "BHARATPUR",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "RJ06 ",
+		"STATE": "RAJASTHAN",
+		"RTA_LOC_NAME": "Bhilwara",
+		"LOC_LONG_DESC": "BHILWARA",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "RJ07 ",
+		"STATE": "RAJASTHAN",
+		"RTA_LOC_NAME": "Bikaner",
+		"LOC_LONG_DESC": "BIKANER",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "RJ08 ",
+		"STATE": "RAJASTHAN",
+		"RTA_LOC_NAME": "Bundi",
+		"LOC_LONG_DESC": "BUNDI",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "RJ09 ",
+		"STATE": "RAJASTHAN",
+		"RTA_LOC_NAME": "Chittaurgarh",
+		"LOC_LONG_DESC": "CHITTAURGARH",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "RJ10 ",
+		"STATE": "RAJASTHAN",
+		"RTA_LOC_NAME": "Churu",
+		"LOC_LONG_DESC": "CHURU",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "RJ11 ",
+		"STATE": "RAJASTHAN",
+		"RTA_LOC_NAME": "Dholpur",
+		"LOC_LONG_DESC": "DHOLPUR",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "RJ12 ",
+		"STATE": "RAJASTHAN",
+		"RTA_LOC_NAME": "Dhungarpur",
+		"LOC_LONG_DESC": "DHUNGARPUR",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "RJ13 ",
+		"STATE": "RAJASTHAN",
+		"RTA_LOC_NAME": "Sri Ganganagar",
+		"LOC_LONG_DESC": "SRI GANGANAGAR",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "RJ14 ",
+		"STATE": "RAJASTHAN",
+		"RTA_LOC_NAME": "Jaipur",
+		"LOC_LONG_DESC": "JAIPUR",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "RJ15 ",
+		"STATE": "RAJASTHAN",
+		"RTA_LOC_NAME": "Jaisalmer",
+		"LOC_LONG_DESC": "JAISALMER",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "RJ16 ",
+		"STATE": "RAJASTHAN",
+		"RTA_LOC_NAME": "Jalore",
+		"LOC_LONG_DESC": "JALORE",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "RJ17 ",
+		"STATE": "RAJASTHAN",
+		"RTA_LOC_NAME": "Jhalawar",
+		"LOC_LONG_DESC": "JHALAWAR",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "RJ18 ",
+		"STATE": "RAJASTHAN",
+		"RTA_LOC_NAME": "Jhunjhnun",
+		"LOC_LONG_DESC": "JHUNJHNUN",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "RJ19 ",
+		"STATE": "RAJASTHAN",
+		"RTA_LOC_NAME": "Jodhpur",
+		"LOC_LONG_DESC": "JODHPUR",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "RJ20 ",
+		"STATE": "RAJASTHAN",
+		"RTA_LOC_NAME": "Kota",
+		"LOC_LONG_DESC": "KOTA",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "RJ21 ",
+		"STATE": "RAJASTHAN",
+		"RTA_LOC_NAME": "Nagour",
+		"LOC_LONG_DESC": "NAGOUR",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "RJ22 ",
+		"STATE": "RAJASTHAN",
+		"RTA_LOC_NAME": "Pali",
+		"LOC_LONG_DESC": "PALI",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "RJ23 ",
+		"STATE": "RAJASTHAN",
+		"RTA_LOC_NAME": "Sikar",
+		"LOC_LONG_DESC": "SIKAR",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "RJ24 ",
+		"STATE": "RAJASTHAN",
+		"RTA_LOC_NAME": "Sirohi",
+		"LOC_LONG_DESC": "SIROHI",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "RJ25 ",
+		"STATE": "RAJASTHAN",
+		"RTA_LOC_NAME": "Sawaimadhopur",
+		"LOC_LONG_DESC": "SAWAIMADHOPUR",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "RJ26 ",
+		"STATE": "RAJASTHAN",
+		"RTA_LOC_NAME": "Tonk",
+		"LOC_LONG_DESC": "TONK",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "RJ27 ",
+		"STATE": "RAJASTHAN",
+		"RTA_LOC_NAME": "Udaipur",
+		"LOC_LONG_DESC": "UDAIPUR",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "RJ28 ",
+		"STATE": "RAJASTHAN",
+		"RTA_LOC_NAME": "Baran",
+		"LOC_LONG_DESC": "BARAN",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "RJ29 ",
+		"STATE": "RAJASTHAN",
+		"RTA_LOC_NAME": "Dausa",
+		"LOC_LONG_DESC": "DAUSA",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "RJ30 ",
+		"STATE": "RAJASTHAN",
+		"RTA_LOC_NAME": "Rajsamad",
+		"LOC_LONG_DESC": "RAJSAMAD",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "RJ31 ",
+		"STATE": "RAJASTHAN",
+		"RTA_LOC_NAME": "Hanumangarh",
+		"LOC_LONG_DESC": "HANUMANGARH",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "RJ32 ",
+		"STATE": "RAJASTHAN",
+		"RTA_LOC_NAME": "Kotputli",
+		"LOC_LONG_DESC": "KOTPUTLI",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "RJ33 ",
+		"STATE": "RAJASTHAN",
+		"RTA_LOC_NAME": "Ramganj Mandi",
+		"LOC_LONG_DESC": "RAMGANJ MANDI",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "RJ34 ",
+		"STATE": "RAJASTHAN",
+		"RTA_LOC_NAME": "Karauli",
+		"LOC_LONG_DESC": "KARAULI",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "RJ35 ",
+		"STATE": "RAJASTHAN",
+		"RTA_LOC_NAME": "Pratapgarh",
+		"LOC_LONG_DESC": "PRATAPGARH",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "RJ36 ",
+		"STATE": "RAJASTHAN",
+		"RTA_LOC_NAME": "Beawar",
+		"LOC_LONG_DESC": "BEAWAR",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "RJ37 ",
+		"STATE": "RAJASTHAN",
+		"RTA_LOC_NAME": "Didwana",
+		"LOC_LONG_DESC": "DIDWANA",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "RJ38 ",
+		"STATE": "RAJASTHAN",
+		"RTA_LOC_NAME": "ABU ROAD",
+		"LOC_LONG_DESC": "ABU ROAD",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "RJ39 ",
+		"STATE": "RAJASTHAN",
+		"RTA_LOC_NAME": "BALOTRA",
+		"LOC_LONG_DESC": "BALOTRA",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "RJ40 ",
+		"STATE": "RAJASTHAN",
+		"RTA_LOC_NAME": "BHIWADI",
+		"LOC_LONG_DESC": "BHIWADI",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "RJ41 ",
+		"STATE": "RAJASTHAN",
+		"RTA_LOC_NAME": "CHOMU",
+		"LOC_LONG_DESC": "CHOMU",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "RJ42 ",
+		"STATE": "RAJASTHAN",
+		"RTA_LOC_NAME": "KISHANGARH",
+		"LOC_LONG_DESC": "KISHANGARH",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "RJ43 ",
+		"STATE": "RAJASTHAN",
+		"RTA_LOC_NAME": "PHALODI",
+		"LOC_LONG_DESC": "PHALODI",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "RJ44 ",
+		"STATE": "RAJASTHAN",
+		"RTA_LOC_NAME": "SUJANGARH",
+		"LOC_LONG_DESC": "SUJANGARH",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "RJ45 ",
+		"STATE": "RAJASTHAN",
+		"RTA_LOC_NAME": "JAIPUR",
+		"LOC_LONG_DESC": "JAIPUR",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "RJ46 ",
+		"STATE": "RAJASTHAN",
+		"RTA_LOC_NAME": "BHINMAL",
+		"LOC_LONG_DESC": "BHINMAL",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "RJ47 ",
+		"STATE": "RAJASTHAN",
+		"RTA_LOC_NAME": "DUDU",
+		"LOC_LONG_DESC": "DUDU",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "RJ48 ",
+		"STATE": "RAJASTHAN",
+		"RTA_LOC_NAME": "Kekri",
+		"LOC_LONG_DESC": "KEKRI",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "RJ49 ",
+		"STATE": "RAJASTHAN",
+		"RTA_LOC_NAME": "NOHAR",
+		"LOC_LONG_DESC": "NOHAR",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "RJ50 ",
+		"STATE": "RAJASTHAN",
+		"RTA_LOC_NAME": "NOKHA",
+		"LOC_LONG_DESC": "NOKHA",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "RJ51 ",
+		"STATE": "RAJASTHAN",
+		"RTA_LOC_NAME": "SHAHPURA",
+		"LOC_LONG_DESC": "SHAHPURA",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "RJ52 ",
+		"STATE": "RAJASTHAN",
+		"RTA_LOC_NAME": "SHAHPURA",
+		"LOC_LONG_DESC": "SHAHPURA",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "SK01 ",
+		"STATE": "SIKKIM",
+		"RTA_LOC_NAME": "Gangtok",
+		"LOC_LONG_DESC": "GANGTOK (TWO WHEELERS )",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "SK02 ",
+		"STATE": "SIKKIM",
+		"RTA_LOC_NAME": "Gangtok",
+		"LOC_LONG_DESC": "GANGTOK (PRIVATE VEHICLE)",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "SK03 ",
+		"STATE": "SIKKIM",
+		"RTA_LOC_NAME": "Gangtok",
+		"LOC_LONG_DESC": "GANGTOK (GOODS VEHICLE)",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "SK04 ",
+		"STATE": "SIKKIM",
+		"RTA_LOC_NAME": "Gangtok",
+		"LOC_LONG_DESC": "GANGTOK (BUSES & CONT. VEHICLE",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "SK05 ",
+		"STATE": "SIKKIM",
+		"RTA_LOC_NAME": "Gangtok",
+		"LOC_LONG_DESC": "GANGTOK(TRACTORSS TRAILERS)",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "TN01 ",
+		"STATE": "TAMIL NADU",
+		"RTA_LOC_NAME": "Chennai",
+		"LOC_LONG_DESC": "CHENNAI CENTRAL CHETPET",
+		"PV": "A",
+		"TW": "A"
+	},
+	{
+		"RTA_CODE": "TN02 ",
+		"STATE": "TAMIL NADU",
+		"RTA_LOC_NAME": "Chennai Thirumangalam",
+		"LOC_LONG_DESC": "CHENNAI NORTH WE THIRUMANGALAM",
+		"PV": "A",
+		"TW": "A"
+	},
+	{
+		"RTA_CODE": "TN03 ",
+		"STATE": "TAMIL NADU",
+		"RTA_LOC_NAME": "Chennai Tondiarpet",
+		"LOC_LONG_DESC": "CHENNAI EAST (TONDIARPET)",
+		"PV": "A",
+		"TW": "A"
+	},
+	{
+		"RTA_CODE": "TN04 ",
+		"STATE": "TAMIL NADU",
+		"RTA_LOC_NAME": "Chennai Bridge",
+		"LOC_LONG_DESC": "CEENNAI EAST (BASIN BRIDGE)",
+		"PV": "A",
+		"TW": "A"
+	},
+	{
+		"RTA_CODE": "TN05 ",
+		"STATE": "TAMIL NADU",
+		"RTA_LOC_NAME": "CHENNAI NO",
+		"LOC_LONG_DESC": "CHENNAI NORTH",
+		"PV": "A",
+		"TW": "A"
+	},
+	{
+		"RTA_CODE": "TN06 ",
+		"STATE": "TAMIL NADU",
+		"RTA_LOC_NAME": "Chennai Triplicane",
+		"LOC_LONG_DESC": "CHENNAI SOUTH TRIPLICANE",
+		"PV": "A",
+		"TW": "A"
+	},
+	{
+		"RTA_CODE": "TN07 ",
+		"STATE": "TAMIL NADU",
+		"RTA_LOC_NAME": "Chennai Thiruvanmiyur",
+		"LOC_LONG_DESC": "CHENNAI THIRUVANMIYUR",
+		"PV": "A",
+		"TW": "A"
+	},
+	{
+		"RTA_CODE": "TN09 ",
+		"STATE": "TAMIL NADU",
+		"RTA_LOC_NAME": "Chennai KK Nagar",
+		"LOC_LONG_DESC": "CHENNAI WEST (K.K.NAGAR)",
+		"PV": "A",
+		"TW": "A"
+	},
+	{
+		"RTA_CODE": "TN10 ",
+		"STATE": "TAMIL NADU",
+		"RTA_LOC_NAME": "Chennai Valasarawakkam",
+		"LOC_LONG_DESC": "CHENNAI SOU WES(VALASARAWAKKAM",
+		"PV": "A",
+		"TW": "A"
+	},
+	{
+		"RTA_CODE": "TN11 ",
+		"STATE": "TAMIL NADU",
+		"RTA_LOC_NAME": "TAMBARAM",
+		"LOC_LONG_DESC": "TAMBARAM",
+		"PV": "A",
+		"TW": "A"
+	},
+	{
+		"RTA_CODE": "TN12 ",
+		"STATE": "TAMILNADU",
+		"RTA_LOC_NAME": "POONAMALEE",
+		"LOC_LONG_DESC": "POONAMALEE",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "TN13 ",
+		"STATE": "TAMILNADU",
+		"RTA_LOC_NAME": "Ambattur",
+		"LOC_LONG_DESC": "AMBATTUR",
+		"PV": "A",
+		"TW": "A"
+	},
+	{
+		"RTA_CODE": "TN14 ",
+		"STATE": "TAMILNADU",
+		"RTA_LOC_NAME": "Sholinganallur",
+		"LOC_LONG_DESC": "SHOLINGANALLUR",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "TN15 ",
+		"STATE": "TAMILNADU",
+		"RTA_LOC_NAME": "KALLAKURICHI",
+		"LOC_LONG_DESC": "KALLAKURICHI",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "TN16 ",
+		"STATE": "TAMIL NADU",
+		"RTA_LOC_NAME": "Tindivanam",
+		"LOC_LONG_DESC": "THINDIVANAM",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "TN18 ",
+		"STATE": "TAMIL NADU",
+		"RTA_LOC_NAME": "Chennai Red Hills",
+		"LOC_LONG_DESC": "Chennai Red hills",
+		"PV": "A",
+		"TW": "A"
+	},
+	{
+		"RTA_CODE": "TN19 ",
+		"STATE": "TAMIL NADU",
+		"RTA_LOC_NAME": "Chengulpat",
+		"LOC_LONG_DESC": "CHENGULPAT",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "TN20 ",
+		"STATE": "TAMIL NADU",
+		"RTA_LOC_NAME": "Thiruvallur",
+		"LOC_LONG_DESC": "THIRUVALLUR",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "TN21 ",
+		"STATE": "TAMIL NADU",
+		"RTA_LOC_NAME": "Kanchipuram",
+		"LOC_LONG_DESC": "KANCHIPURAM",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "TN22 ",
+		"STATE": "TAMIL NADU",
+		"RTA_LOC_NAME": "Meenambakkam",
+		"LOC_LONG_DESC": "MEENAMBAKKAM",
+		"PV": "A",
+		"TW": "A"
+	},
+	{
+		"RTA_CODE": "TN23 ",
+		"STATE": "TAMIL NADU",
+		"RTA_LOC_NAME": "Vellore",
+		"LOC_LONG_DESC": "VELLORE",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "TN24 ",
+		"STATE": "TAMIL NADU",
+		"RTA_LOC_NAME": "Krishnagiri",
+		"LOC_LONG_DESC": "KRISHNAGIRI",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "TN25 ",
+		"STATE": "TAMIL NADU",
+		"RTA_LOC_NAME": "Thiruvannamalai",
+		"LOC_LONG_DESC": "THIRUVANNAMALAI",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "TN27 ",
+		"STATE": "TAMIL NADU",
+		"RTA_LOC_NAME": "Salem",
+		"LOC_LONG_DESC": "SALEM",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "TN28 ",
+		"STATE": "TAMIL NADU",
+		"RTA_LOC_NAME": "Namakkal",
+		"LOC_LONG_DESC": "NAMAKKAL",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "TN29 ",
+		"STATE": "TAMIL NADU",
+		"RTA_LOC_NAME": "Dharmapuri",
+		"LOC_LONG_DESC": "DHARMAPURI",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "TN30 ",
+		"STATE": "TAMIL NADU",
+		"RTA_LOC_NAME": "SALEM TOWN",
+		"LOC_LONG_DESC": "SALEM TOWN",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "TN31 ",
+		"STATE": "TAMIL NADU",
+		"RTA_LOC_NAME": "Cuddalore",
+		"LOC_LONG_DESC": "CUDDALORE",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "TN32 ",
+		"STATE": "TAMIL NADU",
+		"RTA_LOC_NAME": "Villupuram",
+		"LOC_LONG_DESC": "VILLUPURAM",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "TN33 ",
+		"STATE": "TAMIL NADU",
+		"RTA_LOC_NAME": "Erode",
+		"LOC_LONG_DESC": "ERODE",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "TN34 ",
+		"STATE": "TAMIL NADU",
+		"RTA_LOC_NAME": "Thiruchengode",
+		"LOC_LONG_DESC": "THIRUCHENGODE",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "TN36 ",
+		"STATE": "TAMIL NADU",
+		"RTA_LOC_NAME": "Gobichettipalayam",
+		"LOC_LONG_DESC": "GOBICHETTIPALAYAM",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "TN37 ",
+		"STATE": "TAMIL NADU",
+		"RTA_LOC_NAME": "Coimbatore",
+		"LOC_LONG_DESC": "COIMBATORE SOUTH",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "TN38 ",
+		"STATE": "TAMIL NADU",
+		"RTA_LOC_NAME": "Coimbatore",
+		"LOC_LONG_DESC": "COIMBATORE NORTH",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "TN39 ",
+		"STATE": "TAMIL NADU",
+		"RTA_LOC_NAME": "Tiruppur",
+		"LOC_LONG_DESC": "TIRUPPUR NORTH",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "TN40 ",
+		"STATE": "TAMIL NADU",
+		"RTA_LOC_NAME": "Mettupalayam",
+		"LOC_LONG_DESC": "METTUPALAYAM",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "TN41 ",
+		"STATE": "TAMIL NADU",
+		"RTA_LOC_NAME": "Pollachi",
+		"LOC_LONG_DESC": "POLLACHI",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "TN42 ",
+		"STATE": "TAMIL NADU",
+		"RTA_LOC_NAME": "TIRUPPUR S",
+		"LOC_LONG_DESC": "TIRUPPUR SOUTH",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "TN43 ",
+		"STATE": "TAMIL NADU",
+		"RTA_LOC_NAME": "Uthagamandalam",
+		"LOC_LONG_DESC": "UTHAGAMANDALAM",
+		"PV": " THE NILIGIRIS",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "TN45 ",
+		"STATE": "TAMIL NADU",
+		"RTA_LOC_NAME": "Tiruchirapalli",
+		"LOC_LONG_DESC": "TIRUCHIRAPALLI",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "TN46 ",
+		"STATE": "TAMIL NADU",
+		"RTA_LOC_NAME": "Perambalur",
+		"LOC_LONG_DESC": "PERAMBALUR",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "TN47 ",
+		"STATE": "TAMIL NADU",
+		"RTA_LOC_NAME": "Karur",
+		"LOC_LONG_DESC": "KARUR",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "TN48 ",
+		"STATE": "TAMIL NADU",
+		"RTA_LOC_NAME": "Sri Rangam",
+		"LOC_LONG_DESC": "SRI RANGAM",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "TN49 ",
+		"STATE": "TAMIL NADU",
+		"RTA_LOC_NAME": "Thanjavur",
+		"LOC_LONG_DESC": "THANJAVUR",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "TN50 ",
+		"STATE": "TAMIL NADU",
+		"RTA_LOC_NAME": "Tiruvarur",
+		"LOC_LONG_DESC": "TIRUVARUR",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "TN51 ",
+		"STATE": "TAMIL NADU",
+		"RTA_LOC_NAME": "Nagapattinam",
+		"LOC_LONG_DESC": "NAGAPATTINAM",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "TN52 ",
+		"STATE": "TAMIL NADU",
+		"RTA_LOC_NAME": "Sankagiri",
+		"LOC_LONG_DESC": "SANKAGIRI",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "TN54 ",
+		"STATE": "TAMIL NADU",
+		"RTA_LOC_NAME": "SALEM EAST",
+		"LOC_LONG_DESC": "SALEM EAST",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "TN55 ",
+		"STATE": "TAMIL NADU",
+		"RTA_LOC_NAME": "Pudukottai",
+		"LOC_LONG_DESC": "PUDUKOTTAI",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "TN56 ",
+		"STATE": "TAMIL NADU",
+		"RTA_LOC_NAME": "Perundurai",
+		"LOC_LONG_DESC": "PERUNDURAI",
+		"PV": " ERODE",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "TN57 ",
+		"STATE": "TAMIL NADU",
+		"RTA_LOC_NAME": "Dindigul",
+		"LOC_LONG_DESC": "DINDIGUL",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "TN58 ",
+		"STATE": "TAMIL NADU",
+		"RTA_LOC_NAME": "MADURAI SO",
+		"LOC_LONG_DESC": "MADURAI SOUTH",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "TN59 ",
+		"STATE": "TAMIL NADU",
+		"RTA_LOC_NAME": "Madurai",
+		"LOC_LONG_DESC": "MADURAI NORTH",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "TN60 ",
+		"STATE": "TAMIL NADU",
+		"RTA_LOC_NAME": "Periyakulam",
+		"LOC_LONG_DESC": "PERIYAKULAM / THENI",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "TN61 ",
+		"STATE": "TAMIL NADU",
+		"RTA_LOC_NAME": "Ariyalur",
+		"LOC_LONG_DESC": "ARIYALUR",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "TN63 ",
+		"STATE": "TAMIL NADU",
+		"RTA_LOC_NAME": "Sivagagngai",
+		"LOC_LONG_DESC": "SIVAGAGNGAI",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "TN64 ",
+		"STATE": "TAMIL NADU",
+		"RTA_LOC_NAME": "MADURAI CENTRAL",
+		"LOC_LONG_DESC": "MADURAI CENTRAL",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "TN65 ",
+		"STATE": "TAMIL NADU",
+		"RTA_LOC_NAME": "Ramanathpura",
+		"LOC_LONG_DESC": "RAMANATHPURA",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "TN66 ",
+		"STATE": "TAMIL NADU",
+		"RTA_LOC_NAME": "Coimbatore",
+		"LOC_LONG_DESC": "COIMBATORE CENTRAL",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "TN67 ",
+		"STATE": "TAMIL NADU",
+		"RTA_LOC_NAME": "Virudhnagar",
+		"LOC_LONG_DESC": "VIRUDHNAGAR",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "TN68 ",
+		"STATE": "TAMILNADU",
+		"RTA_LOC_NAME": "KUMBAKONAM",
+		"LOC_LONG_DESC": "KUMBAKONAM",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "TN69 ",
+		"STATE": "TAMIL NADU",
+		"RTA_LOC_NAME": "Tuticorin",
+		"LOC_LONG_DESC": "TUTICORIN",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "TN70 ",
+		"STATE": "TAMIL NADU",
+		"RTA_LOC_NAME": "HOSUR",
+		"LOC_LONG_DESC": "HOSUR",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "TN72 ",
+		"STATE": "TAMIL NADU",
+		"RTA_LOC_NAME": "Tirunelveli",
+		"LOC_LONG_DESC": "TIRUNELVELI",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "TN73 ",
+		"STATE": "TAMIL NADU",
+		"RTA_LOC_NAME": "RANIPET",
+		"LOC_LONG_DESC": "RANIPET",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "TN74 ",
+		"STATE": "TAMIL NADU",
+		"RTA_LOC_NAME": "Nagercoil",
+		"LOC_LONG_DESC": "NAGERCOIL",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "TN75 ",
+		"STATE": "TAMIL NADU",
+		"RTA_LOC_NAME": "Marthandam",
+		"LOC_LONG_DESC": "MARTHANDAM",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "TN76 ",
+		"STATE": "TAMIL NADU",
+		"RTA_LOC_NAME": "Tenkasi",
+		"LOC_LONG_DESC": "TENKASI",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "TN77 ",
+		"STATE": "TAMIL NADU",
+		"RTA_LOC_NAME": "ATTUR",
+		"LOC_LONG_DESC": "ATTUR",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "TN78 ",
+		"STATE": "TAMIL NADU",
+		"RTA_LOC_NAME": "UDUMALPET",
+		"LOC_LONG_DESC": "DHARAPURAM/UDUMALPET",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "TN79 ",
+		"STATE": "TAMIL NADU",
+		"RTA_LOC_NAME": "SANKARANKOVIL",
+		"LOC_LONG_DESC": "SANKARANKOVIL",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "TN81 ",
+		"STATE": "TAMILNADU",
+		"RTA_LOC_NAME": "Tiruchirapalli East / Thiruverumbur",
+		"LOC_LONG_DESC": "TIRUCHIRAPALLI EAST / THIRUVERUMBUR",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "TN82 ",
+		"STATE": "TAMILNADU",
+		"RTA_LOC_NAME": "Mayiladuthurai / Sirkazhi",
+		"LOC_LONG_DESC": "Mayiladuthurai / Sirkazhi",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "TN83 ",
+		"STATE": "TAMILNADU",
+		"RTA_LOC_NAME": "AMBUR",
+		"LOC_LONG_DESC": "AMBUR",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "TN84 ",
+		"STATE": "TAMIL NADU",
+		"RTA_LOC_NAME": "SRIVILLIPUTHUR",
+		"LOC_LONG_DESC": "SRIVILLIPUTHUR",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "TN85 ",
+		"STATE": "TAMIL NADU",
+		"RTA_LOC_NAME": "KUNDATHUR",
+		"LOC_LONG_DESC": "KUNDATHUR",
+		"PV": "A",
+		"TW": "A"
+	},
+	{
+		"RTA_CODE": "TN86 ",
+		"STATE": "TAMILNADU",
+		"RTA_LOC_NAME": "ERODE WEST",
+		"LOC_LONG_DESC": "ERODE WEST",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "TN88 ",
+		"STATE": "TAMILNADU",
+		"RTA_LOC_NAME": "Namakkal South / Paramathi Vellore",
+		"LOC_LONG_DESC": "NAMAKKAL SOUTH / PARAMATHI VELLORE",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "TN90 ",
+		"STATE": "TAMILNADU",
+		"RTA_LOC_NAME": "SALEM SOUTH",
+		"LOC_LONG_DESC": "SALEM SOUTH",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "TN91 ",
+		"STATE": "TAMILNADU",
+		"RTA_LOC_NAME": "Chidambaram / Virudhachalam / Neyveli",
+		"LOC_LONG_DESC": "CHIDAMBARAM / VIRUDHACHALAM / NEYVELI",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "TN92 ",
+		"STATE": "TAMILNADU",
+		"RTA_LOC_NAME": "Thiruchendur",
+		"LOC_LONG_DESC": "THIRUCHENDUR",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "TN99 ",
+		"STATE": "TAMIL NADU",
+		"RTA_LOC_NAME": "Coimbatore – West",
+		"LOC_LONG_DESC": "COIMBATORE WEST",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "TR01 ",
+		"STATE": "TRIPURA",
+		"RTA_LOC_NAME": "Agartala",
+		"LOC_LONG_DESC": "AGARTALA",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "TR02 ",
+		"STATE": "TRIPURA",
+		"RTA_LOC_NAME": "Kailshahar",
+		"LOC_LONG_DESC": "KAILSHAHAR",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "TR03 ",
+		"STATE": "TRIPURA",
+		"RTA_LOC_NAME": "Udaipur",
+		"LOC_LONG_DESC": "UDAIPUR",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "TR04 ",
+		"STATE": "TRIPURA",
+		"RTA_LOC_NAME": "Dharmanagar",
+		"LOC_LONG_DESC": "DHARMANAGAR",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "TR05 ",
+		"STATE": "TRIPURA",
+		"RTA_LOC_NAME": "Ambassa",
+		"LOC_LONG_DESC": "AMBASSA",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "TS01 ",
+		"STATE": "TELANGANA",
+		"RTA_LOC_NAME": "ADILABAD",
+		"LOC_LONG_DESC": "ADILABAD",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "TS02 ",
+		"STATE": "TELANGANA",
+		"RTA_LOC_NAME": "KARIMNAGAR",
+		"LOC_LONG_DESC": "KARIMNAGAR",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "TS03 ",
+		"STATE": "TELANGANA",
+		"RTA_LOC_NAME": "WARANGAL",
+		"LOC_LONG_DESC": "WARANGAL",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "TS04 ",
+		"STATE": "TELANGANA",
+		"RTA_LOC_NAME": "KHAMMAM",
+		"LOC_LONG_DESC": "KHAMMAM",
+		"PV": "A",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "TS05 ",
+		"STATE": "TELANGANA",
+		"RTA_LOC_NAME": "NALGONDA",
+		"LOC_LONG_DESC": "NALGONDA",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "TS06 ",
+		"STATE": "TELANGANA",
+		"RTA_LOC_NAME": "MAHABOOBNAGAR",
+		"LOC_LONG_DESC": "MAHABOOBNAGAR",
+		"PV": "A",
+		"TW": "A"
+	},
+	{
+		"RTA_CODE": "TS07 ",
+		"STATE": "TELANGANA",
+		"RTA_LOC_NAME": "RANGAREDDY",
+		"LOC_LONG_DESC": "RANGAREDDY",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "TS08 ",
+		"STATE": "TELANGANA",
+		"RTA_LOC_NAME": "RANGAREDDY / Uppal Kalan / Ibrahimpatnam",
+		"LOC_LONG_DESC": "RANGAREDDY / Uppal Kalan / Ibrahimpatnam",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "TS09 ",
+		"STATE": "TELANGANA",
+		"RTA_LOC_NAME": "HYDERABAD",
+		"LOC_LONG_DESC": "HYDERABAD",
+		"PV": "A",
+		"TW": "A"
+	},
+	{
+		"RTA_CODE": "TS10 ",
+		"STATE": "TELANGANA",
+		"RTA_LOC_NAME": "SECUNDERABAD",
+		"LOC_LONG_DESC": "SECUNDERABAD",
+		"PV": "A",
+		"TW": "A"
+	},
+	{
+		"RTA_CODE": "TS11 ",
+		"STATE": "TELANGANA",
+		"RTA_LOC_NAME": "HYDERABAD",
+		"LOC_LONG_DESC": "HYDERABAD",
+		"PV": "A",
+		"TW": "A"
+	},
+	{
+		"RTA_CODE": "TS12 ",
+		"STATE": "TELANGANA",
+		"RTA_LOC_NAME": "HYDERABAD",
+		"LOC_LONG_DESC": "HYDERABAD",
+		"PV": "A",
+		"TW": "A"
+	},
+	{
+		"RTA_CODE": "TS13 ",
+		"STATE": "TELANGANA",
+		"RTA_LOC_NAME": "HYDERABAD",
+		"LOC_LONG_DESC": "HYDERABAD",
+		"PV": "A",
+		"TW": "A"
+	},
+	{
+		"RTA_CODE": "TS14 ",
+		"STATE": "TELANGANA",
+		"RTA_LOC_NAME": "HYDERABAD",
+		"LOC_LONG_DESC": "HYDERABAD",
+		"PV": "A",
+		"TW": "A"
+	},
+	{
+		"RTA_CODE": "TS15 ",
+		"STATE": "TELANGANA",
+		"RTA_LOC_NAME": "MADAK / Sangareddy / PATANCHERU / SIDDIPET",
+		"LOC_LONG_DESC": "MADAK / Sangareddy / PATANCHERU / SIDDIPET",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "TS16 ",
+		"STATE": "TELANGANA",
+		"RTA_LOC_NAME": "NIZAMABAD",
+		"LOC_LONG_DESC": "NIZAMABAD",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "UA01 ",
+		"STATE": "UTTARAKHAND",
+		"RTA_LOC_NAME": "Almora",
+		"LOC_LONG_DESC": "ALMORA",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "UA02 ",
+		"STATE": "UTTARAKHAND",
+		"RTA_LOC_NAME": "Bageshwar",
+		"LOC_LONG_DESC": "BAGESHWAR",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "UA03 ",
+		"STATE": "UTTARAKHAND",
+		"RTA_LOC_NAME": "Champawat",
+		"LOC_LONG_DESC": "CHAMPAWAT",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "UA04 ",
+		"STATE": "UTTARAKHAND",
+		"RTA_LOC_NAME": "Nanital",
+		"LOC_LONG_DESC": "NANITAL",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "UA05 ",
+		"STATE": "UTTARAKHAND",
+		"RTA_LOC_NAME": "Pithoragarh",
+		"LOC_LONG_DESC": "PITHORAGARH",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "UA06 ",
+		"STATE": "UTTARAKHAND",
+		"RTA_LOC_NAME": "Udham Singh Nagar",
+		"LOC_LONG_DESC": "UDAM SING NAGAR",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "UA07 ",
+		"STATE": "UTTARAKHAND",
+		"RTA_LOC_NAME": "Dehra Dun",
+		"LOC_LONG_DESC": "DEHRA DUN",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "UA08 ",
+		"STATE": "UTTARAKHAND",
+		"RTA_LOC_NAME": "Haridwar",
+		"LOC_LONG_DESC": "HARIDWAR",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "UA09 ",
+		"STATE": "UTTARAKHAND",
+		"RTA_LOC_NAME": "Tehri",
+		"LOC_LONG_DESC": "TEHRI",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "UA10 ",
+		"STATE": "UTTARAKHAND",
+		"RTA_LOC_NAME": "Uttarkashi",
+		"LOC_LONG_DESC": "UTTARKASHI",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "UA11 ",
+		"STATE": "UTTARAKHAND",
+		"RTA_LOC_NAME": "Chamoli",
+		"LOC_LONG_DESC": "CHAMOLI",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "UA12 ",
+		"STATE": "UTTARAKHAND",
+		"RTA_LOC_NAME": "Pauri",
+		"LOC_LONG_DESC": "PAURI",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "UA13 ",
+		"STATE": "UTTARAKHAND",
+		"RTA_LOC_NAME": "Rudraprayag",
+		"LOC_LONG_DESC": "RUDRAPRAYAG",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "UK01 ",
+		"STATE": "UTTARAKHAND",
+		"RTA_LOC_NAME": "Almora",
+		"LOC_LONG_DESC": "ALMORA",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "UK02 ",
+		"STATE": "UTTARAKHAND",
+		"RTA_LOC_NAME": "Bageshwar",
+		"LOC_LONG_DESC": "BAGESHWAR",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "UK03 ",
+		"STATE": "UTTARAKHAND",
+		"RTA_LOC_NAME": "Champawat",
+		"LOC_LONG_DESC": "CHAMPAWAT",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "UK04 ",
+		"STATE": "UTTARAKHAND",
+		"RTA_LOC_NAME": "Nanital",
+		"LOC_LONG_DESC": "NANITAL",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "UK05 ",
+		"STATE": "UTTARAKHAND",
+		"RTA_LOC_NAME": "Pithoragarh",
+		"LOC_LONG_DESC": "PITHORAGARH",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "UK06 ",
+		"STATE": "UTTARAKHAND",
+		"RTA_LOC_NAME": "UDHAM SINGH NAGAR",
+		"LOC_LONG_DESC": "UDHAM SINGH NAGAR",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "UK07 ",
+		"STATE": "UTTARAKHAND",
+		"RTA_LOC_NAME": "Dehra Dun",
+		"LOC_LONG_DESC": "DEHRA DUN",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "UK08 ",
+		"STATE": "UTTARAKHAND",
+		"RTA_LOC_NAME": "HARIDWAR",
+		"LOC_LONG_DESC": "HARIDWAR",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "UK09 ",
+		"STATE": "UTTARAKHAND",
+		"RTA_LOC_NAME": "Tehri",
+		"LOC_LONG_DESC": "TEHRI",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "UK10 ",
+		"STATE": "UTTARAKHAND",
+		"RTA_LOC_NAME": "Uttarkashi",
+		"LOC_LONG_DESC": "UTTARKASHI",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "UK11 ",
+		"STATE": "UTTARAKHAND",
+		"RTA_LOC_NAME": "Chamoli",
+		"LOC_LONG_DESC": "CHAMOLI",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "UK12 ",
+		"STATE": "UTTARAKHAND",
+		"RTA_LOC_NAME": "PAURI",
+		"LOC_LONG_DESC": "PAURI",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "UK13 ",
+		"STATE": "UTTARAKHAND",
+		"RTA_LOC_NAME": "RUDRAPRAYAG",
+		"LOC_LONG_DESC": "RUDRAPRAYAG",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "UK14 ",
+		"STATE": "UTTARAKHAND",
+		"RTA_LOC_NAME": "Rishikesh",
+		"LOC_LONG_DESC": "RISHIKESH",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "UK15 ",
+		"STATE": "UTTARAKHAND",
+		"RTA_LOC_NAME": "Kotdwar",
+		"LOC_LONG_DESC": "KOTDWAR",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "UK16 ",
+		"STATE": "UTTARAKHAND",
+		"RTA_LOC_NAME": "Vikasnagar",
+		"LOC_LONG_DESC": "VIKASNAGAR",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "UK17 ",
+		"STATE": "UTTARAKHAND",
+		"RTA_LOC_NAME": "Roorkee",
+		"LOC_LONG_DESC": "ROORKEE",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "UK18 ",
+		"STATE": "UTTARAKHAND",
+		"RTA_LOC_NAME": "Kashipur",
+		"LOC_LONG_DESC": "KASHIPUR",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "UP01 ",
+		"STATE": "UTTAR PRADESH",
+		"RTA_LOC_NAME": "ALMORA",
+		"LOC_LONG_DESC": "ALMORA",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "UP02 ",
+		"STATE": "UTTAR PRADESH",
+		"RTA_LOC_NAME": "NANITAL",
+		"LOC_LONG_DESC": "NANITAL",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "UP03 ",
+		"STATE": "UTTAR PRADESH",
+		"RTA_LOC_NAME": "PITHORAGAR",
+		"LOC_LONG_DESC": "PITHORAGARH",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "UP04 ",
+		"STATE": "UTTAR PRADESH",
+		"RTA_LOC_NAME": "UDA SIN NA",
+		"LOC_LONG_DESC": "UDAM SING NAGAR",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "UP05 ",
+		"STATE": "UTTAR PRADESH",
+		"RTA_LOC_NAME": "CHAMOLI",
+		"LOC_LONG_DESC": "CHAMOLI",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "UP06 ",
+		"STATE": "UTTAR PRADESH",
+		"RTA_LOC_NAME": "PAURI",
+		"LOC_LONG_DESC": "PAURI",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "UP07 ",
+		"STATE": "UTTAR PRADESH",
+		"RTA_LOC_NAME": "DEHRADUN",
+		"LOC_LONG_DESC": "DEHRADUN",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "UP08 ",
+		"STATE": "UTTAR PRADESH",
+		"RTA_LOC_NAME": "TEHRI",
+		"LOC_LONG_DESC": "TEHRI",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "UP09 ",
+		"STATE": "UTTAR PRADESH",
+		"RTA_LOC_NAME": "UTTARKHASH",
+		"LOC_LONG_DESC": "UTTARKHASHI",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "UP10 ",
+		"STATE": "UTTAR PRADESH",
+		"RTA_LOC_NAME": "HARIDWAR",
+		"LOC_LONG_DESC": "HARIDWAR",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "UP11 ",
+		"STATE": "UTTAR PRADESH",
+		"RTA_LOC_NAME": "Saharanpur",
+		"LOC_LONG_DESC": "SAHARAPUR",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "UP12 ",
+		"STATE": "UTTAR PRADESH",
+		"RTA_LOC_NAME": "Muzaffarnagar",
+		"LOC_LONG_DESC": "MUZAFFARNAGAR",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "UP13 ",
+		"STATE": "UTTAR PRADESH",
+		"RTA_LOC_NAME": "Bulandshahr",
+		"LOC_LONG_DESC": "BULANDSHAHR",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "UP14 ",
+		"STATE": "UTTAR PRADESH",
+		"RTA_LOC_NAME": "Ghaziabad",
+		"LOC_LONG_DESC": "GHAZIABAD",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "UP15 ",
+		"STATE": "UTTAR PRADESH",
+		"RTA_LOC_NAME": "Meerut",
+		"LOC_LONG_DESC": "MEERUT",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "UP16 ",
+		"STATE": "UTTAR PRADESH",
+		"RTA_LOC_NAME": "Noida",
+		"LOC_LONG_DESC": "NOIDA",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "UP17 ",
+		"STATE": "UTTAR PRADESH",
+		"RTA_LOC_NAME": "BAGHPAT",
+		"LOC_LONG_DESC": "BAGHPAT",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "UP18 ",
+		"STATE": "UTTAR PRADESH",
+		"RTA_LOC_NAME": "GREATER NOIDA",
+		"LOC_LONG_DESC": "GREATER NOIDA",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "UP19 ",
+		"STATE": "UTTAR PRADESH",
+		"RTA_LOC_NAME": "SHAMLI",
+		"LOC_LONG_DESC": "SHAMLI",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "UP20 ",
+		"STATE": "UTTAR PRADESH",
+		"RTA_LOC_NAME": "Bijnor",
+		"LOC_LONG_DESC": "BIJNOR",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "UP21 ",
+		"STATE": "UTTAR PRADESH",
+		"RTA_LOC_NAME": "Moradabad",
+		"LOC_LONG_DESC": "Moradabad",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "UP22 ",
+		"STATE": "UTTAR PRADESH",
+		"RTA_LOC_NAME": "Rampur",
+		"LOC_LONG_DESC": "RAMPUR",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "UP23 ",
+		"STATE": "UTTAR PRADESH",
+		"RTA_LOC_NAME": "Jyotiba Phule Nagar",
+		"LOC_LONG_DESC": "JYOTIBA PHULE NAGAR",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "UP24 ",
+		"STATE": "UTTAR PRADESH",
+		"RTA_LOC_NAME": "Badaun",
+		"LOC_LONG_DESC": "BADAUN",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "UP25 ",
+		"STATE": "UTTAR PRADESH",
+		"RTA_LOC_NAME": "Bareilly",
+		"LOC_LONG_DESC": "BAREILLY",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "UP26 ",
+		"STATE": "UTTAR PRADESH",
+		"RTA_LOC_NAME": "Pilibhit",
+		"LOC_LONG_DESC": "PILIBHIT",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "UP27 ",
+		"STATE": "UTTAR PRADESH",
+		"RTA_LOC_NAME": "Shahjahanpur",
+		"LOC_LONG_DESC": "SHAHJAHANPUR",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "UP28 ",
+		"STATE": "UTTAR PRADESH",
+		"RTA_LOC_NAME": "AYODHYA",
+		"LOC_LONG_DESC": "AYODHYA",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "UP30 ",
+		"STATE": "UTTAR PRADESH",
+		"RTA_LOC_NAME": "Hardoi",
+		"LOC_LONG_DESC": "HARDOI",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "UP31 ",
+		"STATE": "UTTAR PRADESH",
+		"RTA_LOC_NAME": "Kheri",
+		"LOC_LONG_DESC": "KHERI",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "UP32 ",
+		"STATE": "UTTAR PRADESH",
+		"RTA_LOC_NAME": "Lucknow",
+		"LOC_LONG_DESC": "LUCKNOW",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "UP33 ",
+		"STATE": "UTTAR PRADESH",
+		"RTA_LOC_NAME": "Raebarelli",
+		"LOC_LONG_DESC": "RAEBARELLI",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "UP34 ",
+		"STATE": "UTTAR PRADESH",
+		"RTA_LOC_NAME": "Sitapur",
+		"LOC_LONG_DESC": "SITAPUR",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "UP35 ",
+		"STATE": "UTTAR PRADESH",
+		"RTA_LOC_NAME": "Unnao",
+		"LOC_LONG_DESC": "UNNAO",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "UP36 ",
+		"STATE": "UTTAR PRADESH",
+		"RTA_LOC_NAME": "AMETHI",
+		"LOC_LONG_DESC": "AMETHI",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "UP37 ",
+		"STATE": "UTTAR PRADESH",
+		"RTA_LOC_NAME": "Hapur",
+		"LOC_LONG_DESC": "Hapur",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "UP38 ",
+		"STATE": "UTTAR PRADESH",
+		"RTA_LOC_NAME": "SAMBHAL",
+		"LOC_LONG_DESC": "SAMBHAL",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "UP40 ",
+		"STATE": "UTTAR PRADESH",
+		"RTA_LOC_NAME": "Bahraich",
+		"LOC_LONG_DESC": "BAHRAICH",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "UP41 ",
+		"STATE": "UTTAR PRADESH",
+		"RTA_LOC_NAME": "Barabanki",
+		"LOC_LONG_DESC": "Barabanki   ",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "UP42 ",
+		"STATE": "UTTAR PRADESH",
+		"RTA_LOC_NAME": "Faizabad",
+		"LOC_LONG_DESC": "FAIZABAD",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "UP43 ",
+		"STATE": "UTTAR PRADESH",
+		"RTA_LOC_NAME": "Gonda",
+		"LOC_LONG_DESC": "GONDA",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "UP44 ",
+		"STATE": "UTTAR PRADESH",
+		"RTA_LOC_NAME": "Sultanpur",
+		"LOC_LONG_DESC": "SULTANPUR",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "UP45 ",
+		"STATE": "UTTAR PRADESH",
+		"RTA_LOC_NAME": "Ambedkar Nagar",
+		"LOC_LONG_DESC": "AMBEDKAR NAGAR",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "UP46 ",
+		"STATE": "UTTAR PRADESH",
+		"RTA_LOC_NAME": "Shrawasti",
+		"LOC_LONG_DESC": "SHRAWASTI",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "UP47 ",
+		"STATE": "UTTAR PRADESH",
+		"RTA_LOC_NAME": "Balrampur",
+		"LOC_LONG_DESC": "BALRAMPUR",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "UP50 ",
+		"STATE": "UTTAR PRADESH",
+		"RTA_LOC_NAME": "Azamgarh",
+		"LOC_LONG_DESC": "AZAMGARH",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "UP51 ",
+		"STATE": "UTTAR PRADESH",
+		"RTA_LOC_NAME": "Basti",
+		"LOC_LONG_DESC": "BASTI",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "UP52 ",
+		"STATE": "UTTAR PRADESH",
+		"RTA_LOC_NAME": "Deoria",
+		"LOC_LONG_DESC": "DEORIA",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "UP53 ",
+		"STATE": "UTTAR PRADESH",
+		"RTA_LOC_NAME": "Gorakhpur",
+		"LOC_LONG_DESC": "GORAKHPUR",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "UP54 ",
+		"STATE": "UTTAR PRADESH",
+		"RTA_LOC_NAME": "Mau",
+		"LOC_LONG_DESC": "MAU",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "UP55 ",
+		"STATE": "UTTAR PRADESH",
+		"RTA_LOC_NAME": "Siddhart Nagar",
+		"LOC_LONG_DESC": "SIDDHART NAGAR",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "UP56 ",
+		"STATE": "UTTAR PRADESH",
+		"RTA_LOC_NAME": "Maharajganj",
+		"LOC_LONG_DESC": "MAHARAJGANJ",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "UP57 ",
+		"STATE": "UTTAR PRADESH",
+		"RTA_LOC_NAME": "Padrauna",
+		"LOC_LONG_DESC": "PADRAUNA",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "UP58 ",
+		"STATE": "UTTAR PRADESH",
+		"RTA_LOC_NAME": "Sant Kabir Nagar",
+		"LOC_LONG_DESC": "SANT KABIR NAGAR",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "UP60 ",
+		"STATE": "UTTAR PRADESH",
+		"RTA_LOC_NAME": "Ballia",
+		"LOC_LONG_DESC": "BALLIA",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "UP61 ",
+		"STATE": "UTTAR PRADESH",
+		"RTA_LOC_NAME": "Ghazipur",
+		"LOC_LONG_DESC": "GHAZIPUR",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "UP62 ",
+		"STATE": "UTTAR PRADESH",
+		"RTA_LOC_NAME": "Jaunpur",
+		"LOC_LONG_DESC": "JAUNPUR",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "UP63 ",
+		"STATE": "UTTAR PRADESH",
+		"RTA_LOC_NAME": "Mirzapur",
+		"LOC_LONG_DESC": "MIRZAPUR",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "UP64 ",
+		"STATE": "UTTAR PRADESH",
+		"RTA_LOC_NAME": "Sonbhadra",
+		"LOC_LONG_DESC": "SONBHADRA",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "UP65 ",
+		"STATE": "UTTAR PRADESH",
+		"RTA_LOC_NAME": "Varanasi",
+		"LOC_LONG_DESC": "VARANASI",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "UP66 ",
+		"STATE": "UTTAR PRADESH",
+		"RTA_LOC_NAME": "Bhadohi",
+		"LOC_LONG_DESC": "BHADOHI",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "UP67 ",
+		"STATE": "UTTAR PRADESH",
+		"RTA_LOC_NAME": "Chandauli",
+		"LOC_LONG_DESC": "CHANDAULI",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "UP70 ",
+		"STATE": "UTTAR PRADESH",
+		"RTA_LOC_NAME": "Allahabad",
+		"LOC_LONG_DESC": "ALLAHABAD",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "UP71 ",
+		"STATE": "UTTAR PRADESH",
+		"RTA_LOC_NAME": "Fatehpur",
+		"LOC_LONG_DESC": "FATEHPUR",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "UP72 ",
+		"STATE": "UTTAR PRADESH",
+		"RTA_LOC_NAME": "Pratapgarh",
+		"LOC_LONG_DESC": "PRATAPGARH",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "UP73 ",
+		"STATE": "UTTAR PRADESH",
+		"RTA_LOC_NAME": "Kaushambi",
+		"LOC_LONG_DESC": "KAUSHAMBI",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "UP74 ",
+		"STATE": "UTTAR PRADESH",
+		"RTA_LOC_NAME": "Kannauj",
+		"LOC_LONG_DESC": "KANNAUJ",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "UP75 ",
+		"STATE": "UTTAR PRADESH",
+		"RTA_LOC_NAME": "Etawah",
+		"LOC_LONG_DESC": "ETAWAH",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "UP76 ",
+		"STATE": "UTTAR PRADESH",
+		"RTA_LOC_NAME": "Farrukhabad",
+		"LOC_LONG_DESC": "FARRUKHABAD",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "UP77 ",
+		"STATE": "UTTAR PRADESH",
+		"RTA_LOC_NAME": "Kanpur",
+		"LOC_LONG_DESC": "KANPUR - RURAL",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "UP78 ",
+		"STATE": "UTTAR PRADESH",
+		"RTA_LOC_NAME": "Kanpur",
+		"LOC_LONG_DESC": "KANPUR - URBAN",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "UP79 ",
+		"STATE": "UTTAR PRADESH",
+		"RTA_LOC_NAME": "Auraiya",
+		"LOC_LONG_DESC": "AURAIYA",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "UP80 ",
+		"STATE": "UTTAR PRADESH",
+		"RTA_LOC_NAME": "Agra",
+		"LOC_LONG_DESC": "AGRA",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "UP81 ",
+		"STATE": "UTTAR PRADESH",
+		"RTA_LOC_NAME": "Aligarh",
+		"LOC_LONG_DESC": "ALIGARH",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "UP82 ",
+		"STATE": "UTTAR PRADESH",
+		"RTA_LOC_NAME": "Etah",
+		"LOC_LONG_DESC": "ETAH",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "UP83 ",
+		"STATE": "UTTAR PRADESH",
+		"RTA_LOC_NAME": "Firozabad",
+		"LOC_LONG_DESC": "FIROZABAD",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "UP84 ",
+		"STATE": "UTTAR PRADESH",
+		"RTA_LOC_NAME": "Mainpuri",
+		"LOC_LONG_DESC": "MAINPURI",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "UP85 ",
+		"STATE": "UTTAR PRADESH",
+		"RTA_LOC_NAME": "Mathura",
+		"LOC_LONG_DESC": "MATHURA",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "UP86 ",
+		"STATE": "UTTAR PRADESH",
+		"RTA_LOC_NAME": "Mahamaya Nagar",
+		"LOC_LONG_DESC": "MAHAMAYA NAGAR",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "UP87 ",
+		"STATE": "UTTAR PRADESH",
+		"RTA_LOC_NAME": "Kashi Ram Nagar",
+		"LOC_LONG_DESC": "KASHI RAM NAGAR",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "UP90 ",
+		"STATE": "UTTAR PRADESH",
+		"RTA_LOC_NAME": "Banda",
+		"LOC_LONG_DESC": "BANDA",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "UP91 ",
+		"STATE": "UTTAR PRADESH",
+		"RTA_LOC_NAME": "Hamirpur",
+		"LOC_LONG_DESC": "HAMIRPUR",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "UP92 ",
+		"STATE": "UTTAR PRADESH",
+		"RTA_LOC_NAME": "Jalaun",
+		"LOC_LONG_DESC": "JALAUN",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "UP93 ",
+		"STATE": "UTTAR PRADESH",
+		"RTA_LOC_NAME": "Jhansi",
+		"LOC_LONG_DESC": "JHANSI",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "UP94 ",
+		"STATE": "UTTAR PRADESH",
+		"RTA_LOC_NAME": "Lalitpur",
+		"LOC_LONG_DESC": "LALITPUR",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "UP95 ",
+		"STATE": "UTTAR PRADESH",
+		"RTA_LOC_NAME": "Mahoba",
+		"LOC_LONG_DESC": "MAHOBA",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "UP96 ",
+		"STATE": "UTTAR PRADESH",
+		"RTA_LOC_NAME": "Chitrakoot Dham Karwi",
+		"LOC_LONG_DESC": "CHITRAKOOT DHAM (KARWI)",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "WB01 ",
+		"STATE": "WEST BENGAL",
+		"RTA_LOC_NAME": "Kolkata",
+		"LOC_LONG_DESC": "KOLKATA (TWO - WHEELERS)",
+		"PV": "A",
+		"TW": "A"
+	},
+	{
+		"RTA_CODE": "WB02 ",
+		"STATE": "WEST BENGAL",
+		"RTA_LOC_NAME": "Kolkata",
+		"LOC_LONG_DESC": "KOLKATA (PRIVATE WEELERS)",
+		"PV": "A",
+		"TW": "A"
+	},
+	{
+		"RTA_CODE": "WB03 ",
+		"STATE": "WEST BENGAL",
+		"RTA_LOC_NAME": "Kolkata",
+		"LOC_LONG_DESC": "KOLKATA (GOODS CARRIEGS)",
+		"PV": "A",
+		"TW": "A"
+	},
+	{
+		"RTA_CODE": "WB04 ",
+		"STATE": "WEST BENGAL",
+		"RTA_LOC_NAME": "Kolkata",
+		"LOC_LONG_DESC": "KOLKATA (PASSENGER VEHICLES)",
+		"PV": "A",
+		"TW": "A"
+	},
+	{
+		"RTA_CODE": "WB05 ",
+		"STATE": "WEST BENGAL",
+		"RTA_LOC_NAME": "Kolkata",
+		"LOC_LONG_DESC": "KOLKATA (TRACTORS",
+		"PV": " TRAILERS)",
+		"TW": "A"
+	},
+	{
+		"RTA_CODE": "WB06 ",
+		"STATE": "WEST BENGAL",
+		"RTA_LOC_NAME": "Kolkata",
+		"LOC_LONG_DESC": "KOLKATA PRIVATE FOUR WHEELER",
+		"PV": "A",
+		"TW": "A"
+	},
+	{
+		"RTA_CODE": "WB07 ",
+		"STATE": "WEST BENGAL",
+		"RTA_LOC_NAME": "Kolkata",
+		"LOC_LONG_DESC": "P.V.D KOLKATA",
+		"PV": "A",
+		"TW": "A"
+	},
+	{
+		"RTA_CODE": "WB08 ",
+		"STATE": "WEST BENGAL",
+		"RTA_LOC_NAME": "Kolkata",
+		"LOC_LONG_DESC": "P.V.D SALTLAKE KOLKATA",
+		"PV": "A",
+		"TW": "A"
+	},
+	{
+		"RTA_CODE": "WB09 ",
+		"STATE": "WEST BENGAL",
+		"RTA_LOC_NAME": "KOLKATA",
+		"LOC_LONG_DESC": "KOLKATA",
+		"PV": "A",
+		"TW": "A"
+	},
+	{
+		"RTA_CODE": "WB10 ",
+		"STATE": "WEST BENGAL",
+		"RTA_LOC_NAME": "KOLKATA",
+		"LOC_LONG_DESC": "KOLKATA",
+		"PV": "A",
+		"TW": "A"
+	},
+	{
+		"RTA_CODE": "WB11 ",
+		"STATE": "WEST BENGAL",
+		"RTA_LOC_NAME": "HOWRAH (TRANSPORT VEHICLES)",
+		"LOC_LONG_DESC": "HOWRAH (TRANSPORT VEHICLES)",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "WB12 ",
+		"STATE": "WEST BENGAL",
+		"RTA_LOC_NAME": "Howrah",
+		"LOC_LONG_DESC": "HOWRAH (OTHER THAN TRANS VEHI)",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "WB13 ",
+		"STATE": "WEST BENGAL",
+		"RTA_LOC_NAME": "HOWRAH",
+		"LOC_LONG_DESC": "HOWRAH",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "WB14 ",
+		"STATE": "WEST BENGAL",
+		"RTA_LOC_NAME": "HOWRAH",
+		"LOC_LONG_DESC": "HOWRAH",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "WB15 ",
+		"STATE": "WEST BENGAL",
+		"RTA_LOC_NAME": "Hooghly",
+		"LOC_LONG_DESC": "HOOGHLY (TRANSPORT VEHICLES)",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "WB16 ",
+		"STATE": "WEST BENGAL",
+		"RTA_LOC_NAME": "Hooghly",
+		"LOC_LONG_DESC": "HOOGHLY (OTHER THAN TRAN VEHI)",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "WB18 ",
+		"STATE": "West Bengal",
+		"RTA_LOC_NAME": "Hooghly",
+		"LOC_LONG_DESC": "HOOGHLY",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "WB19 ",
+		"STATE": "WEST BENGAL",
+		"RTA_LOC_NAME": "PARGANARS",
+		"LOC_LONG_DESC": "SOUTH 24 PARGANARS(TRANSPORT)",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "WB20 ",
+		"STATE": "WEST BENGAL",
+		"RTA_LOC_NAME": "South 24 Paraganas",
+		"LOC_LONG_DESC": "SOUTH 24 PARAGANAS(NON-TRANS)",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "WB22 ",
+		"STATE": "WEST BENGAL",
+		"RTA_LOC_NAME": "South 24 Paraganas",
+		"LOC_LONG_DESC": "SOUTH 24 PARAGANAS (other than transport vehicles)",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "WB23 ",
+		"STATE": "WEST BENGAL",
+		"RTA_LOC_NAME": "Barrackpore",
+		"LOC_LONG_DESC": "BARRACKPORE (TRANSPORT VEHICLE",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "WB24 ",
+		"STATE": "WEST BENGAL",
+		"RTA_LOC_NAME": "Barrackpore",
+		"LOC_LONG_DESC": "BARRACKPORE (OTH THATRANS VEH)",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "WB25 ",
+		"STATE": "WEST BENGAL",
+		"RTA_LOC_NAME": "Barasat",
+		"LOC_LONG_DESC": "BARASAT (TRANSPORT VECHILE)",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "WB26 ",
+		"STATE": "WEST BENGAL",
+		"RTA_LOC_NAME": "Barasat",
+		"LOC_LONG_DESC": "BARASAT (OTHER THAN TRANS)",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "WB29 ",
+		"STATE": "WEST BENGAL",
+		"RTA_LOC_NAME": "TAMLOK",
+		"LOC_LONG_DESC": "TAMLOK (TRANSPORT VEHICLE)",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "WB30 ",
+		"STATE": "WEST BENGAL",
+		"RTA_LOC_NAME": "Tamluk",
+		"LOC_LONG_DESC": "TAMLUK (OTHER THAN TRANS VEHI)",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "WB31 ",
+		"STATE": "WEST BENGAL",
+		"RTA_LOC_NAME": "Contai",
+		"LOC_LONG_DESC": "CONTAI (TRANSPORT VEHICLES)",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "WB32 ",
+		"STATE": "WEST BENGAL",
+		"RTA_LOC_NAME": "Contai",
+		"LOC_LONG_DESC": "CONTAI (OTHER THAN TRANSPORT)",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "WB33 ",
+		"STATE": "WEST BENGAL",
+		"RTA_LOC_NAME": "Midnapur",
+		"LOC_LONG_DESC": "MIDNAPUR (TRANSPORT VEHICLES)",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "WB34 ",
+		"STATE": "WEST BENGAL",
+		"RTA_LOC_NAME": "Midnapur",
+		"LOC_LONG_DESC": "MIDNAPUR (OTHER THAN TRANSP)",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "WB36 ",
+		"STATE": "WEST BENGAL",
+		"RTA_LOC_NAME": "West Midnapore ",
+		"LOC_LONG_DESC": "WEST MIDNAPORE",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "WB37 ",
+		"STATE": "WEST BENGAL",
+		"RTA_LOC_NAME": "ASNSOL",
+		"LOC_LONG_DESC": "ASNSOL (TRANSPORT VEHICLES)  )",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "WB38 ",
+		"STATE": "WEST BENGAL",
+		"RTA_LOC_NAME": "Asansol",
+		"LOC_LONG_DESC": "ASANSOL (OTHER THAN TRANSPORT)",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "WB39 ",
+		"STATE": "WEST BENGAL",
+		"RTA_LOC_NAME": "Durgapur",
+		"LOC_LONG_DESC": "DURGAPUR (TRANSPORT VEHICLES)",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "WB40 ",
+		"STATE": "WEST BENGAL",
+		"RTA_LOC_NAME": "Durgapur",
+		"LOC_LONG_DESC": "DURGAPUR (OTHER THAN TRANSP)",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "WB41 ",
+		"STATE": "WEST BENGAL",
+		"RTA_LOC_NAME": "Burdwan",
+		"LOC_LONG_DESC": "BURDWAN (TRANSPORT VEHICLES)",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "WB42 ",
+		"STATE": "WEST BENGAL",
+		"RTA_LOC_NAME": "Burdwan",
+		"LOC_LONG_DESC": "BURDWAN (OTHER THAN TRANSPORT)",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "WB44 ",
+		"STATE": "WEST BENGAL",
+		"RTA_LOC_NAME": "ASANSOL",
+		"LOC_LONG_DESC": "ASANSOL",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "WB48 ",
+		"STATE": "WEST BENGAL",
+		"RTA_LOC_NAME": "BOLPUR",
+		"LOC_LONG_DESC": "BOLPUR",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "WB51 ",
+		"STATE": "WEST BENGAL",
+		"RTA_LOC_NAME": "Nadia",
+		"LOC_LONG_DESC": "NADIA (TRANSPORT VEHICLES)",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "WB52 ",
+		"STATE": "WEST BENGAL",
+		"RTA_LOC_NAME": "Nadia",
+		"LOC_LONG_DESC": "NADIA (OTHER THAN TRANSPORT)",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "WB53 ",
+		"STATE": "WEST BENGAL",
+		"RTA_LOC_NAME": "Birbhum",
+		"LOC_LONG_DESC": "BIRBHUM (TRANSPORT VEHICLES)",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "WB54 ",
+		"STATE": "WEST BENGAL",
+		"RTA_LOC_NAME": "Birbhum",
+		"LOC_LONG_DESC": "BIRBHUM (OTHER THAN TRANSPORT)",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "WB55 ",
+		"STATE": "WEST BENGAL",
+		"RTA_LOC_NAME": "Purulia",
+		"LOC_LONG_DESC": "PURULIA (VEHICLES TRANSPORT)",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "WB56 ",
+		"STATE": "WEST BENGAL",
+		"RTA_LOC_NAME": "Purulia",
+		"LOC_LONG_DESC": "PURULIA (OTHER THAN TRANSPORT)",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "WB57 ",
+		"STATE": "WEST BENGAL",
+		"RTA_LOC_NAME": "Murshidabad",
+		"LOC_LONG_DESC": "MURSHIDABAD (TRANSPORT VEHI)",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "WB58 ",
+		"STATE": "WEST BENGAL",
+		"RTA_LOC_NAME": "Murshidabad",
+		"LOC_LONG_DESC": "MURSHIDABAD (OTHER THAN TRAN)",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "WB59 ",
+		"STATE": "WEST BENGAL",
+		"RTA_LOC_NAME": "Rajganj",
+		"LOC_LONG_DESC": "RAJGANJ (TRANSPORT VEHICLES)",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "WB60 ",
+		"STATE": "WEST BENGAL",
+		"RTA_LOC_NAME": "Rajganj",
+		"LOC_LONG_DESC": "RAJGANJ (OTHER THAN TRANSPORT)",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "WB61 ",
+		"STATE": "WEST BENGAL",
+		"RTA_LOC_NAME": "Balurghat",
+		"LOC_LONG_DESC": "BALURGHAT (TRANSPORT VEHICLES)",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "WB62 ",
+		"STATE": "WEST BENGAL",
+		"RTA_LOC_NAME": "Balurghat",
+		"LOC_LONG_DESC": "BALURGHAT (OTHER THAN TRANS)",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "WB63 ",
+		"STATE": "WEST BENGAL",
+		"RTA_LOC_NAME": "COOCH BEHA",
+		"LOC_LONG_DESC": "COOCH BEHAR (TRANSPORT VEHICLE",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "WB64 ",
+		"STATE": "WEST BENGAL",
+		"RTA_LOC_NAME": "Cooch Behar",
+		"LOC_LONG_DESC": "COOCH BEHAR (OTHER THAN TRANS)",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "WB65 ",
+		"STATE": "WEST BENGAL",
+		"RTA_LOC_NAME": "Malda",
+		"LOC_LONG_DESC": "MALDA (TRANSPORT VEHICLES)",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "WB66 ",
+		"STATE": "WEST BENGAL",
+		"RTA_LOC_NAME": "Malda",
+		"LOC_LONG_DESC": "MALDA (OTHE THAN TRANSPORT )",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "WB67 ",
+		"STATE": "WEST BENGAL",
+		"RTA_LOC_NAME": "BANKURA",
+		"LOC_LONG_DESC": "BANKURA (TRANSPORT VEHICLES)",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "WB68 ",
+		"STATE": "WEST BENGAL",
+		"RTA_LOC_NAME": "Bankur",
+		"LOC_LONG_DESC": "BANKUR (OTHER THAN TRANSPORT )",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "WB69 ",
+		"STATE": "WEST BENGAL",
+		"RTA_LOC_NAME": "Alipur Duar",
+		"LOC_LONG_DESC": "ALIPUR DAWAR (TRANSPORT VEHIC)",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "WB70 ",
+		"STATE": "WEST BENGAL",
+		"RTA_LOC_NAME": "Alipur Duar",
+		"LOC_LONG_DESC": "ALIPUR DAWAR (OTHER THAN TRAP)",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "WB71 ",
+		"STATE": "WEST BENGAL",
+		"RTA_LOC_NAME": "Jalpaiguri",
+		"LOC_LONG_DESC": "JALPAIGURI (TRANSPORT VAHI)",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "WB72 ",
+		"STATE": "WEST BENGAL",
+		"RTA_LOC_NAME": "Jalpaiguri",
+		"LOC_LONG_DESC": "JALPAIGURI (OTHER THAN TRANS)",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "WB73 ",
+		"STATE": "WEST BENGAL",
+		"RTA_LOC_NAME": "Siliguri",
+		"LOC_LONG_DESC": "SILIGURI (TRANSPORT VEHICLES)",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "WB74 ",
+		"STATE": "WEST BENGAL",
+		"RTA_LOC_NAME": "Siliguri",
+		"LOC_LONG_DESC": "SILIGURI (OTHER THAN TRANSPORT",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "WB76 ",
+		"STATE": "WEST BENGAL",
+		"RTA_LOC_NAME": "Darjeeling",
+		"LOC_LONG_DESC": "DARJEELING (TRANSPORT VEHICLES",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "WB77 ",
+		"STATE": "WEST BENGAL",
+		"RTA_LOC_NAME": "Darjeeling",
+		"LOC_LONG_DESC": "DARJEELING (OTHER THAN TRANS)",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "WB78 ",
+		"STATE": "WEST BENGAL",
+		"RTA_LOC_NAME": "Kalimpong",
+		"LOC_LONG_DESC": "KALIMPONG (TRANSPORT VEHICLES)",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "WB79 ",
+		"STATE": "WEST BENGAL",
+		"RTA_LOC_NAME": "Kalimpong",
+		"LOC_LONG_DESC": "KALIMPONG (OTH THA TRANSPORT)",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "WB86 ",
+		"STATE": "WEST BENGAL",
+		"RTA_LOC_NAME": "Mathabhanga",
+		"LOC_LONG_DESC": "MATHABHANGA",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "WB90 ",
+		"STATE": "WEST BENGAL",
+		"RTA_LOC_NAME": "Kalyani",
+		"LOC_LONG_DESC": "KALYANI",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "WB91 ",
+		"STATE": "WEST BENGAL",
+		"RTA_LOC_NAME": "UTTAR DINAJPUR",
+		"LOC_LONG_DESC": "UTTAR DINAJPUR",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "WB92 ",
+		"STATE": "WEST BENGAL",
+		"RTA_LOC_NAME": "Islampur",
+		"LOC_LONG_DESC": "ISLAMPUR (OTHER THAN TRANS)",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "WB96 ",
+		"STATE": "WEST BENGAL",
+		"RTA_LOC_NAME": "BARUIPUR",
+		"LOC_LONG_DESC": "BARUIPUR",
+		"PV": "B",
+		"TW": "B"
+	},
+	{
+		"RTA_CODE": "WB98 ",
+		"STATE": "WEST BENGAL",
+		"RTA_LOC_NAME": "Diamond Harbour",
+		"LOC_LONG_DESC": "DAIMOND HARBOUR",
+		"PV": "B",
+		"TW": "B"
+	}
+]

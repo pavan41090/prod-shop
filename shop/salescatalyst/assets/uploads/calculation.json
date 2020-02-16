@@ -1,0 +1,95 @@
+<Envelope xmlns="http://schemas.xmlsoap.org/soap/envelope/">
+				<Body>
+				<serve xmlns="http://schemas.cordys.com/gateway/Provider">
+				<SessionDoc><Session>
+				<SessionData>
+				<Index>1</Index>
+				<InitTime>Fri, 07 Feb 2020 06:21:05</InitTime>
+				<UserName>havaMtr</UserName>
+				<Password>b4SQh1ZMgm6+urb/Vpd2JI88F6YiY9P/Nha/UtxxL5bI5QzYKTXcYY8XIy7FhY0lOP/B2vEePttRNGl0jh31yQ==</Password>
+				<OrderNo>NA</OrderNo>
+				<QuoteNo>NA</QuoteNo>
+				<Route>INT</Route>
+				<Contract>MTR</Contract>
+				<Channel></Channel>
+				<TransactionType>Quote</TransactionType>
+				<TransactionStatus>Fresh</TransactionStatus>
+				<ID>151073239593817142182060</ID>
+				<UserAgentID>11008704</UserAgentID>
+				<Source>81001336</Source>
+				</SessionData>
+				<Vehicle xmlns:tns="http://schemas.cordys.com/bagi/b2c/emotor/2.0">
+				<TypeOfBusiness>TR</TypeOfBusiness>
+				<AccessoryInsured>N</AccessoryInsured>
+				<AccessoryValue>0</AccessoryValue>
+				<NonElecAccessoryInsured>N</NonElecAccessoryInsured>
+				<BiFuelKit>
+				<IsBiFuelKit>N</IsBiFuelKit>
+				<BiFuelKitValue>0</BiFuelKitValue>
+				<ExternallyFitted>N</ExternallyFitted>
+				</BiFuelKit>
+				<DateOfRegistration>2012-10-05T00:00:00</DateOfRegistration>
+				<DateOfManufacture>2012-01-01T00:00:00</DateOfManufacture>
+				<RiskType>FTW</RiskType>
+				<Make>HONDA SCOOTER</Make>
+				<Model>ACTIVA</Model>
+				<FuelType>P</FuelType>
+				<Variant>I</Variant>
+				<IDV>16531</IDV>
+				<VehicleAge>8</VehicleAge>
+				<CC>109</CC>
+				<PlaceOfRegistration>Delhi West Janak Puri</PlaceOfRegistration>
+				<SeatingCapacity>2</SeatingCapacity>
+				<VehicleExtraTag01>2</VehicleExtraTag01>
+				<RegistrationNo>dl4sbb1464</RegistrationNo>
+				<ExShowroomPrice>44725</ExShowroomPrice>
+				</Vehicle>
+				<Quote xmlns:tns="http://schemas.cordys.com/bagi/b2c/emotor/2.0">
+				<ExistingPolicy>
+				<Claims>0</Claims>
+				<PolicyType>Comprehensive</PolicyType>
+				<EndDate>2020-02-07T00:00:00.000</EndDate>
+				<NCB>0</NCB>
+				</ExistingPolicy>
+				<PolicyStartDate>2020-02-09T00:00:00.000</PolicyStartDate>
+				<Deductible>0</Deductible>
+				<PAFamilySI>0</PAFamilySI>
+				<AgentNumber>0</AgentNumber>
+				<DealerId>0</DealerId>
+				<Premium>
+				<Discount />
+				</Premium>
+				<SelectedCovers>
+				<CarDamageSelected>True</CarDamageSelected>
+				<TPLiabilitySelected>True</TPLiabilitySelected>
+				<PADriverSelected>false</PADriverSelected>
+				<ZeroDepriciationSelected>False</ZeroDepriciationSelected>
+				<PAFamilyPremiumSelected>False</PAFamilyPremiumSelected>
+				</SelectedCovers>
+				<PolicyEndDate>2021-02-08T23:59:59.000</PolicyEndDate><IsExistingPA>false</IsExistingPA><PADeclaration>NO</PADeclaration></Quote>
+				<POSP xmlns:tns="http://schemas.cordys.com/bagi/b2c/emotor/2.0">
+				<PospFlag>N</PospFlag>
+				<PospName/>
+				<PospContactNo/>
+				<PanNo/>
+				<AadharNo/>
+				</POSP>
+				<Client xmlns:tns="http://schemas.cordys.com/bagi/b2c/emotor/2.0">
+				<ClientType>Individual</ClientType>
+				<CltDOB>00000000</CltDOB>
+				<FinancierDetails>
+				<IsFinanced>0</IsFinanced>
+				</FinancierDetails>
+				 <GivName>firstname-surname</GivName>
+				<SurName />
+				<ClientExtraTag01>Delhi</ClientExtraTag01>
+				<CityOfResidence>Delhi West Janak Puri</CityOfResidence>
+				<EmailID>sample@gmail.com</EmailID>
+				<MobileNo>9999999999</MobileNo>
+				<RegistrationZone>B</RegistrationZone>
+				<IsDrviningLicencePresent>Y</IsDrviningLicencePresent>
+				</Client>
+				</Session></SessionDoc>
+				</serve>
+				</Body>
+				</Envelope>
